@@ -1,6 +1,43 @@
+# Local tooling
+.claude/
+
+# IDE
 .idea
 *.iml
+.vscode/
+
+# Build directories
 out
 gen
+
+# Python
 **/__pycache__
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lesson papers - generated outputs per lesson
+# Kept: lesson.yml, lesson_template.tex, build_lesson.py
+lesson-papers/**/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]_*.tex
+lesson-papers/**/*.pdf
+
+# book_three - large generated content
 book_three/*

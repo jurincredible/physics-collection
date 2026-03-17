@@ -1,0 +1,20 @@
+title: "Füüsika valik: mehaanika"
+date: \today
+class: "142A"
+include_hints: true     # kuva vihjed?
+include_solutions: false # kuva lahendused?
+shuffle: false
+csv_path: "./olympiaad_ulesanded.csv"  # sinu viimane “master” CSV
+
+# Vali ÜLESANDED kas 1) täpsete ID-dega või 2) filtritega (võid mõlemat; ID-del on prioriteet)
+problems:
+  ids:
+    - 2015-v2g-07
+    - 2014-v3g-06
+    - 2018-v2g-07
+    - 2012-lahg-05
+    - 2012-v3g-05
+    - 2010-v3g-10
+#  filters:
+#    - { kategooria: "kinemaatika", aastad: [2012, 2024], raskus: [3, 6], max: 4 }
+#    - { kategooria: "dünaamika",   aastad: [2010, 2024], raskus: [4, 7], max: 3 }
