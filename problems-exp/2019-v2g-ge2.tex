@@ -1,0 +1,153 @@
+% Imporditud: tools/import_eksperimendid.py
+% Allikas: Eesti füüsikaolümpiaadi eksperimendi ülesannete
+%   kogu (Rael Kalda, 2023), ülesanne Ü177, lahendus L177.
+\setAuthor{Eero Uustalu}
+\setRound{piirkonnavoor}
+\setYear{2019}
+\setNumber{G E2}
+\setDifficulty{5}
+\setTopic{elektriahelad}
+\setVahendid{kaks sama tüüpi patareid, ampermeeter, reostaat kolme klemmiga, juhtmed (4tk)}
+\setPunktid{12}
+\setAllikas{Eksperimendi kogu Ü177, lahendus lk 136}
+\setLahendusseis{toores}
+
+\prob{Vooluallikas}
+Määrake võimalikult täpselt mõlema patarei sisetakistus.
+\textit{Märkus:} Ampermeetril on olemas takistus RA! Vähekasutatud patarei elektromotoorjõu võib lugeda võrdseks patarei nimipingega. Kui ühendada patarei otse ampermeetriga, siis tekkiv vool (mis on tunduvalt suurem ampermeetri nimivoolust) võib viia ampermeetri läbipõlemiseni!
+
+\hint
+
+\solu
+VARIANT 1 Patareid järjest. Koostame kolm skeemi ning mõõdame voolutugevused. Arvulised väärtused on igal patareide paaril omad, antud lahendusvariantides on kasutatud ühe konkreetse patareide paari reaalseid mõõtmistulemusi. Ühendame jadamisi kaks patareid, ampermeetri ja reostaadi. Reostaadi takistuse R seame selliselt, et ampermeetri näit I oleks lähedane maksimaalsele. Nimelt on analoogampermeetri näit on täpseim maksimumnäidu juures ja kolmest selles katsevariandis kasutatavast ühendusskeemist annab selline ühendus suurima ampermeetrit läbiva voolu. Voolu ei tohi mõõta korraga pikalt kuna see viib patarei laetuse astme muutumiseni.
+
+Seejärel ühendame reostaadi väärtust muutmata reostaadi ja ampermeetri jadaühenduse külge kummagi patarei eraldi ja mõõdame vastavad voolud $I_1$ ning $I_2$
+
+Kontrollkatses mõõdetud voolud on järgmised
+
+I = 1,86 A, $I_1$ = 0,99 A, $I_2$ = 1,005 A Patarei elektromotoorjõu loeme vatavalt ülesande tingimustele patarei küljelt E = 1,5 V Koostame võrrandisüsteemi:
+
+2E = I($r_1$ + $r_2$ + R + RA)
+
+E = $I_1$($r_1$ + R + RA)
+
+E = $I_2$($r_2$ + R + RA)
+
+Lihtsustame:
+
+2E (1) I = $r_1$ + $r_2$ + R + RA
+
+E (2) $I_1$ = $r_1$ + R + RA
+
+E (2) $I_2$ = $r_2$ + R + RA
+
+Lahutame valemist (1) valemi (2) ning valemist (1) valemi (3) ning arvutame kontrollkatse tulemustega
+
+2E E $r_1$ = $-$ = 0,120 $\Omega$ I $I_2$
+
+2E E $r_2$ = $-$ = 0,099 $\Omega$ I $I_1$
+
+VARIANT 2
+
+Patareid paralleelselt. Koostame kolm skeemi ning mõõdame voolutugevused.Arvulised
+
+väärtused on igal patareide paaril omad, antud lahendusvariantides on kasutatud ühe konkreetse patareide paari reaalseid mõõtmistulemusi.
+
+Ühendame amermeetri ja reostaadi jadaühenduse külge korraga kaks patareid pa-
+
+ralleelselt ja seame reostaadi selliselt, et näit oleks ampermeetri maksimumnäidu lähedal. Nimelt on analoogampermeetri näit on täpseim maksimumnäidu juu-
+
+res ja kolmest selles katsevariandis kasutatavast ühendusskeemist annab selline
+
+ühendus suurima ampermeetrit läbiva voolu. Mõõdame I.
+
+Seejärel ühendame kummagi patarei üksinda sama reostaadi asendi juures ampermeetri ja reostaadi jadaühenduse külge ning mõõdame $I_1$ ja $I_2$ väärtused. Voolu ei mõõda korraga pikalt kuna see viib patarei laetuse astme muutumiseni.
+
+Mõõdetud voolud on järgmised:
+
+I = 1,84 A, $I_1$ = 1,70 A, $I_2$ = 1,74 A
+
+Patarei elektromotoorjõu loeme vatavalt ülesande tingimustele patarei küljelt E =
+
+1,5 V.
+
+Koostame võrrandisüsteemi. Ühesuguse elektromotoorjõuga patareide paralleelü-
+
+hendus lihtsustub üheks patareiks elektromotoorjõuga E millega on järjestikku pa-
+
+ralleelselt ühendatud sisetakistuste paar takistusega 1 .
+
+1 + 1 $r_1$ $r_2$
+
+E = I( r1r2 + R + RA) $r_1$ + $r_2$
+
+E = $I_1$($r_1$ + R + RA)
+
+E = $I_2$($r_2$ + R + RA)
+
+Lihtsustame:
+
+E = r1r2 + R + RA (5) I $r_1$ + $r_2$
+
+E (5) $I_1$ = $r_1$ + R + RA
+
+E (6) $I_2$ = $r_2$ + R + RA
+
+Lahutades avaldisest (5) avaldise (6) saame
+
+EE $I_1$ $-$ $I_2$ = $r_1$ $-$ $r_2$ = $\Delta$r
+
+ja siit saame avaldada
+
+$r_1$ = $r_2$ + $\Delta$r (6)
+
+ning avaldisest (5)
+
+E R + RA = $I_2$ $-$ $r_2$ Asetades ülaltoodud 2 väärtust valemisse (4) saame
+
+E = ($r_2$ + $\Delta$r)$r_2$ + E $-$ $r_2$ I 2r2 + $\Delta$r $I_2$
+
+Avame sulud viime samale poole võrdusmärki ja grupeerime $r_2$ järgi
+
+r22 E $-$ E E $-$ E = 0 + $r_2$(2( I )) + $\Delta$r( )
+
+$I_1$ I $I_1$
+
+Kuna edasine ruutvõrrandi lahendamine valemi kujul läheb küllaltki tülikaks asetame ruutvõrrandisse arvutadud väärtused
+
+EE $\Delta$r = $-$ = 0,020 28 $\Omega$
+
+$I_1$ $I_2$ EE
+
+$-$ = $-$0,046 85 $\Omega$ I $I_1$
+
+saame ruutvõrrandi
+
+r22 $-$ $r_2$(0,09370) $-$ 0,00095012 = 0
+
+kust ainus positiivne lahend annab lõppvastuseks $r_2$ = 0,1029 ja avaldisest (6) $r_1$ = 0,1232
+
+HINDAMISSKEEM koostatud on 3 sobivat vooluringi kokku (1,5 p).
+
+(iga vooluring a (0,5 p). ) on mõõdetud 3 voolu piisava täpsusega kokku (3,0 p). (iga vool maksimaalselt (1,0 p). )
+
+täpsus vähemalt 0,01A a 1,0 p. täpsus vähemalt 0,05A a 0,5 p. täpsus 0,1A a 0 p. kui kahe patarei koos kasutamisel mõõdetud vool on väiksem kui emma
+
+kumma patarei eraldi kasutamisel mõõdetu siis valesti mõõdetud väärtuse eest 0 p. Suurim mõõdetud vooludest on ampermeetri maksimaalse 2A voolu lähedal kokku 2,0 p.
+
+vool üle 1,7A (2,0 p). vool üle 1,4A (1,5 p). vool üle 1,1A (1,0 p). vool üle 0,7A (0,5 p). vool alla 0,7A (0 p).
+
+Oomi seadusest tulenevalt koostatud võrrandisüsteem kokku 1,5 p. iga võrrandi eest maksimaalselt 0,5 p.
+
+vastuse tuletuskäik maksimaalselt kokku 2,0 p. kui parallelühenduses arvutus on tehtud ligikaudselt siis maksimaalselt 0,5 p.
+
+Sisetakistused leitud (kumbki vastus maksimaalselt (1,0 p). ) kokku 2,0 p. oletatud ja mõõtmistulemustega mitte põhjendatud vastuseid hinnata a (0 p).
+
+sisetakistus arutatud täpselt ja tulenevalt oma mõõtmistulemustest, siis kumbki takistus a (0,25 p).
+
+sisetakistus on õiges vahemikus 0,07 $-$ 0,25 siis kumbki takistus lisaks a (0,5 p).
+
+sisetakistuse väärtus on antud vähemalt sajandiku oomi täpsusega, siis kumbki takistus lisaks a (0,25 p)
+
+kui on eeldatud, et patareid on täiesti ühesugused siis kogu ülesande eest MAKSIMAALSELT 8 p.
+\probend

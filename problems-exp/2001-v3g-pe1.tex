@@ -1,0 +1,32 @@
+% Imporditud: tools/import_eksperimendid.py
+% Allikas: Eesti füüsikaolümpiaadi eksperimendi ülesannete
+%   kogu (Rael Kalda, 2023), ülesanne Ü42, lahendus L42.
+\setAuthor{EFO žürii}
+\setRound{lõppvoor}
+\setYear{2001}
+\setNumber{P E1}
+\setDifficulty{2}
+\setTopic{termodünaamika}
+\setVahendid{Piirituslamp, alumiiniumist anum (mass on antud), vesi, kaalud, mõõtesilinder, termomeeter, tikud}
+\setPunktid{8}
+\setAllikas{Eksperimendi kogu Ü42, lahendus lk 52}
+\setLahendusseis{toores}
+
+\prob{Piirituse põlemine}
+Määrata soojushulk, mis eraldub 1 g piirituse põlemisel. Analüüsida katset ja selle tulemusi. Vee erisoojus on cv = 4200 J/(kg$\cdot^\circ$C), alumiiniumi erisoojus cal = 880 J/(kg$\cdot^\circ$C).
+
+\hint
+
+\solu
+Lahenduse idee: Soojendada piirituslambiga teatud kogus vett. Piirituslambis piirituse (etanooli) põlemisel eralduv soojushulk (Qe) on võrdne soojushulkade summaga, mis kulutatakse vee soojendamiseks (Qv) ja anuma soojendamiseks (Qa) teatud temperatuuri võrra. Vee soojendamiseks kulub soojushulk Qv = cvmv (tv1 $-$ tv0), kus cv on vee erisoojus, mv --- soojendatava vee mass, tv0 --- vee algtemperatuur (enne soojendamist) ja tv1 --- vee lõpptemperatuur (pärast soojendamist). Anuma soojendamiseks kulunud soojushulk Qa = calma (tv1 $-$ tv0), kus cal on alumiiniumi erisoojus ja ma on anuma mass. Piirituse põlemisel eralduva soojushulga (Qe) arvutamiseks tuleb kasutada valemit: Qe = Kme, kus K on piirituse kütteväärtus (ehk 1 kg piirituse täielikul põlemisel eralduv soojushulk) ning me on piirituse mass, mis kulub ära täielikul põlemisel. Piirituse massi me saab leida, kui lahutada piirituselambi massist enne põlemist mp0 piirituselambi mass pärast põlemist mp1 : me = mp0 $-$ mp1. Võib kirjutada soojustasakaalu võrrandi: Qe = Qv + Qa ehk
+
+K (mp0 $-$ mp1) = cvmv (tv1 $-$ tv0) + calma (tv1 $-$ tv0) ,
+
+Siit: K = (tv1 $-$ tv0) (cvmv + calma) mp0 $-$ mp1
+
+Otsitakse 1 g piirituse põlemisel eralduvat soojushulka K$'$ = K/1000 :
+
+K$'$ = (tv1 $-$ tv0) (cvmv + calma) 1000 $\cdot$ (mp0 $-$ mp1)
+
+Töö käik: 1. Valada anumasse mõõtesilindriga vett ja arvutada vee mass mv. Fikseerida vee algtemperatuur tv0. Leida kaalumise teel piirituselambi algmass mp0. 2. Soojendada piirituslambiga veega täidetud anumat. 3. Mõõta vee lõpptemperatuur tv1 ja piirituselambi mass pärast põlemist mp1. 4. Arvutada K$'$ väärtus.
+\probend

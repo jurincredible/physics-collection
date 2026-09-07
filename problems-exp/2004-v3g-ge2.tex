@@ -1,0 +1,29 @@
+% Imporditud: tools/import_eksperimendid.py
+% Allikas: Eesti füüsikaolümpiaadi eksperimendi ülesannete
+%   kogu (Rael Kalda, 2023), ülesanne Ü129, lahendus L129.
+\setAuthor{EFO žürii}
+\setRound{lõppvoor}
+\setYear{2004}
+\setNumber{G E2}
+\setDifficulty{4}
+\setTopic{elektriahelad}
+\setVahendid{taskulambipirn, lapik patarei, takisti, krokodill, tester}
+\setPunktid{12}
+\setAllikas{Eksperimendi kogu Ü129, lahendus lk 100}
+\setLahendusseis{toores}
+
+\prob{Pirn}
+Taskulambipirni hõõgniidi takistus on toitepinge U astmefunktsioon R = $R_0$ + cU n, kus c ja n on konkreetset lampi iseloomustavad konstandid. Määrata antud lambi jaoks c ja n.
+\textit{Märkus:} ed: Eeldada, et voltmeetrina kasutatava testri takistus on 1 M$\Omega$; kui testrit kasutada ampermeetrina mõõtepiirkonnal 10 A, võib tema takistuse lugeda nulliks. Oommeetrina toimiva testri töövool on 1,2 mA.
+
+\hint
+
+\solu
+Ühendame jadamisi patarei, lambi ja testri kui ampermeetri ning registreerime lambi töövoolu $I_1$. Seejärel lisame samasse ahelasse takisti ning mõõdame töövoolu $I_2$. Nüüd teeme samad katsed ilma ampermeetrita, kuid mõõtes testri kui voltmeetriga pinget lambil. Saame vastavad pinge väärtused $U_1$ ja $U_2$. Kuna ampermeetri takistus ja voltmeetri juhtivus (st takistuse pöördväärtus) on tühiselt väike, siis võime eeldada, et voolutugevused on samad, mis eelmistes katsetes. Arvutame Ohmi seadusest lambi takistused mõlemal toitepingel ($R_1$ ja $R_2$). Mõõdame lambi takistuse testri kui oommeetriga. Kuna testri kui oommeetri (ülesandes antud) töövool on sadu kordi väiksem juba meile teada olevast lambi töövoolust, siis saame määrata suuruse $R_0$ (tõsi küll, suure piirveaga, kuid lõpptulemuses kajastub see vähe). Logaritmime seost R $-$ $R_0$ = cU n ja saame ln(R $-$ $R_0$) = ln c + n ln U . Saadud kahe katsepunkti alusel koostame võrrandisüsteemi:
+
+ln($R_1$ $-$ $R_0$) = ln c + n ln $U_1$, ln($R_2$ $-$ $R_0$) = ln c + n ln $U_2$. Olles lahutanud esimesest võrrandist teise, avaldame n ja c kujul
+
+n = ln($R_1$ $-$ $R_0$) $-$ ln($R_2$ $-$ $R_0$) ; c = $R_1$ $-$ $R_0$ . ln $U_1$ $-$ ln $U_2$ Un
+
+Olles teostanud mõõtmised ja arvutused, saame n $\approx$ 0,6 ning c $\approx$ 5,5 $\Omega$ V$^{-0}$,6.
+\probend

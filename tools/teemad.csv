@@ -1,0 +1,182 @@
+nr,kategooria,alamteema
+1,vedelike mehaanika,tihedus
+2,kinemaatika,keskmine kiirus
+3,vedelike mehaanika,rõhk
+4,dünaamika,elastsusjõud
+5,staatika,kang
+6,vedelike mehaanika,tihedus
+7,geomeetriline optika,murdumine
+8,vedelike mehaanika,üleslükkejõud
+9,dünaamika,elastsusjõu töö
+10,vedelike mehaanika,ujumine
+11,dünaamika,vedrupendel
+12,dünaamika,põrke energia
+13,vedelike mehaanika,tihedus
+14,vedelike mehaanika,heljumine
+15,staatika,kang
+16,vedelike mehaanika,tihedus
+17,vedelike mehaanika,ruumala ja tühimikud
+18,dünaamika,kaldpind
+19,varia,mõõtmine
+20,dünaamika,matemaatiline pendel
+21,vedelike mehaanika,üleslükkejõud
+22,vedelike mehaanika,ruumala
+23,dünaamika,elastsus
+24,varia,hinnang
+25,vedelike mehaanika,tihedus
+26,staatika,kang
+27,vedelike mehaanika,tihedus
+28,varia,hinnang
+29,vedelike mehaanika,tihedus
+30,staatika,kang
+31,vedelike mehaanika,tihedus
+32,vedelike mehaanika,tihedus
+33,termodünaamika,kalorimeetria
+34,vedelike mehaanika,tihedus
+35,termodünaamika,kütteväärtus
+36,varia,mõõtmine
+37,vedelike mehaanika,tihedus
+38,laineoptika,difraktsioon
+39,dünaamika,hõõrdetegur
+40,vedelike mehaanika,tihedus
+41,elektriahelad,voolutugevus
+42,termodünaamika,kütteväärtus
+43,dünaamika,õhutakistus
+44,vedelike mehaanika,üleslükkejõud ja töö
+45,geomeetriline optika,peegeldumine
+46,elektriahelad,eritakistus
+47,vedelike mehaanika,tihedus
+48,elektriahelad,must kast
+49,vedelike mehaanika,üleslükkejõud
+50,staatika,kang
+51,staatika,kang
+52,dünaamika,hõõrdetegur
+53,elektriahelad,mõõteriista takistus
+54,vedelike mehaanika,tihedus
+55,staatika,kang
+56,geomeetriline optika,nõguspeegel
+57,vedelike mehaanika,tihedus
+58,vedelike mehaanika,tihedus
+59,elektriahelad,takistuste ühendamine
+60,varia,ruumala
+61,termodünaamika,jahtumine
+62,elektriahelad,takistite kolmnurk
+63,staatika,rõhk
+64,vedelike mehaanika,tihedus
+65,vedelike mehaanika,U-toru
+66,dünaamika,elastsus
+67,varia,mõõtmine
+68,vedelike mehaanika,üleslükkejõud
+69,varia,mõõtmine
+70,termodünaamika,soojuskadu
+71,dünaamika,hõõrdetegur
+72,vedelike mehaanika,tihedus
+73,staatika,kang
+74,dünaamika,hõõrdetegur
+75,vedelike mehaanika,ruumala
+76,magnetism,magnetjõud
+77,dünaamika,matemaatiline pendel
+78,vedelike mehaanika,tihedus
+79,geomeetriline optika,suurendus
+80,elektriahelad,mõõteriista takistus
+81,geomeetriline optika,fookuskaugus
+82,geomeetriline optika,murdumine
+83,elektriahelad,hõõgniidi takistus
+84,elektriahelad,hõõgniidi takistus
+85,geomeetriline optika,peegeldumine
+86,geomeetriline optika,murdumisnäitaja
+87,geomeetriline optika,optiline tugevus
+88,elektriahelad,takistuste ühendamine
+89,dünaamika,hõõrdetegur
+90,geomeetriline optika,kumerpeegel
+91,vedelike mehaanika,tihedus
+92,dünaamika,niidi tugevus
+93,staatika,masskese
+94,geomeetriline optika,fookuskaugus
+95,geomeetriline optika,murdumisnäitaja
+96,varia,sagedus
+97,staatika,masskese
+98,vedelike mehaanika,tihedus
+99,vedelike mehaanika,tihedus
+100,elektriahelad,eritakistus
+101,dünaamika,niidi tugevus
+102,termodünaamika,sulamissoojus
+103,vedelike mehaanika,voolamine
+104,elektriahelad,must kast
+105,dünaamika,füüsikaline pendel
+106,vedelike mehaanika,üleslükkejõud
+107,elektriahelad,tähtühendus
+108,vedelike mehaanika,tihedus
+109,dünaamika,hõõrdetegur
+110,varia,mõõtmine
+111,geomeetriline optika,nõguslääts
+112,staatika,masskese
+113,dünaamika,põrge
+114,elektriahelad,mõõteriista takistus
+115,elektriahelad,võimsus ja sagedus
+116,termodünaamika,soojusmahtuvus
+117,dünaamika,matemaatiline pendel
+118,vedelike mehaanika,üleslükkejõud
+119,elektriahelad,hõõgniidi temperatuur
+120,geomeetriline optika,vari
+121,elektriahelad,must kast
+122,geomeetriline optika,murdumisnäitaja
+123,varia,tihedus
+124,dünaamika,painde tugevus
+125,geomeetriline optika,nõguslääts
+126,geomeetriline optika,suurendus
+127,laineoptika,difraktsioonivõre
+128,geomeetriline optika,optiline tugevus
+129,elektriahelad,hõõgniidi takistus
+130,geomeetriline optika,fookuskaugus
+131,gaasid,õhu tihedus
+132,dünaamika,hõõrdetegur
+133,elektriahelad,must kast
+134,dünaamika,hõõrdejõud
+135,elektriahelad,mõõteriista šunt
+136,elektriahelad,mõõteriista šunt
+137,elektriahelad,hõõgniidi takistus
+138,staatika,kang
+139,dünaamika,õhujoa kiirus
+140,geomeetriline optika,suurendus
+141,dünaamika,õhutakistus
+142,dünaamika,elastsuse energia
+143,dünaamika,hõõrdetegur
+144,staatika,jõumoment
+145,elektriahelad,hõõgniidi takistus
+146,geomeetriline optika,murdumisnäitaja
+147,dünaamika,hõõrdetegur
+148,geomeetriline optika,fookuskaugus
+149,vedelike mehaanika,tihedus
+150,elektriahelad,hõõgniidi temperatuur
+151,staatika,kang
+152,vedelike mehaanika,tihedus
+153,geomeetriline optika,kumerpeegel
+154,elektriahelad,must kast
+155,staatika,masskese
+156,elektriahelad,must kast
+157,dünaamika,painde tugevus
+158,dünaamika,hõõrdetegur
+159,elektriahelad,must kast
+160,elektriahelad,sisetakistus
+161,elektriahelad,must kast
+162,dünaamika,hõõrdetegur
+163,elektriahelad,eritakistus
+164,dünaamika,hõõrdetegur
+165,dünaamika,hõõrdumise soojus
+166,vedelike mehaanika,pindpinevus
+167,dünaamika,hõõrdetegur
+168,vedelike mehaanika,tihedus
+169,geomeetriline optika,täielik sisepeegeldus
+170,elektriahelad,potentsiomeeter
+171,elektriahelad,dioodi karakteristik
+172,dünaamika,hõõrdetegur
+173,staatika,jõumoment
+174,gaasid,rõhk
+175,geomeetriline optika,murdumisnäitaja
+176,elektriahelad,must kast
+177,elektriahelad,sisetakistus
+178,staatika,kang
+179,vedelike mehaanika,pindpinevus
+180,vedelike mehaanika,pindpinevus
+181,dünaamika,hõõrdetegur

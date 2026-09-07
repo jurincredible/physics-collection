@@ -1,0 +1,18 @@
+title: "Füüsika valik: eksperiment. Mõõtmise vormistus ja sirge tõus"
+date: 10.09.2026
+class: "142A"
+include_hints: false     # kuva vihjed?
+include_solutions: true # kuva lahendused?
+shuffle: false
+csv_path: "./olympiaad_ulesanded.csv"
+
+# Esimene eksperimendineljapäev. Katsevahendid tulevad andmebaasist eraldi
+# väljast ja mall laob nad ise (\Vahendid).
+#   2017-v2g-ge1  Ü117 Pendlikonstant  -- põhiülesanne, T = alpha*sqrt(l)
+#   2012-v2g-pe2  Ü20  Pendel          -- sama idee lihtsamas sõnastuses
+#   2004-v2g-ge2  Ü11  Vedrust pendel  -- T sõltuvus massist, teine laud
+problems:
+  ids:
+    - 2017-v2g-ge1
+    - 2012-v2g-pe2
+    - 2004-v2g-ge2

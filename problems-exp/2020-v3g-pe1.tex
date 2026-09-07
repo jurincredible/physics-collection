@@ -1,0 +1,46 @@
+% Imporditud: tools/import_eksperimendid.py
+% Allikas: Eesti füüsikaolümpiaadi eksperimendi ülesannete
+%   kogu (Rael Kalda, 2023), ülesanne Ü120, lahendus L120.
+\setAuthor{Kaido Reivelt}
+\setRound{lõppvoor}
+\setYear{2020}
+\setNumber{P E1}
+\setDifficulty{3}
+\setTopic{geomeetriline optika}
+\setVahendid{tükk musta paberit, valge ekraan, kaardinõel, paberiklambrid paberi ja ekraani püsti hoidmiseks, millimeeterpaber, joonlaud. Kaardinõeladega tohib paberi sisse auke teha}
+\setPunktid{10}
+\setAllikas{Eksperimendi kogu Ü120, lahendus lk 95}
+\setLahendusseis{toores}
+
+\prob{LED-lambid}
+Määrata külgmise (suure) valgusallika LED-lampide kaugus valgusallika klaasist.
+
+\hint
+
+\solu
+Katsevahendid võimaldavad ehitada camera obscura ehk nõelaaugu kaamera - kui teha kaardinõelaga musta paberisse auk, asetada augu ette taskulamp ja augu taha valge ekraan, siis tekib ekraanile LED-lambi LED'ide kujutis. Valgusallika kaugus august on võimalik konstrueerida, kui teha mustas paberis kaks auku. Sel juhul tekib ekraanile kaks LED-lambi kujutist. Teame, et mõlema tekkinud kujutise äärmised kiired lähtuvad LED-lambi servadest. Katses on otseselt vaadeldav lambi asukoht, augu asukoht, ekraani asukoht ja kujutiste asukohad. Kanname need paberile. Paberile saame kanda ka äärmised kiired (olles seda tehes hoolikas, et projektsioonid kiirte tasandist paberi tasandile oleksid tehtud täpselt). Nende kiirte pikendused LED-lambi poole ristuvad LED-lambi reaalses aukohas klaasi taga. Nii saame jooniselt välja lugeda LED-lambi kauguse lambi klaasist.
+
+Otsitavaks kauguseks saame ligikaudu 7 mm. Lahendus 2 (autor Oleg Košik). Camera obscura tekitatud kujutis on fookusvaba, st tekib suvalise LED-lambi ja ekraani kauguse korral august. See annab võimaluse määrata otsitav kaugus ka ühe augu abil:
+
+C
+
+k l
+
+d D
+
+a b
+
+Mõõdame valgusallika pikkuse k (väljalülitatud režiimis otsmiste täppide vahekau-
+
+guse), selle kujutise CD pikkuse l, ekraani ja paberi kauguse b ning ekraani ja val-
+
+gusallika klaasi kauguse d. Sarnastest kolmnurkadest leiame, et valgusallikas asub
+
+ekraanist kaugusel a = bk ning klaasist kaugusel l
+
+bk x = a $-$ d = $-$ d.
+
+l
+
+Saame, et x $\approx$ 7 mm.
+\probend

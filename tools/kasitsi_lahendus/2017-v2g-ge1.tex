@@ -1,0 +1,51 @@
+% Käsitsi ümber kirjutatud kogumiku lahendusest L117 (lk 96). Tabel ja
+% hindamisskeem on PDF-i tekstikihist loetamatud, seega on nad siin uuesti
+% laotud. Arvväärtused on kogumiku omad ja üle kontrollitud:
+% T = 20T/20 ning alpha = sqrt(tous), tous 0,0406 s^2/cm -> alpha = 0,201.
+Mõte on teha graafik \emph{sirgeks}. Sõltuvus $T = \alpha\sqrt{l}$ ei ole
+sirge, aga kui kanda teljestikku $T^2$ sõltuvana $l$-st, siis kehtib
+\[
+T^2 = \alpha^2 l
+\]
+ja tõusust saab $\alpha$ kätte. Sama hästi võib panna teljele $\sqrt{l}$ ja
+$T$. Sirge sobitamine katsepunktide vahele on palju kindlam kui ruutjuure
+kuju sobitamine.
+
+Aja määramatuse vähendamiseks tuleb mõõta korraga võimalikult palju
+perioode: alg- ja lõpphetke fikseerimise viga jaguneb siis kõigi võngete
+peale ära. Pendlile antakse väike hoog, sest suure amplituudi korral ei ole
+periood enam amplituudist sõltumatu. Pikk nöör on parem, sest siis ei mõjuta
+koormise enda inertsimoment ja massikeskme asukoha teadmatus tulemust nii
+palju. Pika nööri mõõtmiseks tehakse nöörile sõlmed või märgid, mille
+vahekaugused mõõdetakse joonlauaga ja liidetakse kokku.
+
+Kogumiku katses on viis pikkust ja iga kord mõõdetud 20 perioodi:
+
+\begin{center}
+\begin{tabular}{lccccc}
+\hline
+$l$ / cm & 50 & 60 & 70 & 80 & 90 \\
+$20T$ / s & 28,04 & 31,38 & 33,62 & 36,01 & 38,23 \\
+$T$ / s & 1,40 & 1,57 & 1,68 & 1,80 & 1,91 \\
+$T^2$ / s$^2$ & 1,97 & 2,46 & 2,83 & 3,24 & 3,65 \\
+\hline
+\end{tabular}
+\end{center}
+
+Sobitatud sirge tõus on $\SI{0,0406}{s^2/cm}$ ja kuna tõus on $\alpha^2$,
+\[
+\alpha = \sqrt{\num{0,0406}} = \SI{0,201}{s/cm^{0,5}}
+= \SI{2,01}{s/m^{0,5}}
+\]
+Teooria annab $\alpha = 2\pi/\sqrt{g} \approx \SI{2,02}{s/m^{0,5}}$, seega
+sama katse annab ka raskuskiirenduse.
+
+\textbf{Hindamisskeem} (kokku 10 p): katse kirjeldus \pp{1} (oluline on ka
+dokumenteerida, mida täpselt tehakse); mõõtmised dokumenteeritud \pp{1};
+perioodi mõõtmine vähemalt viie erineva nööri pikkusega \pp{2}, vähemalt
+kolme pikkusega \pp{1}; korraga vähemalt kümne perioodi mõõtmine \pp{2},
+vähemalt viie perioodi mõõtmine \pp{1}; korrektne graafik koos sirgega
+\pp{2}; graafikult leitud vastus ei erine teoreetilisest väärtusest rohkem
+kui \SI{10}{\percent} \pp{2}, rohkem kui \SI{20}{\percent} \pp{1}. Kui
+õpilane leiab vastuse graafikut kasutamata, anda \pp{1} juhul, kui vastus ei
+erine teooriast rohkem kui \SI{10}{\percent}.

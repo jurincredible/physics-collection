@@ -1,0 +1,35 @@
+% Imporditud: tools/import_eksperimendid.py
+% Allikas: Eesti füüsikaolümpiaadi eksperimendi ülesannete
+%   kogu (Rael Kalda, 2023), ülesanne Ü160, lahendus L160.
+\setAuthor{EFO žürii}
+\setRound{lõppvoor}
+\setYear{1997}
+\setNumber{G E2}
+\setDifficulty{5}
+\setTopic{elektriahelad}
+\setVahendid{uuritav kuivelement (1,5 V), tester, ühendusjuhtmed}
+\setPunktid{16}
+\setAllikas{Eksperimendi kogu Ü160, lahendus lk 119}
+\setLahendusseis{toores}
+
+\prob{Kuivelement}
+Esitada kaks meetodit kuivelemendi elektromotoorjõu ja sisetakistuse määramiseks testri abil. Olles eelnevalt hinnanud mõõtmistäpsust, võib vähem täpse meetodi jätta realiseerimata. Teostada eksperiment ja hinnata mõõtmisviga.
+\textit{Lisainfo:} Kasutatava testri takistus alalispinget mõõtva voltmeetrina mõõtepiirkonnal 3 V on 30 k$\Omega$. Alalisvoolu ampermeetrina mõõtepiirkonnal 3 A on testri takistus 0,3 $\Omega$, piirkonnal SI0,3A $-$ 3,0 $\Omega$, piirkonnal 30 mA $-$ 30 $\Omega$ ja piirkonnal 3 mA $-$ 290 $\Omega$. Kõik takistused on antud suhtelise piirveaga 0,1\%. Testri täpsusklass voltmeetrina piirkonnal 3 V ning ampermeetrina piirkondadel 3 A, 0,3 A ja 30 mA on 4. Piirkonnal 3 mA on täpsusklass 2,5.
+
+\hint
+
+\solu
+Lahendus, 1. meetod: Mõõdame testri kui voltmeetriga elemendi klemmipinget. Kuna elemendi sisetakistus r on voltmeetrina töötava testri takistusest Rv palju väiksem, siis võib tulemust lugeda võrdseks elemendi elektromotoorjõuga E. Seejärel ühendame testri ampermeetrina elemendi klemmide külge ja mõõdame voolutugevust I mõõtepiirkonnal, mille korral suhteline mõõtemääramatus (suhteline viga) on väikseim (osutil on suurim skaala piiridesse jääv hälve). Kuna testri kui ampermeetri takistus Ra on teada, siis arvutame Ohmi seadusest (kogu vooluringi kohta) elemendi sisetakistuse r = (E/I) $-$ Ra. Veendume selles, et algul mõõdetud klemmipinge ühtib mõõtmistäpsuse piires elektromotoorjõuga. Veahinnang: Elektromotoorjõu (klemmipinge) piirviga $\Delta$E = (4$\cdot_3$ V)/100 = 0,12 V.
+
+Voolutugevuse piirviga (näiteks mõõtepiirkonnal 3 A) $\Delta$I = (4 $\cdot$ 3A)/100 = 0,12 A. Kogutakistuse piirviga $\Delta$(E/I) = [($\Delta$E/E) + ($\Delta$I/I)] $\cdot$ (E/I). Ampermeetri takistuse piirviga $\Delta$Ra = (0,1/100)Ra. Kuivelemendi sisetakistuse piirviga $\Delta$r = $\Delta$(E/I) + $\Delta$Ra.
+
+Lahendus, 2. meetod: Ühendame testri ampermeetrina elemendi klemmide külge ja mõõdame ahelas tekkivat voolu testri kahel erineval (sobivalt valitud) mõõtepiirkonnal (nii et osuti hälbed oleksid võimalikult suured). Kuna testri takistus on eri mõõtepiirkondadel erinev ($R_1$ ja $R_2$), siis on erinevad ka voolutugevused ($I_1$ ja $I_2$). Ohmi seaduse põhjal saadud võrrandid
+
+E = I1R1 + I1r ja E = I2R2 + I2r
+
+moodustavad süsteemi, millest I1R1 $-$ I2R2 = r ($I_2$ $-$ $I_1$) ja sisetakistus avaldub kujul r = I1R1 $-$ I2R2.
+
+$I_2$ $-$ $I_1$ Teades sisetakistust, võib ükskõik kummast lähtevõrrandist leida ka elektromotoorjõu E. Veahinnang: Voolutugevuste ja takistuste piirvead leitakse niisamuti nagu 1. meetodil. Klemmipinge piirviga $\Delta$ (I1R1) = [($\Delta$$I_1$/$I_1$) + ($\Delta$$R_1$/$R_1$)] $\cdot$ ($I_1$/$R_1$). Klemmipingete vahe piirviga $\Delta$ (I1R1 $-$ I2R2) = $\Delta$ (I1R1) + $\Delta$ (I2R2). Voolutugevuste vahe piirviga $\Delta$ ($I_2$ $-$ $I_1$) = $\Delta$$I_2$ + $\Delta$$I_1$. Sisetakistuse piirviga $\Delta$r = \{[$\Delta$ (I1R1 $-$ I2R2) / (I1R1 $-$ I2R2)] + [$\Delta$ ($I_2$ $-$ $I_1$) / ($I_2$ - $I_1$)]\} $\cdot$ r. Elektromotoorjõu arvutusvalem E = $I_1$ ($R_1$ + r). Kogutakistuse piirviga $\Delta$ ($R_1$ + r) = $\Delta$$R_1$ + $\Delta$r. Elektromotoorjõu piirviga $\Delta$E = \{($\Delta$$I_1$/$I_1$) + [$\Delta$ ($R_1$ + r) / ($R_1$ + r)]\} $\cdot$ E. Loomulikult võib süsteemi lahendamisel leida ka kõigepealt elektromotoorjõu ja alles siis sisetakistuse.
+
+2. meetodi korral sisaldab arvutusvalem vahede suhet. Mingi suuruse kahe (mitte väga palju erineva) väärtuse vahe suhteline viga on aga reeglina suur. Seetõttu on üldine mõõtemääramatus teise lahendusvariandi korral palju suurem. Esimene variant annab täpsema tulemuse.
+\probend
