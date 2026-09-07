@@ -41,3 +41,6 @@ lesson-papers/**/*.pdf
 
 # book_three - large generated content
 book_three/*
+
+# Eelvaatepildid (pdftoppm), ei kuulu hoidlasse
+lesson-papers/**/lk-*.png

@@ -24,6 +24,25 @@ def s(x: object) -> str:
     return str(x).strip()
 
 
+# CSV-s on 201 ülesande puhul vihje ja lahenduse välja lõppu kaasa tulnud ka
+# lähtefaili ingliskeelne pool, mis algab tokeniga \probeng / \hinteng /
+# \solueng. Neid käske tunnikonspekti mallis ei ole, seega lahendustega
+# variant (include_solutions: true) ei kompileerunud üldse:
+# "! Undefined control sequence.  l.87 \probeng".  Lõikame eestikeelse osa
+# lõpust ära. Päris parandus kuulub CSV tekitajasse (preprocess_komplekt.py).
+ENG_TOKENS = ("\\probeng", "\\hinteng", "\\solueng")
+
+
+def cut_eng(text: str) -> str:
+    """Jäta alles ainult eestikeelne osa, kuni esimese \\...eng tokenini."""
+    cut = len(text)
+    for tok in ENG_TOKENS:
+        i = text.find(tok)
+        if i != -1:
+            cut = min(cut, i)
+    return text[:cut].rstrip()
+
+
 def load_yaml(p: Path) -> dict:
     with p.open("r", encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -75,9 +94,9 @@ def make_problem_block(row, include_hints=False, include_solutions=False):
     raskus = s(row.get("raskus"))
     pealk  = s(row.get("pealkiri"))
     kateg  = s(row.get("kategooria"))
-    stmt   = s(row.get("statement_tex"))
-    hint   = s(row.get("vihje_tex"))
-    solu   = s(row.get("lahendus_tex"))
+    stmt   = cut_eng(s(row.get("statement_tex")))
+    hint   = cut_eng(s(row.get("vihje_tex")))
+    solu   = cut_eng(s(row.get("lahendus_tex")))
 
     header = f"\\ProblemHeader{{{pid} — {pealk}}}{{{kateg}}}{{{raskus}}}\n"
     parts = [header, stmt, "\n"]

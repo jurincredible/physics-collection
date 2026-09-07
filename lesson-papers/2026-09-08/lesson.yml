@@ -1,0 +1,21 @@
+title: "Füüsika valik: väikesed nurgad ja pendlid"
+date: 08.09.2026
+class: "142A"
+include_hints: true      # kuva vihjed?
+include_solutions: false # kuva lahendused?
+shuffle: false
+csv_path: "./olympiaad_ulesanded.csv"
+
+# Kasutus (käivita hoidla juurest):
+#   python lesson-papers/build_lesson.py --config lesson-papers/2026-09-08/lesson.yml --compile
+#
+# Teema: sin(theta) ~ theta ja võnkumise äratundmine.
+#   2011-v2g-07  Pendel (r3, piirkonnavoor) -- periood ja mõõtemääramatus,
+#                sild neljapäevase eksperimendini
+#   2017-v2g-03  Pendel (r3, piirkonnavoor) -- niidi pinge, ringliikumine
+#   2018-v3g-04  Kaheosaline pendel (r5, lõppvoor) -- venitusülesanne
+problems:
+  ids:
+    - 2011-v2g-07
+    - 2017-v2g-03
+    - 2018-v3g-04
