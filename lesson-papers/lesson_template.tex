@@ -1,0 +1,119 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[estonian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% siunitx samade seadetega, mis problem-collection.sty-s (rida 76), muidu
+% laotakse arvud tunnilehel teistmoodi kui kogumikus. output-decimal-marker
+% annab ühtlasi eesti komakoha, kuigi lähtefailides on punkt.
+\usepackage[per-mode=symbol, exponent-product=cdot,
+            output-decimal-marker={,}]{siunitx}
+\sisetup{detect-all}
+\DeclareSIUnit\aasta{aasta}   % problem-collection.sty rida 77, kasutab 2022-lahg-01
+\usepackage{csquotes}         % \enquote, 48 kohta ülesannetes
+\usepackage{setspace}         % \setstretch, 2020-lahg-08
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{etoolbox}
+\usepackage{circuitikz}
+% pgfplots on vajalik, sest osa ülesannete jooniseid on pgfplots-graafikud
+% (nt 2021-v2g-08 laeb lainejuht.tex, kus on \begin{axis}). Ilma selleta
+% tuleb "Environment axis undefined".
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+% TikZ-teegid täpselt samas koosseisus, mis problem-collection.sty read 83-86.
+% Ülesannete joonised kasutavad neid kõiki ja ilma nendeta tuleb "I do not know
+% the key '/tikz/name path'" või "No shape named `a' is known".
+\usetikzlibrary{intersections}
+\usetikzlibrary{decorations.pathreplacing, positioning}
+\usetikzlibrary{arrows, patterns, patterns.meta, calc, decorations.markings,
+                math, arrows.meta, angles, quotes}
+\usetikzlibrary{decorations.pathmorphing}
+\usepackage{needspace}
+\usepackage{chngcntr}
+\usepackage{wrapfig}
+\counterwithin*{figure}{section}
+\usepackage{amsmath,amssymb,graphicx}
+% \usepackage{graphicx} % (juba ülal, võib eemaldada)
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{margin=2cm}
+
+% --- Jooniste teed (VÄLJASPOOL wrapfigure konksu!) ---
+\graphicspath{{../../problems/}{../../probs_b3/}{../../problems-exp/}%
+  {../problems/}{../probs_b3/}{../problems-exp/}{./}}
+
+% --- \input teed ---
+% Mõni ülesanne laeb joonise eraldi failist (nt 2021-v2g-08 laeb
+% lainejuht.tex). \graphicspath sellele ei mõju, seega tuleb \input-i otsingutee
+% eraldi seada, muidu tuleb "File `lainejuht.tex' not found".
+\makeatletter
+\def\input@path{{../../problems/}{../../probs_b3/}{../../problems-exp/}%
+  {../problems/}{../probs_b3/}{../problems-exp/}{./}}
+\makeatother
+
+% --- Üldised lõigu sätted ---
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+
+% --- Wrap-jooniste automaatne skaleerimine + vahed ---
+\AtBeginEnvironment{wrapfigure}{%
+  \setkeys{Gin}{width=\linewidth,height=0.3\textheight,keepaspectratio}%
+}
+\setlength{\intextsep}{6pt plus 2pt minus 2pt}
+\setlength{\columnsep}{12pt}
+
+% Üldine vaikimisi kõrguse piir kõigile \includegraphics-kutsetele:
+\setkeys{Gin}{height=0.3\textheight,keepaspectratio}
+
+\newcounter{osa}
+\newcommand{\osa}{\stepcounter{osa}\alph{osa})\ }
+
+% --- Makrod, mida ülesannete failid kasutavad ---
+% Need on defineeritud problem-collection.sty-s (kogumike ladumiseks) ja
+% book_three preambulis, aga mitte siin. Ilma nendeta lõpeb iga
+% tunnikomplekt, kuhu satub üks neist ülesannetest, veaga
+% "Undefined control sequence".
+\providecommand{\D}{\textrm{d}}
+\providecommand{\hence}{\quad\Rightarrow\quad}
+\providecommand{\idx}[1]{_{\mathrm{#1}}}
+\providecommand{\const}{\mathrm{Const}}
+% \pp{n} ja \p{n} on žürii punktijaotus lahenduses. Kogumiku veebiversioonis
+% olid nad defineeritud kui {REMOVE}, mis trükkis lahendusse sõna "REMOVE".
+% Siin on punktid alles, sest õpetajale on just see info kasulik.
+% NB: \p on TikZ-i "let \p1=(A) in" süntaksis kohalik ja seab end ise, seega
+% see definitsioon teda ei sega.
+\providecommand{\pp}[1]{\textit{(#1 p)}}
+\providecommand{\p}[1]{\textit{(#1 p)}}
+% \dv tuleb physics-paketist, mida siin laadida ei saa: ta kirjutab üle
+% siunitx-i \qty käsu. Kaks vajalikku kuju defineerime ise.
+\makeatletter
+\providecommand{\dv}{\@ifstar\zz@dvstar\zz@dvplain}
+\newcommand{\zz@dvplain}[2]{\frac{\mathrm{d}#1}{\mathrm{d}#2}}
+\newcommand{\zz@dvstar}[2]{\mathrm{d}#1/\mathrm{d}#2}
+\makeatother
+
+% --- Päis: nõua enne probleemi algust ruumi, et wrap ei jääks lehe lõppu ---
+\newcommand{\LessonTitle}[1]{\section*{#1}\vspace{-0.5em}\hrule\vspace{0.8em}}
+\newcommand{\ProblemHeader}[3]{%
+  \Needspace{12\baselineskip}% kui ei jagu, murrab uuele lehele enne probleemi
+  \setcounter{osa}{0}% iga ülesande alaosad algavad a-st, mitte eelmise jätkust
+  \textbf{[#1]} \textit{(#2, raskus #3)}\par
+}
+
+% --- Katsevahendid (ainult eksperimendiülesannetel) ---
+% Andmebaasis on vahendid eraldi väljas, mitte ülesande teksti sees, seega
+% laotakse nad siin. Nii saab neist ka vahendite koondnimekirja teha.
+\newcommand{\Vahendid}[1]{\par\smallskip\noindent\textit{Katsevahendid:} #1\par}
+
+% --- Vihje / lahendus ---
+\newenvironment{Hint}{\par\noindent\textbf{Vihje.} }{\par}
+\newenvironment{Solution}{\noindent\textbf{Lahendus.} }{\par}
+
+\begin{document}
+
+\LessonTitle{__TITLE__ \hfill __DATE__ \hfill __CLASS__}
+
+__PROBLEMS_BLOCK__
+
+\end{document}

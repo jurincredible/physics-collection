@@ -38,3 +38,9 @@ python helper-backtracer.py --source="book_one/esimene-kogumik-veeb`.tex`
 The python scripts in the project are licensed under the GNU General Public License - see the [LICENSE-GNU.md](LICENSE-GNU.md) file for details
 
 The contents of the problems, including the statements, hints, solutions in both Estonian and English are licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License - see the [LICENSE-CC.md](LICENSE-CC.md) file for details
+
+## Andmebaas ja tunnikomplektid (Tallinna Reaalkool)
+
+Vt [ANDMEBAAS.md](ANDMEBAAS.md): kuidas `olympiaad_ulesanded.csv` ehitatakse
+ülesannete `.tex` failidest, kuidas eksperimendiülesanded kogumiku PDF-ist
+sisse loetakse ja kuidas ühe kohtumise komplekt tehakse.

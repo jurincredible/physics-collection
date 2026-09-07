@@ -44,3 +44,9 @@ book_three/*
 
 # Eelvaatepildid (pdftoppm), ei kuulu hoidlasse
 lesson-papers/**/lk-*.png
+lesson-papers/**/chk-*.png
+lesson-papers/**/krop*.png
+
+# Suitsutesti kaust (build_database.py --smoke)
+lesson-papers/_smoke/
+lesson-papers/_test/

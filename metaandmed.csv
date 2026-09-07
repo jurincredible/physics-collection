@@ -1,0 +1,609 @@
+id,kategooria,alamteema,lahendusvotted
+2004-lahg-01,dünaamika,liikumine nööri abil,"Kasutage Newtoni teise seaduse võrrandite süsteemi, et leida kiirus ja kiirendus."
+2004-lahg-02,taevamehaanika,Päikese loojumine,"Kasutage geomeetrilisi suhteid ja väikeste nurkade lähendusi, et arvutada Maa raadius."
+2004-lahg-03,geomeetriline optika,valguse murdumine,"Kasutage murdumisseadust ja väikeste nurkade lähendust, et leida veetaseme kõrgus."
+2004-lahg-04,kinemaatika,auto liikumine,"Kasutage liikumise võrrandeid ja suhteid, et leida auto kujutise nihke ja teravuse seoseid."
+2004-lahg-05,vedelike mehaanika,pindpinevus,"Kasutage tasakaalu tingimust, et võrrelda rõhku büreti alumises osas ja atmosfäärirõhku, arvestades veesamba rõhku ja pindpinevuse mõju."
+2004-lahg-06,termodünaamika,aurustamine ja kondenseerumine,Kasutage energia jäävuse seadust ja graafikut küllastunud auru tiheduse leidmiseks.
+2004-lahg-07,elektrostaatika,resultantväljatugevus,"Liida individuaalsete laengute tekitatud elektriväljad vektoriaalselt, arvestades sümmeetriat."
+2004-lahg-10,staatika,pinged traadis,"Kasutame mehaanilise tasakaalu ja jõumomentide tasakaalu tingimusi, et leida pinge traadis."
+2004-v3g-01,dünaamika,tagasilöök,Kasutada impulsi jäävuse seadust ja energia jäävuse seadust.
+2004-v3g-02,dünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et leida lõppkiirus, arvestades algkiirus, kõrgus ja takistusjõud."
+2004-v3g-03,elektriahelad,kaitsmed,"Kasutage Ohmi seadust ja kaitsmete maksimaalseid vooluväärtusi, et leida koguvoolu ja kaitsmete tööpiirid."
+2004-v3g-04,dünaamika,kiirus ja hõõrdumine,"Kasutage jõudude tasakaalu ja pöördemomendi seadust, et leida kiirus ja hõõrdetegur."
+2004-v3g-05,taevamehaanika,Maa pööramine,"Kasutada geomeetrilisi ja trigonomeetrilisi meetodeid, et leida nurkade vahe ja ajavahemik."
+2004-v3g-06,termodünaamika,jää sulamine,"Kasutage jää sulamissoojuse ja energia tasakaalu seadust, et leida jää mass."
+2004-v3g-07,geomeetriline optika,laserkiire murdumine,"Kasutage Snelli seadust ja täieliku sisepeegelduse tingimusi, et leida maksimaalsed kaugused ja nurkad."
+2004-v3g-08,dünaamika,pöörlemine,"Kasutage jõudude tasakaalu ja pöörlemise seadusi, et leida nööbi B kaugus pöörlemiskeskmest ja mass."
+2004-v3g-09,geomeetriline optika,peegeldumine ja interferents,Kasutage peeglite kujutiste leidmiseks geomeetrilisi konstruktsioone ja superpositsiooni põhimõtet.
+2004-v3g-10,elektrostaatika,elektriväli ja jõud,Kasutage Coulombi seadust ja matemaatilise pendli perioodi valemit.
+2005-lahg-01,vedelike mehaanika,vedeliku tase,"Kasutage rõhu ja vedeliku taseme seoseid, et leida kõrguse muutus, arvestades ühendatud anumate pindala."
+2005-lahg-02,dünaamika,hõõrdetegur,"Kasutage energia säilitamise seadust ja jõudude tasakaalu, et leida minimaalne hõõrdetegur."
+2005-lahg-03,staatika,kuuli tasakaal,"Kasutage jõudude tasakaalu ja geomeetrilisi suhteid kolmnurgas, et leida kaldenurk, mille juures kuul kukub august välja."
+2005-lahg-04,elektrostaatika,laetud kuulikeste tasakaal,"Kasutage sümmeetria ja jõudude tasakaalu seadust, et leida niitide pinged."
+2005-lahg-05,elektrostaatika,lekkevoolu tihedus,"Kasutage Gaussi seadust, et leida lekkevoolu tihedus valitud silindrilise kontuuri kaudu."
+2005-lahg-06,dünaamika,minimaalne kiirus,Kasutage energia jäävuse seadust ja kesktõmbe kiirenduse tasakaalu.
+2005-lahg-07,dünaamika,impulsi jäävuse seadus,"Kasutage impulsi jäävuse seadust, et seostada anuma ja põrnika kiirus."
+2005-lahg-08,vedelike mehaanika,kokkusurutavus,"Kasutage kokkusurutavuse seost ja keskmise rõhu arvutamist, et leida tiheduse muutus ja sügavuste vahe."
+2005-lahg-10,geomeetriline optika,sfääriline lääts,"Kasutage õhukese läätse valemit ja väikeste nurkade lähendust, et leida fookuskaugus ja kujutise kaugus."
+2005-v2g-01,kinemaatika,möödasõit,Kasutage ühtlase kiirenduse valemit ja võrrelge sõiduauto ja veoauto läbitud vahemaid.
+2005-v2g-02,staatika,libisemine,"Kasutage tasakaaluvõrrandeid, et leida suhe lumekihi ja katuse vahel."
+2005-v2g-03,termodünaamika,soojusbilanss,"Kasutage soojusbilansi võrrandit, et leida jahutusvee keskmine temperatuur."
+2005-v2g-04,elektriahelad,takistuse arvutamine,"Kasutage Kirchhoffi seadusi ja Ohmi seadust, et tuletada takistuse avaldis mõõdetud pingete ja voolude põhjal."
+2005-v2g-05,geomeetriline optika,läätse süsteemid,"Kasutage kahte läätse, et fookused ühtida ja rakendage geomeetrilisi suhteid kiirte kimbu diameetri arvutamiseks."
+2005-v2g-06,dünaamika,aerud ja takistusjõud,"Kasutada jõumomentide tasakaalu ja jõudude tasakaalu võrrandeid, et leida keskmine kiirus ja võimsus."
+2005-v2g-07,vedelike mehaanika,veejuga,"Kasutage energia jäävuse seadust ja impulsi määratlemist, et leida veejuga jõud."
+2005-v2g-08,termodünaamika,ideaalsed soojusmasinad,Kasutage ideaalse soojusmasina efektiivsuse valemit ja energia jäävuse seadust.
+2005-v3g-01,dünaamika,vaba langemine,"Kasutage vabalt langeva taustsüsteemi ja energia jäävuse seadust, et leida maksimaalne viivitusaeg."
+2005-v3g-03,termodünaamika,siseenergia muut,"Kasutada termodünaamika I seadust, et leida siseenergia muutus, arvestades soojushulka ja välisjõudude vastu tehtud tööd."
+2005-v3g-04,elektriahelad,dioodide polaarsus,Kasutage dioodide omadusi ja koostage ekvivalentsed skeemid mõlema polaarsuse jaoks.
+2005-v3g-05,vedelike mehaanika,veejuga,"Kasutage energia jäävuse seadust või impulsi jäävuse seadust, et leida veejoa väljumiskiirus ja seeläbi tünni ning aluse kõrgused."
+2005-v3g-06,kinemaatika,laine levik,"Kasutage geomeetrilise optika seadusi, et leida laine murdumisnurk ja suunata laine levikut."
+2005-v3g-07,dünaamika,mullikeste liikumine,"Võrdle takistus- ja üleslükkejõudu, et leida mullikeste kiirus ja vahemaa nende vahel."
+2005-v3g-08,elektrostaatika,kondensaatorite jadaühendus,"Kasutage kondensaatorite kogumahtuvuse valemit ja arvutage elektrivälja tugevus, et leida osakese kiirus ja trajektoor."
+2005-v3g-09,taevamehaanika,kosmosejaama kõrgus,"Kombineeri kesktõmbekiirus ja gravitatsioonijõud, et leida kosmosejaama kõrgus maapinnast."
+2005-v3g-10,staatika,tasakaal ja jõumoment,Kasutage jõumomentide tasakaalu tingimust ja analüüsige jõudude suundi ja rakendusi.
+2006-lahg-01,gaasid,ideaalsed gaasid,"Kasutada Boyle-Mariotte’i seadust, et leida rõhk pärast pumpamiskäike."
+2006-lahg-02,elektriahelad,kondensaatorite laengud,"Kasutage kondensaatorite pingete ja laengute seoseid, et leida laengud $q_2$ ja $q_3$ pärast laadimist."
+2006-lahg-03,dünaamika,vertikaalne liikumine,"Kasutage liikumisvõrrandit ja ruutvõrrandi lahendamist, et leida algkiirus ja aeg."
+2006-lahg-04,dünaamika,ringliikumine,Kasutage Newtoni seadusi ja kesktõmbejõu valemit kivi liikumise analüüsimiseks.
+2006-lahg-05,dünaamika,masskese liikumine,"Kasutage Newtoni teise seadust ja massikeskme koordinaatide seoseid, et leida kiirus ja suund."
+2006-lahg-06,geomeetriline optika,valguse murdumine,"Kasutage murdumisseadust ja väikeste nurkade lähendust, et leida valguslaiku nihke."
+2006-lahg-07,staatika,tasakaal ja jõud,Rakenda Newtoni II seadust jõudude ja momentide tasakaalu tingimuste jaoks.
+2006-lahg-08,gaasid,niiske õhk,"Kasutage ideaalgaasi seadust ja suhtelise niiskuse definitsiooni, et leida kuiva ja niiske õhu tiheduste suhe."
+2006-lahg-09,elektrostaatika,elektrostaatiline jõud,Kasutage energia jäävuse seadust ja võrrelge potentsiaalsete energiate muutust hõõrdejõu tööga.
+2006-lahg-10,dünaamika,pidurdus,"Kasutage graafiku pindala leidmiseks, et arvutada pidurdusaeg ja pidurdusmaa."
+2006-v2g-01,kinemaatika,liikumine autode suhtes,"Kasutage suhtelise liikumise põhimõtteid ja arvutage autode arv, kasutades nende kiirus ja vahemaa."
+2006-v2g-02,termodünaamika,ringprotsess,"Kasutage $P$-$V$ graafikut, et leida tsükli aluse pindala, mis näitab gaasi tehtud tööd."
+2006-v2g-03,kinemaatika,Doppleri efekt,"Kasutage Doppleri seadust, et avaldada laeva kiirus signaalide sageduste kaudu."
+2006-v2g-04,dünaamika,kaldpind,"Kasutage kiiruskomponente ja liikumisvõrrandeid, et leida palli positsioon pärast mitmeid põrkeid."
+2006-v2g-05,gaasid,ideaalse gaasi seadus,Kasutage ideaalse gaasi olekuvõrrandit ja seostage rõhud ja temperatuurid.
+2006-v2g-06,geomeetriline optika,prisma murdumine,"Kasutage murdumisseadust ja väikeste nurkade lähendust, et leida murdumisnurgad ja pildi asukoht."
+2006-v2g-07,elektriahelad,kondensaatorite laengud,"Kasutage laengu jäävuse seadust ja kondensaatorite mahtuvust, et leida laengud pärast stabiliseerumist."
+2006-v2g-08,elektrostaatika,elektriväli ja jõud,Kasutage jõudude tasakaalu seadust ja avaldage elektriväli kondensaatori plaatide vahel.
+2006-v2g-09,vedelike mehaanika,veejuga,"Kasutage voolukiirus ja energia jäävuse seadust, et leida voolukiirus erinevates punktides ja arvutada täitmise aeg."
+2006-v2g-10,dünaamika,impulsi jäävus,"Kasutage impulsi jäävuse seadust ja arvutage hõõrdejõudude töö, et leida löökide arv, mis on vajalik vaia maasse löömiseks."
+2006-v3g-01,elektriahelad,pinged ja voolud,Kasutage Kirchhoffi seadusi pingete ja voolude analüüsimiseks jadaühendustes.
+2006-v3g-02,geomeetriline optika,nõguspeegel,"Kasutage kiirte peegeldumise seadust ja konstruktsiooni, et leida fookus ja eseme kujutis."
+2006-v3g-03,dünaamika,kummipaela energia,"Kasutage energia jäävuse seadust ja kivi liikumise analüüsi, et leida vajalikud kaugused ja jõud."
+2006-v3g-04,vedelike mehaanika,Bernoulli seadus,Kasutage Bernoulli seadust ja mehaanilise energia jäävuse põhimõtet.
+2006-v3g-05,dünaamika,peegeldustegur,"Kasutage pöördvõrdelisuse seadust valgustatuse ja säriaja vahel, et leida Kuu pinna keskmine peegeldustegur."
+2006-v3g-06,elektrostaatika,elektronkahur,"Kasutage impulsi jäävuse seadust ja elektroni kineetilise energia valemit, et leida vajalik tõstejõud."
+2006-v3g-07,termodünaamika,soojusvahetus,"Kasutage graafiku puutuja tõusu muutumist, et leida tasakaalutemperatuur, kus soojuskadude võimsus võrdub soojapuhuri võimsusega."
+2006-v3g-08,termodünaamika,soojuskiirgus,"Kasutage Stefan-Boltzmanni seadust soojusvoo arvutamiseks ja analüüsige kiirgusvõimet, et leida soojusvoo vähenemine ekraani lisamisel."
+2006-v3g-09,geomeetriline optika,valguse intensiivsus,"Kasutage peeglite fookuskauguste seoseid ja paralleelse kiirtekimbu omadusi, et analüüsida valguse käitumist süsteemis."
+2006-v3g-10,dünaamika,kuulide liikumine,Rakenda Newtoni II seadust ja analüüsi süsteemi liikumist šarniirse ühenduspunktiga seotud taustsüsteemis.
+2007-lahg-01,dünaamika,elastne kokkupõrge,"Kasutage impulsi ja energia jäävuse seadusi, et analüüsida pallide liikumist ja kokkupõrget."
+2007-lahg-02,staatika,jõudude tasakaal,Kasutada Newtoni seadusi ja jõumomentide tasakaalu.
+2007-lahg-03,gaasid,ideaalse gaasi seadus,"Kasutage ideaalse gaasi olekuvõrrandit, et leida seos algse ja pärastise õhu ruumala vahel."
+2007-lahg-04,geomeetriline optika,murdumisnäitaja,"Kasutage Snelli seadust ja täisnurksete kolmnurkade omadusi, et leida murdumistegur."
+2007-lahg-05,kinemaatika,paraboolne trajektoor,"Kasutage paraboolse liikumise võrrandeid, et leida minimaalne kiirus hüppe sooritamiseks."
+2007-lahg-06,dünaamika,impulsi jäävus,Kasutage impulsi jäävuse seadust ja mehaanilise energia jäävuse põhimõtteid.
+2007-lahg-07,elektrostaatika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et seostada gravitatsiooniline ja elektriline potentsiaalne energia."
+2007-lahg-08,termodünaamika,soojuslik tasakaal,"Kasuta soojuslikku tasakaalu, et seostada spiraali eralduv võimsus ja keskkonna soojushulk."
+2007-lahg-09,geomeetriline optika,läätsed ja suurendustegurid,"Kasutage läätse valemit ja suurendustegureid, et seostada pliiatsi otste kaugused ja nende kujutiste omadused."
+2007-lahg-10,magnetism,induktsioon,"Kasutage Faraday seadust ja jõumomendi tasakaalu, et leida silindri pöörlemise nurkkiirus."
+2007-v2g-01,dünaamika,vaba langemine,"Kasutage vaba langemise valemit, et leida langemise aeg ja seejärel arvutage horisontaalne kaugus."
+2007-v2g-02,kinemaatika,liikumise analüüs,"Kasutage liikumise võrrandeid, et leida autode kiirus ja aeg teel A ja C."
+2007-v2g-03,termodünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et seostada segude temperatuure ja ruumalade suhteid."
+2007-v2g-04,gaasid,õhurõhk ja hõljumine,Kasutage ideaalse gaasi olekuvõrrandit ja rõhu muutust sügavuse funktsioonina.
+2007-v2g-05,gaasid,tuuleenergia,"Kasutage kineetilise energia ja võimsuse valemeid, et leida tuuliku elektriline võimsus."
+2007-v2g-06,geomeetriline optika,varjud,"Kasutage puutujate ja nurkade poolitajate konstruktsioone, et leida valgusallika lõikejoon."
+2007-v2g-07,elektriahelad,takistite valmistamine,"Kasutage takistuse valemit ja temperatuurikoefitsiente, et leida vajalikud traadi ja pulga pikkused."
+2007-v2g-08,elektriahelad,kondensaatorite ühendamine,Kasutage mahtuvuste jada- ja rööpühenduse reegleid ning lahendage saadud ruutvõrrand.
+2007-v2g-09,staatika,jõumomentide tasakaal,Rakenda jõumomentide tasakaalu ja arvuta maksimaalne toetav moment.
+2007-v2g-10,taevamehaanika,gravitatsiooniline kõverus,"Kasutage geomeetrilisi suhteid ja väikeste nurkade lähendust, et leida tähe kujutise nurkläbimõõt."
+2007-v3g-01,termodünaamika,soojusvõimsus,"Kasutage Ohmi seadust ja soojusvõimsuse valemit, et leida suhe P_H ja P_V vahel."
+2007-v3g-02,taevamehaanika,Kepleri seadused,"Kasutage Kepleri seadust ja trigonometrilisi suhteid, et leida orbitaalraadiuste suhe ja tiirlemisperioodide vahe."
+2007-v3g-03,geomeetriline optika,kiilukujuline plaat,Kasutage Snelli seadust ja geomeetrilisi suhteid kiilu puhul.
+2007-v3g-04,dünaamika,kineetiline energia,Kasutage kineetilise energia valemit ja mehaanilise pinge tasakaalu analüüsi.
+2007-v3g-05,kinemaatika,optimaalne liikumine,"Kasutage voolukiirus(t) ja laeva kiirus(t) seoseid, et leida stardi- ja finišihetke kiirus(t) võrdsuse tingimus."
+2007-v3g-06,gaasid,ideaalgaasid ja soojusülekanne,"Kasutage ideaalgaaside seadust ja soojusmahtuvuse valemeid, et leida temperatuuri muutused ja rõhud."
+2007-v3g-07,termodünaamika,soojusvahetus,"Kasutage graafilist konstrueerimist, et leida tasakaalulise temperatuuri punktid, järgides soojusvahetuse võrdelisust."
+2007-v3g-08,geomeetriline optika,täielik sisepeegeldumine,Uuri jooniselt sisepeegeldumise piirjuhtu ja kasuta geomeetrilisi suhteid raadiuste vahel.
+2007-v3g-09,geomeetriline optika,kumerpeegel,"Kasutage optilise telje ja fokaaltasandi konstruktsiooni, et leida kõverustsenter ja näiv kujutis."
+2007-v3g-10,magnetism,traadi kuju ja pinge,Kasutage jõudude tasakaalu tingimust ja geomeetrilisi seoseid kaare raadiuse leidmiseks.
+2008-lahg-01,kinemaatika,ühtlane kiirendus,Kasutada võrrandeid ühtlaselt kiireneva liikumise jaoks.
+2008-lahg-02,dünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et seostada potentsiaalne energia ja hõõrdejõu ületamiseks vajalik töö."
+2008-lahg-03,dünaamika,õhuvool,Kasutage massi jäävuse seadust ja vooluhulga võrdlemist rongi ja tunneli vahel.
+2008-lahg-04,elektriahelad,Kirchhoffi seadused,Rakenda Kirchhoffi seadusi vooluringi analüüsimiseks.
+2008-lahg-05,dünaamika,energia jäävuse seadus,Kasutage energia jäävuse seadust ja leidke kiiruskomponendi maksimumi tingimus.
+2008-lahg-06,gaasid,ideaalsed gaasid,"Kasutage termodünaamika I seadust ja ideaalse gaasi seadust, et leida temperatuurimuutus."
+2008-lahg-07,elektrostaatika,elektronide kiirus,"Kasutage Newtoni seadusi ja kinemaatika valemeid, et leida elektronide algkiirus plaatide vahel."
+2008-lahg-08,laineoptika,peegeldus ja faas,"Kasutada peegeldumise tingimusi ja optiliste teede pikkuse erinevust, et leida kile paksus."
+2008-lahg-09,geomeetriline optika,horisont ja mõõtmine,"Kasutage joonise mõõtmisproportsioone, et leida poi diameeter, arvestades fotoaparaadi kõrgust ja horisondi asukohta."
+2008-lahg-10,termodünaamika,soojuslik tasakaal,"Kasutage graafilist meetodit, et leida erijuhtivuse ja temperatuuride vahe lõikepunkt."
+2008-v2g-01,staatika,jõumomentide tasakaal,Kasutada jõumomentide tasakaalu tingimust.
+2008-v2g-02,kinemaatika,autode liikumine,Kasutage suhtelise kiirusvektori leidmiseks vektorite vahet ja määrake trajektoor teise auto suhtes.
+2008-v2g-03,termodünaamika,hõõrdumine,"Kasutage hõõrdejõu ja läbitud tee pikkuse korrutist, et leida soojusenergia vabanemine."
+2008-v2g-04,termodünaamika,rõhu muutumine,Kasutage ideaalgaasi seadust ja isohorilist protsessi rõhu ja temperatuuri seose leidmiseks.
+2008-v2g-05,termodünaamika,soojusülekanne,"Kasutada soojushulga ja vee soojusmahtuvuse seoseid, et leida temperatuuri muutus."
+2008-v2g-06,dünaamika,impulsi jäävus,Kasutage impulsi jäävuse seadust ja tükikeste trajektooride analüüsi kiirus- ja kaugussuhete leidmiseks.
+2008-v2g-07,elektrostaatika,superpositsiooniprintsiip,"Kasutage superpositsiooniprintsiipi, et leida välja tugevus kuubi keskpunktis, arvestades auguga kuubi ja negatiivse laenguga ruudu mõju."
+2008-v2g-08,elektriahelad,takistite valik,"Kasutage Kirchhoffi seadusi, et koostada võrrandite süsteem takistite väärtuste leidmiseks."
+2008-v2g-09,dünaamika,plokkide liikumine,Rakenda Newtoni II seadust ja analüüsi niidi venimatuse tingimust.
+2008-v2g-10,geomeetriline optika,murdumine,"Rakenda Snelli seadust ja väikeste nurkade lähendust, et leida kärbse pea tegelik sügavus."
+2008-v3g-01,dünaamika,kineetiline energia,"Kasutage energia muundumise seadust, et leida kineetiline energia maksimaalses kõrguses."
+2008-v3g-02,dünaamika,põrked ja energia,"Kasutage geomeetrilist jada, et leida iga põrke vahelise aja summa potentsiaalse energia kaudu."
+2008-v3g-03,gaasid,kineetiline energia,Kasutage ideaalgaasi seadust ja keskmise kineetilise energia valemit.
+2008-v3g-04,staatika,sümmeetria,"Kasutage sümmeetriat ja proportsioone, et leida maja kõrgus merepinnast."
+2008-v3g-05,geomeetriline optika,valguse heledus vees,"Kasutage nurkade seoseid ja heleduste suhte arvutamiseks, arvestades peegeldumist ja murdumisnäitajat."
+2008-v3g-06,termodünaamika,pindpinevus,Kasutage mullide lisarõhu arvutamiseks pindpinevuse valemit $P = \frac{2\sigma}{r}$.
+2008-v3g-07,elektriahelad,takistus,Leidke traadi lühikeste juppide takistused ja summeerige need kogu traadi ulatuses.
+2008-v3g-08,vedelike mehaanika,vedeliku võnkesagedus,"Kasutage vedrupendli analoogiat, et leida vedeliku võnkesagedus, arvestades toru nurkade mõju."
+2008-v3g-09,staatika,stabiilsus,"Kasutage jõudude ja jõumomentide tasakaalu tingimusi, et leida varda pikkus."
+2008-v3g-10,magnetism,solenoidi magnetväli,"Kasutage magnetvälja energia valemit ja töö definitsiooni, et leida vajalik jõud."
+2009-lahg-01,kinemaatika,keskmine kiirus,"Kasutage kiirus, kaugus ja aeg seoseid, et leida kolmanda ratturi keskmine kiirus."
+2009-lahg-02,geomeetriline optika,läätse fookuskaugus,Kasutage sarnaseid kolmnurki ja läätse valemit.
+2009-lahg-03,elektriahelad,takistuse muutumine,Kasutage Ohmi seadust ja analüüsige voolu ja pinget erinevates režiimides.
+2009-lahg-04,elektrostaatika,potentsiaalne energia,Rakenda energia jäävuse seadust ja arvuta potentsiaalne energia rõnga poolt tekitatud elektriväljas.
+2009-lahg-05,taevamehaanika,ringorbiit,"Kasutage gravitatsioonijõu ja tsentrifugaaljõu tasakaalu, et leida geostatsionaarse orbiidi raadius ja satelliidi kiirus."
+2009-lahg-06,vedelike mehaanika,toru deformatsioon,Kasutage Hooke'i seadust ja analüüsige kaarekujulise toru osa jõudude tasakaalu.
+2009-lahg-07,gaasid,rõhumuutused,"Kasutage ideaalgaasi seadust ja rõhumuutuste analüüsi, et leida rõhk väiksemas anumas temperatuurimuutuse korral."
+2009-lahg-08,geomeetriline optika,kapillaartoru,"Kasutage murdumisseadust ja analüüsige geomeetrilisi suhteid kolmnurgas, et leida tingimused $r$, $R$ ja $n$."
+2009-lahg-09,staatika,hõõrdumine,"Kasutage jõumomentide tasakaalu tingimust, et leida kriitiline masside suhe, mille korral kuul A hakkab libisema."
+2009-lahg-10,kinemaatika,helifrondi levimine,"Uurige helifrondi levimist õhu taustsüsteemis, arvestades frondi pindala ja helivõimsuse jaotumist."
+2009-v2g-01,taevamehaanika,gravitatsioon ja kesktõmbekiirus,"Kasutage Newtoni II seadust ja gravitatsioonijõu tasakaalu, et leida asteroidi raadius."
+2009-v2g-02,dünaamika,impulsi jäävus,Kasutage impulsi jäävuse seadust ja analüüsige osade liikumist pärast lagunemist.
+2009-v2g-03,termodünaamika,soojuslik tasakaal,Kirjuta soojusliku tasakaalu võrrandid ja lahenda need erisoojus $c_x$ leidmiseks.
+2009-v2g-04,elektriahelad,takistid ja pinge,Kasutage Ohmi seadust ja pingelangude analüüsi takistitel.
+2009-v2g-05,dünaamika,kasutegur,Kasutage jõu ja kiirusest saadud võimsuse suhteid mootori ja auto liikumise vahel.
+2009-v2g-06,elektrostaatika,liikuv laeng,"Kasutage impulsi ja kiirusvõrrandeid, et leida osakese trajektoor ja keskmine kiirus."
+2009-v2g-07,geomeetriline optika,sisepeegeldus,"Kasutage murdumisseadust ja sisepeegeldumise kriitilist nurka, et leida klaasi murdumisnäitaja."
+2009-v2g-08,geomeetriline optika,peegeldus ja peegelduse peegelduse leidmine,"Kasutage sümmeetriat ja peegelduste omadusi, et leida peeglite ja valgusallika asukohad."
+2009-v2g-09,gaasid,korstna tõmme,Kasutage Bernoulli võrrandit rõhu ja kiirusvahe seose leidmiseks.
+2009-v2g-10,taevamehaanika,kaabli pinge,Kasutage gravitatsioonijõudude tasakaalu ja kaabli pinge arvutamiseks.
+2009-v3g-01,staatika,hõõrdetegur,"Kasutage geomeetriat ja tasakaalu seadusi, et leida hõõrdetegur nurga kaudu."
+2009-v3g-02,staatika,nööri pinge,Kasutada Newtoni II seadust ja analüüsida jõude x- ja y-teljel.
+2009-v3g-03,elektriahelad,kondensaatorite tasakaal,Kasutage laengu jäävuse seadust ja pingete võrdsust kondensaatorite vahel.
+2009-v3g-04,gaasid,temperatuuri tõus,"Kasutage ideaalse gaasi olekuvõrrandit ja soojushulkade võrdlemist, et leida õhu temperatuurimuutus."
+2009-v3g-05,kinemaatika,keskmine kiirus,"Kasutage keskmise kiirusena ja aja seoseid, et leida peatusaeg kahe kiirusperioodi vahel."
+2009-v3g-06,termodünaamika,soojusvahetus,Kasutada soojusliku tasakaalu tingimust ja arvutada soojuskaod ning sissetuleva õhu soojendamise mõju.
+2009-v3g-07,geomeetriline optika,konfokaalne mikroskoop,Kasutage kiirte käikude joonistamist ja sarnaste kolmnurkade omadusi.
+2009-v3g-08,kinemaatika,paadi liikumine,"Kasutage kiiruste kolmnurka ja trigonomeetrilisi suhteid, et leida jõe voolukiirus ja vee sügavus."
+2009-v3g-09,elektrostaatika,kosmoseprügi mõju,"Kasutage energia jäävuse seadust ja massikeskme liikumiskiirus, et leida kuulide minimaalne kaugus."
+2009-v3g-10,laineoptika,interferents,Kasutage interferentsi tingimusi ja optiliste teepikkuste vahe arvutamist.
+2010-lahg-01,dünaamika,inertsimoment,"Võrdle kerade veeremiskiirus ja pöörlemisega seotud kineetiline energia, et eristada kerade sisemust."
+2010-lahg-02,termodünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et seostada raua jahtumise ja vee soojendamise ning aurustumise energiad."
+2010-lahg-03,dünaamika,veerev silinder,"Kasutage jõudude tasakaalu ja energia jäävuse seadust, et leida eraldumiskõrgus."
+2010-lahg-04,geomeetriline optika,klaaskuulide murdumisnäitaja,"Kasutage murdumisseadust ja väikeste nurkade lähendust, et leida murdumisnäitaja."
+2010-lahg-05,dünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust, et võrrelda kiirusel, kui maaler laseb redelist lahti ja kui ta klammerdub redeli külge."
+2010-lahg-06,elektrostaatika,ioonide kiirus,"Kasutage energia jäävuse seadust ja impulsi jäävuse seadust, et leida vajalik ksenooni mass."
+2010-lahg-07,elektrostaatika,potentsiaal ja laengud,Kasutage potentsiaali superpositsiooni ja lahendage saadud võrrandid kärbse kauguse leidmiseks laengust.
+2010-lahg-08,magnetism,laeng ja magnetväli,Kasutage tsüklotronperioodi ja impulsi muutuse seoseid osakese trajektoori skitseerimiseks.
+2010-lahg-09,staatika,hõõrdumine,"Kasutage jõudude tasakaalu seadust ja kolmnurga omadusi, et leida kriitiline nurk."
+2010-lahg-10,gaasid,rakettmootor,"Kasutage energia jäävuse seadust ja adiabaatilise paisumise põhimõtteid, et leida veojõud gaasi massi ja kiirusest."
+2010-v2g-01,dünaamika,vaba langemine,"Kasutame vaba langemise valemit, et leida kiirus ja kukkumise aeg."
+2010-v2g-02,termodünaamika,soojusvahetus,"Kasutage energia jäävuse seadust, et võrdsustada jõhvikate soojendamiseks kulunud soojushulk vee jahtumisega."
+2010-v2g-03,geomeetriline optika,läätsede paigutus,"Kasutage läätsede fookuste sarnasuse seadust ja kolmnurkade sarnasust, et leida läätsede vahekaugus."
+2010-v2g-04,dünaamika,elastne põrge,Kasutage energia säilitamise seadust ja kiirus- ja kõrgusvahe suhteid.
+2010-v2g-05,termodünaamika,soojusvoog,Kasutage soojusvoo tasakaalu seadust ja arvestage faaside paksuste suhet.
+2010-v2g-06,dünaamika,energia säilitamine,"Kasutage energia säilitamise seadust, et seostada potentsiaalne energia ja kineetiline energia."
+2010-v2g-07,elektriahelad,kondensaatorite laadimine,"Kasutage patarei võimsuse ja kondensaatori energia tuletist aja järgi, et leida energia salvestamise kiirus."
+2010-v2g-08,geomeetriline optika,kriitiline nurk,Kasutage murdumisseadust ja kriitilise langemisnurga valemit.
+2010-v2g-09,magnetism,elektroni kõrvalekalle,"Kasutage Lorentzi jõu ja kesktõmbekiiruse võrdsust, et leida ringjoone raadius ja analüüsige elektroni trajektoori sõltuvust algkiirusest."
+2010-v2g-10,staatika,hõõrdetegur,"Kasutage jõudude ja jõumomentide tasakaalu tingimusi, et analüüsida torude vahelisi jõude."
+2010-v3g-01,dünaamika,kesktõmbekiirus,Kasutada Pythagorase teoreemi silla kõverusraadiuse leidmiseks ja jõudude tasakaalu analüüsi auto mõju hindamiseks.
+2010-v3g-02,termodünaamika,energia jäävuse seadus,Kasutage energia jäävuse seadust ja voolukiirusest tulenevaid seoseid.
+2010-v3g-03,elektriahelad,maksimaalne võimsus,"Leidke graafikult punkt, kus koormisel eralduv võimsus $UI$ on maksimaalne."
+2010-v3g-04,staatika,hammasrattad,Kasutage jõumomentide tasakaalu hammasrataste keskpunktide suhtes.
+2010-v3g-05,staatika,stabiilsus,"Kasutage potentsiaalse energia muutuse analüüsi, et leida tingimused stabiilseks asendiks."
+2010-v3g-06,gaasid,aururõhk,"Kasutage rõhkude tasakaalu seadust, et leida minimaalne temperatuur, mille juures aururõhk vastab vajalikele tingimustele."
+2010-v3g-07,taevamehaanika,satelliitide kokkupõrked,"Kasutage analoogiat molekulaarfüüsikaga, et hinnata satelliitide kokkupõrke-ristlõike ja liikumisruumi."
+2010-v3g-08,elektriahelad,takistid ja kondensaatorid,"Kasutage Ohmi seadust ja kondensaatori laadimise valemit, et leida takisti takistus ja kondensaatori mahtuvus."
+2010-v3g-09,geomeetriline optika,läätse tasand ja peatelg,Kasutage sirgete lõikepunktide leidmiseks geomeetrilisi konstruktsioone ja analüüsige allikate ja kujutiste asukohti.
+2010-v3g-10,kinemaatika,propelleri pöörlemine,"Uuri labade tihedust pildil ja kasuta pöörlemise seadusi, et leida propelleri pöörlemissuund ja labade arv."
+2011-lahg-01,geomeetriline optika,läätse tugevus,"Kasutage läätse valemit ja fookuste ühtimise tingimust, et leida läätsede optilised tugevused."
+2011-lahg-02,vedelike mehaanika,pindpinevus,"Kasutage jõudude tasakaalu ja kapillaarjõu valemit, et leida torude siseraadiuste suhe."
+2011-lahg-03,dünaamika,inertsijõud,"Kasutage veoautoga seotud taustsüsteemi, et analüüsida inertsijõu ja raskusjõu resultantjõude."
+2011-lahg-04,termodünaamika,soojushulk,"Konstruktsiooni graafiku aluse pindala leidmine, mis esindab neeldunud soojushulka."
+2011-lahg-05,gaasid,hõõrdejõud,Kasutage ideaalse gaasi olekuvõrrandit ja tasakaalu jõude kolvi lõppasendis.
+2011-lahg-06,magnetism,Lorentzi jõud,"Kasutage Newtoni teist seadust ja ringliikumise omadusi, et leida osakeste maksimaalne kaugus."
+2011-lahg-07,kinemaatika,lennuki kõrgus,"Kasutage sarnaste kolmnurkade omadusi ja lööklaine koonuse nurka, et leida lennuki kõrgus."
+2011-lahg-08,elektrostaatika,elektriväli sfäärides,Kasutage potentsiaali võrdsuse seadust ja elektrivälja tugevuse definitsiooni.
+2011-lahg-09,dünaamika,mobiiltelefoni liikumine,"Kasutage gravitatsiooni ja hõõrdejõu tasakaalu analüüsi, et leida mobiiltelefoni keskmine kiirus."
+2011-lahg-10,kinemaatika,pöörlemine,"Kasutage kiirusvektori suunda ja pöörlemise geomeetriat, et määrata teravad punktid kodaral."
+2011-v2g-01,dünaamika,kokkupõrge,Kasutada energia jäävuse seadust ja massikeskme taustsüsteemi vahetust.
+2011-v2g-02,taevamehaanika,satelliidi orbiit,"Kasutage geomeetrilisi suhteid, et leida varjus veedetud aja suhe orbiidi pikkusele."
+2011-v2g-03,termodünaamika,ruumala paisumine,Kasutage vedeliku ruumala valemit ja arvutage paisumise tõttu vajalik vaba ruum paisupaagis.
+2011-v2g-04,kinemaatika,rongide liikumine,"Kasutage liikumisvõrrandeid, et leida rongide kiirus ja aeg kokkupõrke hetkel."
+2011-v2g-05,staatika,hõõrdetegur,Kasutage jõudude tasakaalu ja geomeetrilisi seoseid koonuse ruumala ja raadiuse vahel.
+2011-v2g-06,elektriahelad,Ohmi seadus,Kasutage Ohmi seadust ja analüüsige voolutugevuse suhteid takistite ja sisetakistuse korral.
+2011-v2g-07,dünaamika,pendli võnkeperiood,"Kasutage järjestikuste mõõtmiste erinevust, et leida pendli võnkeperiood ja arvutage keskmine periood."
+2011-v2g-08,magnetism,induktsioon,"Kasutage Faraday seadust ja tasakaalu jõudude analüüsi, et leida lõppkiirus."
+2011-v2g-10,geomeetriline optika,nõguslääts,"Kasutage paralleelsete kiirte ja abikiire joonistamise meetodit, et leida murdunud kiirte lõikepunktid."
+2011-v3g-01,termodünaamika,aurustumine,"Kasutada energia jäävuse seadust, et seostada aurustumiseks vajalik soojushulk järelejäänud vee temperatuuri muutusega."
+2011-v3g-02,dünaamika,vaba langemine,Kasutage Newtoni seadusi ja geomeetrilisi seoseid nurga leidmiseks.
+2011-v3g-03,staatika,hõõrdetegur,Kasutage jõumomentide tasakaalu tuulepoolsete rataste telje suhtes.
+2011-v3g-04,vedelike mehaanika,Bernoulli seadus,"Kasutage Bernoulli seadust ja pidevustingimust, et leida diameetrite suhe."
+2011-v3g-05,magnetism,elektroni liikumine solenoidis,"Kasutage Lorentzi jõu ja tsentrifugaaljõu tasakaalu, et leida elektroni kiirus."
+2011-v3g-06,kinemaatika,pildi deformeerumine,"Kasutage pildi jälje pikkuse ja katiku kiirusest tulenevaid seoseid, et leida triipude pikkus erinevates asendites."
+2011-v3g-07,staatika,hõõrdetegur,"Kasutage jõudude ja jõumomentide tasakaalu seadusi, et leida nõutav hõõrdetegur."
+2011-v3g-08,geomeetriline optika,fookuskaugus,"Rakenda väikeste nurkade lähendust ja sümmeetriliste kiirte analüüsi, et leida fookuskaugus."
+2011-v3g-09,elektriahelad,elektrostaatiline tasakaal,"Kasutage Kirchhoffi seadusi, et leida voolude tasakaal ja arvutada membraani laeng."
+2011-v3g-10,staatika,tungraud,"Kasutage Pythagorase teoreemi ja diferentseerimist, et leida tungraua kõrguse muutus vända pöördega."
+2012-lahg-01,termodünaamika,jäätumine,Kasutage soojushulga tasakaalu seadust jää ja vee vahel.
+2012-lahg-02,dünaamika,paraboolne trajektoor,"Kasutage kineetilise energia ja liikumise võrrandeid, et leida rahakoti lennutrajektoor."
+2012-lahg-03,elektrostaatika,kondensaator,"Kasutage jõudude tasakaalu ja kiirenduse seoseid, et leida massi ja laengu suhe."
+2012-lahg-04,geomeetriline optika,kumerlääts,"Kasutage sarnaste kolmnurkade omadusi, et leida kärbse kujutise trajektoori pikkus ja kiirus."
+2012-lahg-05,vedelike mehaanika,hüdrostaatika,"Kasutage hüdrostaatika tasakaalu seadust, et leida õhukihi paksus ja summaarne jõud luugile."
+2012-lahg-06,dünaamika,impulsi jäävus,"Kasutage energia ja impulsi jäävuse seadusi, et leida seoseenergia."
+2012-lahg-07,dünaamika,impulsi ülekanne,Kasutage impulsi säilitamise seadust ja analüüsige kokkupõrkeid väikese keha süsteemis.
+2012-lahg-08,elektriahelad,dioodide võimsus,"Kasutage Kirchhoffi seadusi ja dioodi omadusi, et analüüsida voolu ja pinget skeemis."
+2012-lahg-09,staatika,nööri tasakaal,"Kasutage jõudude tasakaalu seadust, et seostada nööri pinge ja hõõrdejõud."
+2012-lahg-10,dünaamika,impulss ja energia,Kasutage impulsi säilitamise seadust ja sarnasuse suhteid kildude liikumissuundade põhjal.
+2012-v2g-01,geomeetriline optika,peegeldumine,"Koosta joonis ja kasuta sarnaste kolmnurkade omadusi, et leida aeg, mil inimesed teineteist peeglis märkavad."
+2012-v2g-02,termodünaamika,soojushulkade tasakaal,"Kasutage soojushulkade tasakaalu võrrandit, et leida veevoolu kiirus."
+2012-v2g-03,vedelike mehaanika,ujumine ja üleslükkejõud,"Kasutage Archimedese seadust, et seostada üleslükkejõud ja raskusjõud."
+2012-v2g-04,kinemaatika,pöörlev liikumine,Kasutage kettaga kaasapöörlevat taustsüsteemi ja analüüsige näitleja liikumist sirgjooneliselt.
+2012-v2g-05,dünaamika,kesktõmbejõud,Kasutage energia jäävuse seadust ja kesktõmbejõu tasakaalu võrrandeid.
+2012-v2g-06,gaasid,kuumaõhu tihedus,"Kasutage ideaalse gaasi seadust ja tiheduse võrrandeid, et leida vajalik temperatuur kuumaõhupalli sees."
+2012-v2g-07,kinemaatika,vihmapiiskade langemine,"Kasutage kiirusvektorite komponente ja suhete seadusi, et leida vertikaalkomponent."
+2012-v2g-08,elektriahelad,takistuse muutumine,"Kasutage takistuse valemit ja analüüsige kahte juhtu, et leida takistuse muutumine ajas."
+2012-v2g-09,dünaamika,noole liikumine,"Kasutage kineetilise energia ja liikumisvõrrandite kombinatsiooni, et leida noole algkiirus ja laskmisnurk."
+2012-v2g-10,elektrostaatika,koonuse potentsiaal,Kasutage potentsiaalide superpositsiooniprintsiipi ja võrdelisuse seadust koonuse laengu ja lineaarmõõtmete vahel.
+2012-v3g-01,termodünaamika,hõõrdumine ja soojushulk,"Kasutage soojushulga ja hõõrdeteguri seoseid, et leida vajaliku jõu väärtus."
+2012-v3g-02,dünaamika,veejoa liikumine,"Kasutage parabooli võrrandit ja mõõtke jooniselt koordinaate, et leida veejoa läbimõõt."
+2012-v3g-03,elektriahelad,Whetstone'i sild,Kasutage sümmeetria ja Kirchhoffi seadusi voolutugevuste leidmiseks.
+2012-v3g-04,vedelike mehaanika,üleslükkejõud,"Kasutage Archimedes'e seadust ja rõhuerinevust, et leida vajalik sügavus, kus palli keskmine tihedus muutub väiksemaks vee tihedusest."
+2012-v3g-05,kinemaatika,rataste pöördenurk,"Kasutage geomeetrilisi suhteid ja trigonomeetrilisi funktsioone, et leida pöördenurkade vaheline seos."
+2012-v3g-06,geomeetriline optika,punktallika kujutised,"Kasutage peegelduste ja läätsede omadusi, et leida kujutiste asukohad ja suurused ekraanil."
+2012-v3g-07,termodünaamika,sulamissoojus,"Kasutage temperatuuri ja aja graafiku puutuja tõusu, et leida efektiivne soojusvõimsus ja arvutage sulamissoojus."
+2012-v3g-08,dünaamika,liivakella kaalunäidud,"Kasutage Newtoni II seadust ja masskeskme koordinaadi tuletisi, et leida kaalu näitude vahe."
+2012-v3g-09,elektrostaatika,laengud ja potentsiaal,"Kasutage elektrivälja ja kineetilise energia seoseid, et analüüsida osakeste trajektoore ja nende jõudmist kõrgema potentsiaaliga piirkondadesse."
+2013-lahg-01,dünaamika,hõõrdetegur,"Kasutage tasakaalu tingimusi ja trigonomeetrilisi suhteid, et leida hõõrdetegur kaldenurga kaudu."
+2013-lahg-02,magnetism,Lorentzi jõud,"Kasutage Lorentzi jõu ja ringliikumise seoseid, et leida maksimaalne langemisnurk."
+2013-lahg-03,dünaamika,nööri elastsus,"Kasutage energia jäävuse seadust, et seostada potentsiaalne energia ja vedru potentsiaalne energia."
+2013-lahg-04,gaasid,üleslükkejõud,"Kasutage ideaalse gaasi seadust ja tasakaalu tingimusi, et leida õhupalli maksimaalne koormise mass Marsil."
+2013-lahg-05,magnetism,elektromagnetiline induktsioon,"Kasutage Faraday seadust, et leida elektromotoorjõud ja arvutage seejärel võimsus lambis."
+2013-lahg-06,elektrostaatika,kuloniline jõud,"Võrdle Lorentzi jõudu ja kulonilist jõudu, et leida vajalik laeng."
+2013-lahg-07,vedelike mehaanika,ujumine ja jõud,"Kasutage Archimedese seadust ja arvutage jõudude tasakaal kausi massi, vee massi ja üleslükkejõu vahel."
+2013-lahg-08,staatika,jõudude tasakaal,"Vaatle jõumomentide tasakaalu telje suhtes, mis läbib toetuspunkti."
+2013-lahg-09,elektriahelad,võimsuse arvutamine,"Kasutage Ohmi seadust ja paralleel- ning jadamisi ühenduste omadusi, et leida iga lambi kaudu voolav pinge ja arvutada võimsus."
+2013-lahg-10,geomeetriline optika,varju ja valguse levik,"Kasutage geomeetrilise optika seadusi, et analüüsida varju ja valguskiirte suundi, ning rakendage sarnaste kolmnurkade omadusi."
+2013-v2g-01,kinemaatika,kiirus ja kiirendus,Kasutage keskmise kiirusena $v_{max}/2$ kiirusel kiirendamise ja pidurdamise ajal.
+2013-v2g-02,termodünaamika,alajahtumine,"Kasutage soojushulga tasakaalu, et leida jää mass alajahtunud vee soojendamiseks."
+2013-v2g-04,dünaamika,kaldenurk,"Kasutage kiirus- ja kiirendusvalemeid, et leida kaldenurk, arvestades, et hõõrdejõud puudub."
+2013-v2g-05,elektriahelad,Ohmi seadus ja Kirchhoffi seadused,Rakenda Ohmi seadust ja Kirchhoffi seadusi voolude leidmiseks igas kontuuris.
+2013-v2g-06,taevamehaanika,Päikese tihedus,Kasutage Maa ja Päikese vahelise gravitatsioonijõu tasakaalu ning Päikese raadiuse ja ruumala arvutamist.
+2013-v2g-07,vedelike mehaanika,hüdrostaatika,Kasutage hüdrostaatika tasakaalu tingimusi ja isotermilise olekuvõrrandi rakendamist.
+2013-v2g-09,dünaamika,jõumomentide tasakaal,"Kasutage jõumomentide tasakaalu võrrandite süsteemi, et leida õõnsuse keskpunkti kaugus kera keskpunktist."
+2013-v2g-10,magnetism,mass-spektromeeter,"Kasutage osakeste kiirusest ja ringliikumise seadust, et leida isotoobi molaarmass."
+2013-v3g-01,geomeetriline optika,nõgusläätsed,"Kasutage sarnaste kolmnurkade omadusi ja moodustage lineaarvõrrandisüsteem, et leida fookuskaugus."
+2013-v3g-02,dünaamika,palli põrge,"Kasutage kõrguse ja aja ruudu seost, et leida maksimaalne kõrgus pärast esimest põrget."
+2013-v3g-03,kinemaatika,tuule kiirus,Kasutage vektorkonstruktsiooni ja koosinusteoreemi tuule kiirusvektori leidmiseks.
+2013-v3g-04,elektriahelad,kondensaatorite jadaühendus,"Kasutage kondensaatorite jadaühenduse omadusi, et analüüsida pinget ja voolu."
+2013-v3g-05,taevamehaanika,geostatsionaarne orbiit,"Kasutage jõudude tasakaalu ja tiirlemisperioodi seoseid, et leida orbiidi raadius."
+2013-v3g-06,varia,lainete levimine,"Kasutage laineharja kiirusseoseid ja mõõtke ringide läbimõõte, et leida sügavus suhtes L."
+2013-v3g-07,geomeetriline optika,läätsed ja suurendus,"Kasutage läätse kauguste ja suurenduse seoseid, et leida sensorile langeva kiirgusvõimsuse suhe."
+2013-v3g-08,termodünaamika,soojusvahetus,"Kasutage soojusvahetuse võimsuse võrdsust, et leida inimeste ja valgustite panus kütmisse."
+2013-v3g-09,dünaamika,pallide kokkupõrge,Analüüsi pallide liikumist komponentide kaupa ja arvuta kokkupõrkehetkeks vajalikud ajad ja kaugused.
+2013-v3g-10,elektrostaatika,kondensaatorite töö,"Kasutage kondensaatori mahtuvuse ja energia valemeid, et leida töö, mis tehti plaadi sisseviimisel."
+2014-lahg-01,dünaamika,rongi kiirus,"Kasutage võimsuse valemit ja tasakaalu jõude, et leida kiirus horisontaalsel teel ja tõusul."
+2014-lahg-02,dünaamika,rõhk ja jõud,"Kasutage Newtoni seadusi ja rõhu erinevust, et leida palli kiirus."
+2014-lahg-03,taevamehaanika,orbiidid,"Kasutage energia ja impulsimomendi jäävuse seadusi, et leida suurim kaugus orbiidil."
+2014-lahg-04,elektriahelad,takistus,Kasutage sümmeetriat ja ekvivalentskeemide analüüsi takistuse leidmiseks.
+2014-lahg-05,dünaamika,mitteelastne kokkupõrge,"Kasutage kangireeglit ja Newtoni teist seadust, et leida masside kiirus pärast kokkupõrget."
+2014-lahg-06,vedelike mehaanika,ujumine ja üleslükkejõud,"Kasutage Archimedese seadust ja tasakaalu tingimusi, et leida klotsi alumises vedelikus asuv osa."
+2014-lahg-07,geomeetriline optika,läätsede konstruktsioon,"Kasutage fookuse asukohta ja paralleelsete kiirte lõikepunkti, et konstrueerida läätsede optiline skeem."
+2014-lahg-08,staatika,jõudude tasakaal,"Kasutage jõudude ja jõumomentide tasakaalu seadusi, et leida nurk ja hõõrdetegur."
+2014-lahg-09,termodünaamika,soojusülekande tasakaal,"Kasutage Stefani-Boltzmanni seadust ja tasakaalu tingimusi, et leida temperatuuride sõltuvus kuubi asendist."
+2014-lahg-10,taevamehaanika,Doppleri efekt,"Kasutage Doppleri nihke valemit, et leida Päikese pöörlemisperiood, arvestades kiirusvahet ja lainepikkuse muutust."
+2014-v2g-01,dünaamika,vabalangemine,"Kuna pudel ja vesi on vabalangemises, siis vesi ei voola välja kummalgi juhul."
+2014-v2g-02,dünaamika,pähklite viskamine,"Kasutame rongiga seotud taustsüsteemi, et analüüsida pähklite horisontaalset ja vertikaalset liikumist eraldi."
+2014-v2g-03,taevamehaanika,Maa pöörlemisperiood,"Kasutage Maa tiirlemise ja pöörlemise suhete analüüsi, et leida pöörlemisperiood."
+2014-v2g-04,dünaamika,mehaaniline töö,"Arvuta ühe sammu genereeritud energia ja võrrelge seda aku täitmiseks vajaliku energiaga, et leida vajalik sammude arv."
+2014-v2g-05,dünaamika,õhutakistus,"Kasuta jõudude tasakaalu seadust ja kiirusest tulenevat seost, et leida Juhani aeg."
+2014-v2g-06,staatika,tasakaal,"Kasutage tasakaalu tingimusi ja trigonomeetrilisi suhteid, et leida minimaalne kõrgus h."
+2014-v2g-07,staatika,hõõrdumine,"Kasutage Newtoni teist seadust ja arvutage maksimaalne kiirus, mille korral ülemine klots ei libise."
+2014-v2g-08,elektriahelad,energia arvutamine,Kasutage energia valemeid kondensaatori ja induktiivpooli jaoks ning võrrelge saadud väärtusi.
+2014-v2g-09,termodünaamika,soojusülekanne,"Kasutage soojuskao ja radiaatori küttevõimsuse võrdlemist, et leida korterite temperatuur."
+2014-v2g-10,gaasid,kuumaõhupall,"Kasutage ideaalse gaasi seadust ja tasakaalu tingimusi, et leida õhupalli lendamise kestus."
+2014-v3g-01,elektriahelad,takistus ruudustikus,"Kasutage sümmeetria ja ühendage sama potentsiaaliga punktid, et lihtsustada takistuse arvutamist."
+2014-v3g-02,kinemaatika,seisulained,Kasutage seisulainete tingimusi ja suhete leidmiseks võnkuvate osade pikkusi.
+2014-v3g-03,gaasid,õhu ruumala ja rõhk,"Kasutage ideaalse gaasi olekuvõrrandit, et leida õhu ruumala muutus ja seeläbi määrata maksimaalne temperatuur, mille juures avariiventiil ei avane."
+2014-v3g-04,geomeetriline optika,prisma peegeldumine,Kasutage Snelli seadust ja geomeetrilisi jooniseid kiirte käigu analüüsimiseks prismas.
+2014-v3g-05,kinemaatika,lainepikkus,"Kasutage suhete analüüsi, et leida tumedate laikude kiirus halli kammi kiirusest lähtuvalt."
+2014-v3g-06,staatika,polüspast,Kasutage jõu tasakaalu seadust ja analüüsige pingete jaotust plokkide vahel.
+2014-v3g-07,dünaamika,maksimaalne kiirendus,"Kasutage jõudude ja jõumomentide tasakaalu võrrandeid, et leida kiirus."
+2014-v3g-08,dünaamika,kiirus ja kiirendus,"Rakenda virtuaalse nihke meetodit, et leida kiirendus energia jäävuse seaduse kaudu."
+2014-v3g-09,kinemaatika,pöörlemine,"Kasutage pöörleva süsteemi analüüsi, et leida puutepunkti kiirus radiaalse liikumise kaudu."
+2014-v3g-10,geomeetriline optika,murdumisnäitaja,"Kasutage Snelli seadust ja analüüsige nurkade seoseid, et leida murdumisnäitaja."
+2015-lahg-01,kinemaatika,heli levimine,"Kasutage heli levimise ja rongi liikumise ajavahe arvestamiseks võrrandit, mis seob vile kestuse ja rongi kiirus."
+2015-lahg-02,elektriahelad,kogutakistus,"Kasutage takistite ühendamise reegleid, et leida kogutakistus järjestikuste ja paralleelsete takistite puhul."
+2015-lahg-03,gaasid,balloon pressure,"Kasutage pingete tasakaalu seadust ja arvutage rõhk, kasutades valemit $p=\frac{t\sigma}{r}$."
+2015-lahg-04,termodünaamika,aurustumine,"Kasutage energia tasakaalu, et seostada küttekeha võimsus aurustamisega ja arvutage välja joonkiirus."
+2015-lahg-05,geomeetriline optika,läätse konstrueerimine,"Kasutage geomeetrilisi jooniseid ja valguskiirte murdumise seadusi, et leida läätse keskpunkt ja fookus."
+2015-lahg-06,dünaamika,ioniseerimine,Kasutage energia ja impulsi jäävuse seadusi elastse kokkupõrke analüüsimiseks.
+2015-lahg-07,vedelike mehaanika,veejoad,"Kasutage energia jäävuse seadust ja ruutvõrrandi lahendamist, et leida algkõrgus, millest vesi peab välja voolama, et jõuda antud punktini."
+2015-lahg-08,dünaamika,pöörlemine,"Kasutage jõudude ja momentide tasakaalu seadusi, et leida pöörlemistelje kaugus lati lükatavast otsast."
+2015-lahg-09,dünaamika,hõõrdumine,"Kasutage jõudude tasakaalu seadust ja trigonomeetrilisi suhteid, et leida keermete ja hõõrdejõu suhe."
+2015-lahg-10,magnetism,kuulike trajektoor,Kasutage jõudude tasakaalu ja energia jäävuse seadust kuulikese trajektoori määramiseks.
+2015-v2g-01,kinemaatika,rongi liikumine,"Kasutage kiirus, aeg ja kaugus seoseid, et leida rongi sõiduaeg ja läbitud vahemaa."
+2015-v2g-02,elektriahelad,lampide võimsus,"Kasutage Ohmi seadust ja võimsuse valemit, et leida takistuste suhe ja arvutada koguvõimsus jadamises."
+2015-v2g-03,termodünaamika,soojusvahetus,"Kasutage energia säilitamise seadust, et võrdsustada jää sulamiseks vajalik energia vee jahtumisel eraldunud energiaga."
+2015-v2g-05,dünaamika,jõud ja impulss,"Kasutage Newtoni seadusi ja jõumomentide tasakaalu, et leida toru telje nurk."
+2015-v2g-06,dünaamika,elastne põrge,"Kasutage energia jäävuse ja impulsi jäävuse seadusi, et leida kõrgus $h$."
+2015-v2g-07,staatika,jõuülekanne,"Kasutage kangi põhimõtet, et leida jõudude tasakaalu ja arvutada jõudude mõju."
+2015-v2g-08,geomeetriline optika,fookuskaugus,"Kasutage murdumisseadust ja väikeste nurkade lähendust, et leida fookuskaugus R ja n abil."
+2015-v2g-09,magnetism,magnetväli ja osakeste liikumine,"Kasutage Newtoni II seadust ja ringliikumise omadusi, et leida osakese väljumisnurk."
+2015-v2g-10,elektrostaatika,laengud ja jõud,"Kasutage Newtoni seadusi ja võnkumiste perioodi valemit, et leida pulga liikumise periood."
+2015-v3g-01,gaasid,ideaalse gaasi seadus,"Kasutada ideaalse gaasi seadust ja keskmise tiheduse võrrandit, et leida õhupalli ruumala."
+2015-v3g-02,geomeetriline optika,läätsed ja valguskiired,"Kasutage läätsede valemit ja sarnaste kolmnurkade omadusi, et leida vajalik fookuskaugus."
+2015-v3g-03,vedelike mehaanika,ujumine,"Kasutage jõudude tasakaalu ja rõhu seadust, et leida kuubi sees oleva gaasi algrõhk."
+2015-v3g-04,elektriahelad,takistite ühendamine,"Kasutage Kirchhoffi seadusi ja takistite ühendamise reegleid, et leida takistuste väärtused."
+2015-v3g-05,kinemaatika,palli lend,Kasutage inertsiaalsüsteemi ja analüüsige palli liikumist horisontaalses ja vertikaalses suunas.
+2015-v3g-06,elektrostaatika,lööklainete mõju,Kasutage energia jäävuse seadust ja analüüsige osakese liikumist lööklaine taustsüsteemis.
+2015-v3g-07,geomeetriline optika,läätse keskpunkt,"Kasutage puutujate lõikepunkti ja sirgete murdumise seadusi, et leida läätse keskpunkt ja fookus."
+2015-v3g-08,dünaamika,vedru võnkumine,"Rakenda energia jäävuse seadust, et leida kõrgus, millest kast peab kukkuma."
+2015-v3g-09,staatika,jõudude tasakaal,"Kasutage jõudude ja jõumomentide tasakaalu seadusi, et leida nurk niidi ja varda vahel."
+2015-v3g-10,elektriahelad,türistorid,"Kasutage Kirchhoffi seadusi ja volt-amper karakteristikut, et leida voolutugevuse sõltuvus pingest."
+2016-lahg-01,dünaamika,põrkumine,Kasutage energia säilitamise seadust ja analüüsige palli kiiruskomponente enne ja pärast põrget.
+2016-lahg-02,dünaamika,külgkalle,"Kasutage jõu võrrandeid ja trigonomeetrilisi funktsioone, et leida külgkalle nurga α väärtus."
+2016-lahg-03,elektriahelad,kondensaatorite käitumine,Kasutage Kirchhoffi seadusi ja kondensaatorite laengute omadusi vooluringis.
+2016-lahg-04,geomeetriline optika,täielik sisepeegeldumine,Kasutage Snelli seadust ja täieliku sisepeegeldumise piirnurka arvutamiseks.
+2016-lahg-05,geomeetriline optika,läätsede omadused,"Kasutage sarnaste kolmnurkade omadusi, et analüüsida valguskiirte käitumist läätsede kaudu."
+2016-lahg-06,dünaamika,jõud ja kiirus,"Kasutage jõudude tasakaalu võrrandisüsteemi, et leida hõõrdejõud ja tuuletakistuskordaja."
+2016-lahg-07,gaasid,ideaalse gaasi olekuvõrrand,"Kasutage ideaalse gaasi olekuvõrrandit, et leida paisupaagi algne rõhk ja minimaalne ruumala."
+2016-lahg-08,elektriahelad,takistite ja voolude jaotumine,"Kasutage sümmeetriat ja Ohmi seadust, et leida voolude jaotumine takistites."
+2016-lahg-09,kinemaatika,heli levik tuules,Kasutage heli leviaegade erinevusi tuule kiiruskomponentide arvutamiseks.
+2016-lahg-10,elektrostaatika,elektriline dipool,"Kasutage tasakaalu tingimusi ja elektrostaatilise jõu valemit, et leida pinget traadis."
+2016-v2g-01,elektriahelad,voltmeetrid,"Kuna voltmeetrit on ühesugused, asenda need takistustega ja arvuta pingelangud vastavalt."
+2016-v2g-02,dünaamika,köieveo analüüs,"Kasutage Newtoni seadusi ja jõudude tasakaalu, et leida nööri tõmme ja maksimaalne kiirus."
+2016-v2g-03,geomeetriline optika,läätse fookuskaugus,"Kasutage geomeetrilisi suhteid ja läätse valemit, et leida fookuskaugus."
+2016-v2g-04,dünaamika,hõõrdumine,"Kasutage potentsiaalse energia ja hõõrdejõu töö seoseid, et leida vajalik kõrgus."
+2016-v2g-05,gaasid,aurustumine,"Kasutage ideaalse gaasi olekuvõrrandit, et leida lisarõhk ja seejärel arvutage uksele mõjuv jõud."
+2016-v2g-06,dünaamika,kuuli trajektoor,"Kasutage liikumisvõrrandeid horisontaalse ja vertikaalse liikumise jaoks, et leida kuuli trajektoor ja tabamiskoht."
+2016-v2g-07,laineoptika,valgustatus,"Kasutage valgustatuse valemit, arvestades kauguse ja valgusvoo jaotust vastavalt valgusallika tüübile."
+2016-v2g-08,dünaamika,impulsi jäävuse seadus,"Kasutage horisontaalse impulsi jäävuse seadust, et leida palli ja klotsi liikumise suhe."
+2016-v2g-09,vedelike mehaanika,U-toru rõhk,"Kasuta rõhu tasakaalu seadust U-torus, et leida õli tihedus."
+2016-v2g-10,termodünaamika,veesoojendi soojusülekanne,"Kasutage energia tasakaalu seadust, et seostada soojendi võimsus ja väljavoolava vee massi voolukiirus."
+2016-v3g-01,termodünaamika,soojusvahetus,"Kasutage soojushulga tasakaalu seadust, et leida vee väljumistemperatuur."
+2016-v3g-02,dünaamika,pidurdusjõud,"Kasutage kineetilise energia ja potentsiaalse energia seoseid, et leida auto algkiirus."
+2016-v3g-03,dünaamika,gravitatsioon,Rakenda energia jäävuse seadust kuuli laskmise hetkel ja kõrgeimas punktis.
+2016-v3g-04,dünaamika,impulsimoment,"Kasutage impulsimomendi jäävuse seadust, et leida esialgne nurkkiirus."
+2016-v3g-05,varia,radooni aktiivsus,"Kasutage uraani lagunemise ja radooni tekkimise tasakaalu seadust, et leida ohutu mass kivimist."
+2016-v3g-06,geomeetriline optika,läätse fookuskaugus,Kasutage õhukese läätsena poolkera fookuskauguse valemit $f=nR/(n-1)$.
+2016-v3g-07,elektriahelad,Kirchhoffi seadused,"Kasutage Kirchhoffi seadusi, et analüüsida voolu ja pinget erinevates kontuurides."
+2016-v3g-08,geomeetriline optika,peegelpilt,"Konstruktsioonime peegelpildi leidmiseks, jälgides, kuidas valgus peegeldub peeglites."
+2016-v3g-09,kinemaatika,tuule mõju,"Kasutage vektoreid, et analüüsida kaatri liikumist tuule suhtes ja arvutada tegelik tuule kiirus."
+2016-v3g-10,elektrostaatika,elektrilised jõud,Rakendage impulsi ja energia jäävuse seadusi ning kasutage sümmeetriat kuulide kiiruste leidmiseks.
+2017-lahg-01,kinemaatika,Doppleri efekt,"Rakenda Doppleri seadust auto lähenemise ja eemaldumise korral, et leida kiirus."
+2017-lahg-02,geomeetriline optika,läätsede kujutised,"Kasutage läätsevalemit, et leida kujutise asukoht."
+2017-lahg-03,elektrostaatika,elektroni liikumine elektriväljas,Kasutage Newtoni teist seadust ja analüüsige elektroni liikumist paraboolselt trajektoorilt.
+2017-lahg-04,elektriahelad,takisti võimsus,Kasutage Ohmi seadust ja võimsuse valemit takisti väärtuse leidmiseks.
+2017-lahg-05,gaasid,rehvi rõhk,"Kasutage jõudude tasakaalu ja ideaalse gaasi võrrandit, et leida rehvi deformatsiooni ja rõhu muutus."
+2017-lahg-06,termodünaamika,kasvuhooneefekt,"Kasutage Stefan-Boltzmanni seadust ja tasakaalu võimsuste vahel, et leida maapinna temperatuur."
+2017-lahg-07,elektrostaatika,kondensaatori mahtuvus,Vaatle kondensaatorit kui kahte järjestikku ühendatud dielektrikuga kondensaatorit ja rakenda Gaussi teoreemi.
+2017-lahg-08,dünaamika,plokkide süsteem,"Kasutage Newtoni seadusi ja nööride venimatuse tingimusi, et leida pinged ja tasakaalu tingimused."
+2017-lahg-09,dünaamika,auto kiirus ja kiirendus,Kasutage jõudude ja jõumomentide tasakaalu tingimusi auto taustsüsteemis.
+2017-lahg-10,dünaamika,kiirus ja kiirendus,"Kasutage varraste venimatust ja kesktõmbekiirendust, et leida kiirus ja kiirendus punktis B."
+2017-v2g-01,elektriahelad,voltmeeter,"Kasutage Ohmi seadust ja analüüsige, kuidas lühistamine mõjutab takistuste kogutakistust ja seega voltmeetri näitu."
+2017-v2g-02,kinemaatika,autodevaheline vahemaa,"Kasutage liikumise seadusi ja suhtelist liikumist, et leida vajalik vahemaa ja kiirus."
+2017-v2g-03,dünaamika,pendli pinge,Kasutage jõudude tasakaalu seadust ja analüüsige jõudude komponente amplituudiasendis ja tasakaaluasendis.
+2017-v2g-04,geomeetriline optika,murdumisnäitaja muutus,"Kasutage Snelli seadust, et leida nurkade muutus ja seeläbi kiirus muutus segus."
+2017-v2g-05,geomeetriline optika,läätsed,"Kasutage läätsede fookuse ja asukoha seoseid, et leida nõgusläätse fookus ja kujutise asukoht."
+2017-v2g-06,gaasid,rõhu muutumine,"Kasutage ideaalse gaasi olekuvõrrandit ja massi jäävuse seadust, et leida rõhu suhe enne ja pärast tahkumist."
+2017-v2g-07,dünaamika,tsentrifugaaljõud,"Kasutage jõudude tasakaalu ja tsentrifugaaljõu valemit, et leida pöörlemise periood."
+2017-v2g-08,gaasid,anuma tugevus,Kasutage anuma massi ja terase tiheduse kaudu seina paksuse arvutamiseks ning analüüsige rõhu tekitatud tõmbepinget anuma seintes.
+2017-v2g-09,elektrostaatika,laengud ja jõud,Kasutage jõudude tasakaalu ja harmoonilise võnkumise valemit.
+2017-v2g-10,termodünaamika,soojusülekande tasakaal,"Kasutage soojusülekande ja niiskuse tasakaalu võrrandeid, et leida vajalik küttevõimsus ja ventileerimise õhuruumala."
+2017-v3g-01,dünaamika,hõõrdumine ja energia,"Kasutage potentsiaalse energia ja hõõrdejõu vahelisi seoseid, et leida liuglemiseks vajalik teepikkus."
+2017-v3g-02,dünaamika,kaldenurk,"Kasutage töö ja energia seadust, et seostada ratturi poolt tehtud töö ja potentsiaalse energia muutus."
+2017-v3g-03,dünaamika,laserkiire eraldumine,"Kasutage murdumisseadust ja väikeste nurkade approximatsiooni, et leida kaugus, kus erineva lainepikkusega kiired on täielikult eraldunud."
+2017-v3g-05,dünaamika,liikumise kiirus ja kiirendus,"Kasutage kiirus- ja kiirenduse seoseid ning rakendage Newtoni seadusi, et leida reisija mass."
+2017-v3g-06,elektriahelad,Kirchoffi seadused,Kasutage Kirchoffi seadusi voolude ja pingete arvutamiseks skeemis.
+2017-v3g-07,gaasid,õhu temperatuur,"Rakenda termodünaamika esimest seadust, et leida õhu temperatuur õhupallis pärast täitmist."
+2017-v3g-08,geomeetriline optika,läätsed ja vaatenurk,"Kasutage läätsede fookuskauguse ja kauguse seoseid, et leida nõgusläätse kaugus ja fookuskaugus."
+2017-v3g-09,staatika,tasakaal ja jõudude analüüs,"Kasutage jõudude tasakaalu seadust ja geomeetrilisi suhteid, et leida silindri raadius ja stabiilsuse tingimused."
+2017-v3g-10,magnetism,elektronide trajektoorid,"Kasutage Newtoni teise seadust ja ringliikumise seadusi, et leida elektronide trajektoor ja maksimaalne kaugus ekraanist."
+2018-lahg-01,geomeetriline optika,kujutise liikumine,"Kasutage läätse valemit ja liikumise säilitamise seadust, et leida kujutise kiirus."
+2018-lahg-02,elektriahelad,takistite ühendamine,"Kasutage takistite jadamisi ja rööbiti ühendamise reegleid, et leida vajalik kogutakistus."
+2018-lahg-03,elektriahelad,voolu ja pingete arvutamine,Kasutage Kirhoffi seadusi ja ekvivalentskeemide koostamist voolu ja pingete leidmiseks.
+2018-lahg-04,dünaamika,projektilehe viskamine,"Kasuta horisontaalse ja vertikaalse liikumise analüüsi, et leida kahurite kuulide kiirus ja kokkupõrke aeg."
+2018-lahg-05,dünaamika,hüppe kõrgus,Võrdle hüppajate poolt tehtud tööd ja kasuta energia jäävuse seadust.
+2018-lahg-06,magnetism,prootoni liikumine magnetväljas,"Kasutage tsentripetaaljõu ja magnetjõu võrdust, et leida prootoni minimaalne kiirus, et see jõuaks teise magnetvälja."
+2018-lahg-07,dünaamika,veesamba mõju,"Kasutage impulsi ja jõu seoseid, et analüüsida veesamba mõju kaalu näidule."
+2018-lahg-08,geomeetriline optika,täisnurkne kolmnurk,"Kasutage Thalese teoreemi ja ringjoone omadusi, et leida täisnurkse tipu tegelik asukoht."
+2018-lahg-09,termodünaamika,soojusülekanne,"Kasutage soojusvoo valemit ja analüüsige graafiku tõusu, et leida soojusvõimsus ja kasutegur."
+2018-lahg-10,kinemaatika,pöörlemine,Kasutage massikeskme nihke arvutamiseks sirgjoonelise liikumise ja pöörlemise seoseid.
+2018-v2g-01,vedelike mehaanika,kontraktsioon,"Leidke masside kaudu ruumalad, arvestades tihedust ja kontraktsiooni."
+2018-v2g-02,geomeetriline optika,valgusallikad,"Kasutage sarnaste kolmnurkade omadusi, et leida teise valgusallika kaugus läätse keskpunktist."
+2018-v2g-03,termodünaamika,radiaatori soojusvahetus,Kasutame radiaatori võimsuse ja temperatuuri vahe vahelise seose leidmiseks ning lahendame võrrandisüsteemi.
+2018-v2g-04,vedelike mehaanika,pumba võimsus,"Kasutada jõudude tasakaalu ja pumba võimsuse valemit, et leida vajalikud väärtused."
+2018-v2g-05,dünaamika,tsentrifugaaljõud,"Kasutada jõumomentide tasakaalu, et leida maksimaalne kiirus, vältides libisemist."
+2018-v2g-06,taevamehaanika,satelliitide liikumine,"Kasutage jõudude tasakaalu ja kesktõmbejõu valemit, et leida satelliitide joonkiirus."
+2018-v2g-07,vedelike mehaanika,massikeskme stabiilsus,"Kasutage massikeskme ja veesamba kõrguse seoseid, et leida tasakaalu tingimus."
+2018-v2g-08,elektriahelad,lampide ühendamine,"Ühenda lambid kahekaupa jadamisi ja seejärel 6 sellist ahelat rööbiti, et tagada igale lambile nominaalpinge."
+2018-v2g-09,staatika,nööri nurk,"Kasuta jõudude tasakaalu ja hõõrdejõudude võrrandit, et leida minimaalne kelgunööri nurk."
+2018-v2g-10,magnetism,tsüklotron,"Kasutage osakese trajektoori raadiuse ja kineetilise energia seoseid, et leida täisringide arv n."
+2018-v3g-01,geomeetriline optika,läätse ja kujutise analüüs,"Kasutage kiirte käigu seadusi ja analüüsige iga läätse eraldi, et määrata uue kujutise asukoht ja omadused."
+2018-v3g-02,vedelike mehaanika,Bernoulli seadus,Kasutage Bernoulli seadust ja vooluhulga säilimise printsiipi.
+2018-v3g-03,geomeetriline optika,läätsed ja murdumisnäitajad,Kasutage läätse fookuskauguse leidmiseks murdumisnäitajate ja kauguste vahelisi seoseid.
+2018-v3g-04,dünaamika,pendel,"Kasutage energia jäävuse seadust ja tasakaalu tingimusi, et leida nurk, mille korral niidi pinge on null."
+2018-v3g-05,termodünaamika,kondenseerumine,Kastepunkti leidmiseks arvuta küllastunud veeauru osarõhk ja seejärel leia vastav kastepunkt.
+2018-v3g-06,elektrostaatika,elektriväli mõju,"Kasutage jõudude tasakaalu ja võnkeperioodi analüüsi, et leida kuuli uus tasakaaluasend elektrivälja mõjul."
+2018-v3g-07,elektriahelad,takistite arvutamine,Kasutage Kirchhoffi seadusi ja Ohmi seadust takistite leidmiseks.
+2018-v3g-08,gaasid,adiabaatiline protsess,"Kasutage gaasi olekuvõrrandit ja tõstejõu valemit, et leida kõrgus, kus tõstejõud väheneb 1% võrra."
+2018-v3g-09,elektriahelad,kondensaatori laeng,"Kasutage kondensaatori energia ja patarei töö seoseid, et leida lampi läbiv laeng."
+2018-v3g-10,elektrostaatika,kuulide liikumine elektriväljas,"Kasutage energia jäävuse seadust ja potentsiaalide vahe arvutamist, et leida kuulide kiirus."
+2019-lahg-01,kinemaatika,kiirus ja kiirendus,Arvuta Juku ja teise auto jõudmise aeg ristmikuni ning kasuta kiirus- ja kiirenduse valemeid.
+2019-lahg-02,dünaamika,potentsiaalne energia,Kasutage potentsiaalse energia valemit ja võrrelge energiavajadust energiatihedusega.
+2019-lahg-03,geomeetriline optika,läätse fookuskaugus,"Kasutage läätse valemit ja ruutvõrrandi lahendamist, et leida tingimused tõelise kujutise tekkimiseks."
+2019-lahg-04,elektrostaatika,laengute mõju,Kasutage Newtoni kolmandat seadust ja analüüsige laengute mõju tasandile.
+2019-lahg-05,dünaamika,elastne põrge,"Kasutage energia jäävuse seadust, et leida kuuli maksimaalne kõrgus pärast põrget."
+2019-lahg-06,elektriahelad,kondensaatori mahtuvus,"Kasutage pinge jaotumise võrrandit ning näivtakistuse valemit, et leida vajalik kondensaatori mahtuvus."
+2019-lahg-07,kinemaatika,kiirus ja kiirusjaotus,"Tähista alumise ja ülemise rõngaste kaugused nurgast vastavalt kui $x$ ja $y$, seejärel kasuta ajalisi tuletisi kiirus- ja kiirenduse leidmiseks."
+2019-lahg-08,termodünaamika,gaasi rõhk,"Kasutage impulsi ja energia jäävuse seadust, et leida gaasi rõhk anuma põhjas."
+2019-lahg-09,magnetism,elektrilaeng ja magnetväli,"Kasutage Ampère'i seadust ja impulsi säilitamise seadust, et leida kuulikeste trajektoorid magnetväljas."
+2019-lahg-10,taevamehaanika,Maa kumerus,"Kasutage geomeetrilisi lähendusi ja trigonometrilisi suhteid, et leida horisondi kõrguse muutus kaamera pildil."
+2019-v2g-01,kinemaatika,rongide liikumine,Kasutage kiirus-aja seoseid ja lahendage saadud võrrandisüsteem.
+2019-v2g-02,geomeetriline optika,peegeldumine,"Pikendage kiiri, et leida lõikepunktid ja ühendage need, et määrata peegli asukoht."
+2019-v2g-03,geomeetriline optika,kumerlääts,Kasutage läätse valemit ja analüüsige kärbse ja tema kujutise liikumise suundi.
+2019-v2g-04,termodünaamika,vakumitekitamine,"Kasutage töö ja energia seoseid, et leida vajalik töö ja kuuli kiirus."
+2019-v2g-05,magnetism,Lorentzi jõud,"Kasutage Lorentzi jõu ja tsentrifugaaljõu tasakaalu, et leida ringjoone raadius ja seega magnetvälja ala laius."
+2019-v2g-06,elektriahelad,kondensaatori laadimine,Kasutage Ohmi seadust ja analüüsige voolu kondensaatori laadimise ajal.
+2019-v2g-07,dünaamika,üleslükkejõud,"Kasutada üleslükkejõu ja õhu tiheduse seost, et leida vajalik kiirus ja hoovõturaja pikkus."
+2019-v2g-08,dünaamika,granaadi plahvatus,Kasutage liikumisvõrrandeid ja analüüsige kildude liikumist massikeskme süsteemis.
+2019-v2g-09,dünaamika,kiikumine ja jõud,Kasutada jõudude ja jõumomentide tasakaalu seadusi ning energia jäävuse seadust.
+2019-v2g-10,elektriahelad,dioodide võimsus,"Analüüsi dioodide avanemist järjestikku, et leida iga dioodi pingelang ja seejärel arvuta võimsus P = U * I."
+2019-v3g-01,kinemaatika,pidurdusaeg,"Kasutage suhtelist kiirus ja pidurdusteekonna valemit, et leida aeg, mis kulus autode peatumiseks."
+2019-v3g-02,dünaamika,hõõrdejõud,"Kasutage rõhu ja jõu seoseid, et arvutada vajalik hõõrdejõu moment."
+2019-v3g-03,kinemaatika,trajektoor,"Kasutage ringjoonte konstruktsiooni ja kiirus-täpsuse seoseid, et leida lennuki võimalikud asukohad."
+2019-v3g-04,kinemaatika,konveierite liikumine,"Kasutage kiirus- ja hõõrdejõu tasakaalu seadusi, et leida aeg, mis kulub plaadi liikumiseks konveieril."
+2019-v3g-05,dünaamika,põrge ja energia,"Kasutage energia säilitamise seadust ja põrke seadusi, et leida vajalik algkiirus."
+2019-v3g-06,dünaamika,tsüklotronperiood,"Kasutage tsüklotronperioodi valemit, et leida kuulike viibimise aeg silindris."
+2019-v3g-07,elektriahelad,ampermeetri näidud,"Kasutage Kirchoffi seadusi ja analüüsige takistite ühendusi, et leida voolud."
+2019-v3g-08,kinemaatika,minimaalne kiirus,"Kasutage geomeetrilisi suhteid ja trigonometrilisi funktsioone, et leida kärbse minimaalne kiirus tema kujutise suhtes."
+2019-v3g-09,elektrostaatika,indutseeritud laeng,Kasutage superpositsiooniprintsiipi ja potentsiaali arvutamist.
+2019-v3g-10,elektrostaatika,pöörduv elektriväli,"Kasutage osakese liikumise analüüsi ja impulsi säilitamise seadust, et leida trajektoori läbimõõt."
+2020-lahg-01,vedelike mehaanika,alarõhk,"Kasutage Bernoulli võrrandit ja isotermilise protsessi omadusi, et leida maksimaalne vedeliku ruumala."
+2020-lahg-02,geomeetriline optika,kumerlääts,"Kasutage kumerläätsede fookuse ja optilise keskpunkti seadusi, et leida ruudu tippude kujutised."
+2020-lahg-03,varia,kriitiline nurk,"Kasutage Snelli seadust, et leida vajalik kõverusraadius, et valgusvihk ei peegelduks."
+2020-lahg-04,taevamehaanika,näiv kiirus,"Kasutage liikumise ja nurkade geomeetrilisi seoseid, et leida näiv kiirus ja arvestada valguse kiirusest suurema tulemuse võimalikkust."
+2020-lahg-05,elektrostaatika,induktsioon,"Kasutage Faraday induktsiooniseadust ja arvutage elektromotoorjõud kontuuris, et leida voolutugevus."
+2020-lahg-06,elektriahelad,kondensaatorite ühendamine,Kasutage laengu jäävuse seadust ja kondensaatorite pingete seoseid.
+2020-lahg-07,staatika,jõudude tasakaal,"Kirjuta üles jõudude tasakaal vertikaalsihis ja leia hõõrdeteguri minimaalne väärtus, et vältida liikumist."
+2020-lahg-08,termodünaamika,Stefan-Boltzmanni seadus,"Kasutage Stefan-Boltzmanni seadust, et leida vaskplaadi tegelik temperatuur seoses kiirguse intensiivsuse ja neeldumisteguriga."
+2020-lahg-09,taevamehaanika,Maa orbiit,"Kasutada Kepleri seadusi, et leida suve ja talve pikkused vastavalt ellipsi pindaladele."
+2020-lahg-10,dünaamika,kuuli liikumine koonusel,"Kasutage jõudude tasakaalu ja liikumise seadusi, et analüüsida koonuse pinnal toimivaid jõude."
+2020-v2g-01,termodünaamika,soojushulkade arvutamine,"Kasutage soojushulkade võrdlemise meetodit, et leida kerise temperatuuri muutus külma ja kuuma vee puhul."
+2020-v2g-02,dünaamika,ringliikumine,"Kasuta jõudude tasakaalu ja tsentrifugaaljõu võrrandeid, et leida joonkiirus ja pöörlemise sagedus."
+2020-v2g-03,dünaamika,energiakadu,"Kasutage energia säilitamise seadust, arvestades potentsiaalse energia muutust ja üleslükkejõu tööd."
+2020-v2g-04,elektriahelad,takistuse leidmine,"Kasutage sümmeetriat ja lihtsustage ahelat, et leida takistus punktide 1 ja 2 vahel."
+2020-v2g-05,kinemaatika,maksimaalne lennukaugus,"Kasutage energia säilitamise seadust ja kinemaatilisi võrrandeid, et leida maksimaalne lennukaugus."
+2020-v2g-06,dünaamika,osutite liikumine,Arvuta osutite maksimaalne võimsus ja võrdle seda vooluallika kasuliku võimsusega.
+2020-v2g-07,termodünaamika,soojusbilanss,"Kasutada soojusbilansi seadust, et leida õhu temperatuuri muutus, arvestades veeauru ja õhu erisoojusi."
+2020-v2g-08,elektriahelad,dioodide voolu-pinge omadused,"Kasutage dioodide voolu-pinge seadust ja paralleelühenduse omadusi, et leida voolude ja võimsuste erinevused."
+2020-v2g-09,dünaamika,laengud magnetväljas,Kasutage osakeste trajektooride analüüsimiseks geomeetrilisi ja trigonomeetrilisi meetodeid.
+2020-v2g-10,geomeetriline optika,teleskoobi suurendus,Kasutage läätsede fookuskauguste liitmise reeglit ja nurksuurenduse valemit.
+2020-v3g-01,geomeetriline optika,murdumisnäitaja,"Kasutage Snelli seadust ja väikeste nurkade lähendust, et leida murdumisnäitaja."
+2020-v3g-02,dünaamika,ringliikumine,"Kasutage rõhu ja kiirusmõjude tasakaalu analüüsi, et näidata, et kohukesed ei lömastu."
+2020-v3g-03,dünaamika,elektrivool,"Kasutage Ohmi seadust ja arvutage vasktoru takistus, et leida vajalik pikkus."
+2020-v3g-04,dünaamika,resonants,Kasutage vedrupendli perioodi valemit ja seostage see koosinuslaine sagedusega.
+2020-v3g-05,elektriahelad,takistus ja ühendused,"Kasutage takistite ühendamise reegleid, et leida ekvivalentne takistus."
+2020-v3g-06,kinemaatika,projektiilide liikumine,"Kasutage projektiili liikumise võrrandeid, et leida nõlva kõrgusprofiil."
+2020-v3g-07,staatika,hõõrdetegur,"Kasutage jõudude tasakaalu ja geomeetrilisi suhteid, et leida minimaalne hõõrdetegur."
+2020-v3g-08,geomeetriline optika,peegeldus,Kasutage peegeldus seadust ja joonistage kiirte käik peeglite vahel.
+2020-v3g-09,vedelike mehaanika,õhupallide paisumine,"Kasutage jõudude tasakaalu ja elastsuse seadusi, et leida õhupallide uued raadiused."
+2020-v3g-10,elektriahelad,takistus,Kasutage superpositsiooniprintsiipi ja sümmeetriat takistuse arvutamiseks.
+2021-lahg-01,gaasid,ideaalse gaasi seadus,"Kasutage ideaalse gaasi olekuvõrrandit, et leida rõhk temperatuurimuutuse korral."
+2021-lahg-02,dünaamika,plokisüsteem,"Kasutage Newtoni seadusi ja energia jäävuse printsiipi, et leida kõrgus, kuhu väiksem raskus tõuseb."
+2021-lahg-03,geomeetriline optika,kumerpeegel,"Kasutage peegli fookuse ja optilise peatelje seadusi, et konstrueerida kumerpeegel, mis loob soovitud kujutised."
+2021-lahg-04,termodünaamika,suhteline niiskus,"Kasutage ideaalse gaasi olekuvõrrandit ja suhtelise niiskuse definitsiooni, et leida vajalikud temperatuurid."
+2021-lahg-05,vedelike mehaanika,tiheduse muutumine,"Kasutage tiheduse ja rõhu seoseid, et leida vedeliku taseme muutus pärast jää sulamist ja segunemist."
+2021-lahg-06,kinemaatika,kaugusvise,"Kasutage viskenurga ja kiiruskomponentide analüüsi, et maksimeerida lennukaugust."
+2021-lahg-07,dünaamika,pöörlemine,Kasutage energia jäävuse seadust ja analüüsige jõudude tasakaalu süsteemis.
+2021-lahg-08,taevamehaanika,orbiidid ja manöövrid,Kasutage gravitatsioonivälja potentsiaalset energiat ja impulsi jäävuse seadust.
+2021-lahg-09,dünaamika,pidurdus ja hõõrdumine,"Kasutage jõudude ja jõumomentide tasakaalu seadusi, et leida nõuded hõõrdetegurile."
+2021-lahg-10,elektriahelad,takistus,Kasutage sarnaste kolmnurkade omadusi ja ekvivalentskeemide analüüsi takistuse leidmiseks.
+2021-v2g-01,dünaamika,kuuli tiirlemisperiood,Kasutage pöörleva taustsüsteemi ja jõudude tasakaalu seadust.
+2021-v2g-02,termodünaamika,vees ja jääd,"Kasutage ideaalgaasi seadust ja massi säilitamise seadust, et leida maksimaalne vee kogus pudelis."
+2021-v2g-03,varia,soojusvahetus,"Kasutage energia jäävuse seadust ja keskmise temperatuuri arvutamist, et analüüsida segamise võimalusi."
+2021-v2g-04,dünaamika,batüskaafi tõus,"Kasutage jõu ja töö seoseid, et leida vajalik aeg vee pumpamiseks."
+2021-v2g-05,elektriahelad,maksimaalne võimsus,Kasutage võimsuse avaldist ja leidke maksimum ruutfunktsiooni kaudu.
+2021-v2g-06,kinemaatika,liikumise tõenäosus,"Kasutage geomeetrilisi tõenäosusi, et määrata auto ja jalgratturi alguspunktide vaheline suhe."
+2021-v2g-07,elektrostaatika,rippuv laeng,"Kasutage jõudude tasakaalu seadust, et leida mass, mille korral jõudude summa on null."
+2021-v2g-08,laineoptika,lainejuhtide peegeldus,"Kasutage intensiivsuse sõltuvust peegeldustegurist ja kaugusest, et leida maksimaalne levimiskaugus."
+2021-v2g-09,geomeetriline optika,läätse asukoht,Kasutage kiirusvektorite pikendamist ja sirgete lõikepunktide leidmist läätse tasandil.
+2021-v2g-10,dünaamika,tõmbejõud,"Kasutage jõudude tasakaalu seadust, et leida köie minimaalne tõmbejõud."
+2021-v3g-01,kinemaatika,horisontaalne viskamine,"Kasutage vertikaalse ja horisontaalse liikumise võrrandeid, et leida lumepalli algkiirus."
+2021-v3g-02,termodünaamika,soojuskadude võimsus,Kasutage ideaalse gaasi olekuvõrrandit ja seostage soojuskadude võimsus ajavahemiku jooksul.
+2021-v3g-03,geomeetriline optika,kumerläätse fookuskaugus,Kasutage kumerläätse fookuse valemit ja sarnaste kolmnurkade omadusi.
+2021-v3g-04,dünaamika,hõõrdetegur,"Kasutage kiirus- ja kiirenduse seoseid, et leida minimaalse sõiduaja arvutamiseks vajalikud ajaperioodid."
+2021-v3g-05,elektriahelad,võimsus,"Kasutage Ohmi seadust ja võimsuse valemit, et leida takistuse väärtused erinevates olukordades."
+2021-v3g-06,dünaamika,keha kaal laiuskraadist,Kasutage tsentrifugaaljõu ja gravitatsioonijõu tasakaalu analüüsi.
+2021-v3g-07,elektrostaatika,laengute suhted,"Kasutage Coulombi seadust ja analüüsige resultantjõude, et leida laengute suhted, mis tagavad sirgjoonelise liikumise."
+2021-v3g-08,vedelike mehaanika,veesamba rõhk,"Kasutage rõhu ja kiirenduse seoseid, et leida veesamba kiirus ja rõhkude vahe."
+2021-v3g-09,vedelike mehaanika,murdumisnäitaja,"Kasutage läätse optilise tugevuse valemit ja väikeste nurkade lähendust, et leida tundmatu vedeliku murdumisnäitaja."
+2021-v3g-10,elektrostaatika,Lorentzi jõud,"Kasutage Ampère'i seadust ja Lorentzi jõu valemit, et analüüsida elektroni liikumist magnetväljas."
+2022-lahg-01,vedelike mehaanika,soolsus ja tasakaal,"Kasutage tasakaalu seadust, et võrrelda sissetuleva ja väljamineva vee ning soola koguseid."
+2022-lahg-02,staatika,jõudude tasakaal,"Rakenda jõudude tasakaalu seadus, et leida pliiatsi tipunurk."
+2022-lahg-03,kinemaatika,liikumine eskalaatoril,"Kasutage Snelli seadust ja väikeste nurkade lähendusi, et leida optimaalne nurk."
+2022-lahg-04,termodünaamika,sublimeerumine,"Kasutage energia tasakaalu ja gaasi seadusi, et leida lõpptemperatuur ja rõhk tünnis."
+2022-lahg-05,elektriahelad,reostaadid,"Kasutage Ohmi seadust ja paralleelsete takistite valemit, et leida ühendatud plaatide takistus."
+2022-lahg-06,gaasid,kastepunkt,"Kasutage ideaalse gaasi olekuvõrrandit ja graafikute analüüsi, et leida kastepunkti muutus."
+2022-lahg-07,elektrostaatika,elektronide liikumine,"Kasutage Newtoni seadusi ja elektrivälja tugevuse valemit, et leida minimaalne algkiirus."
+2022-lahg-08,dünaamika,laeva võnkumine,"Kasutage vedrupendli mudelit ja Newtoni teooriat, et analüüsida laeva võnkumist ja leida tühimass."
+2022-lahg-09,varia,kumerlääts,"Kasutage läätsede murdumisnurka ja geomeetrilisi suhteid, et leida minimaalne nurk, mille korral spioon näeb koera."
+2022-lahg-10,dünaamika,pöörlemine,"Kasutage jõumomendi tasakaalu seadust, et leida nurkkiirus."
+2022-v2g-01,geomeetriline optika,peegeldumine,"Konstrueerige kiirte käik, kasutades peegeldumise seadust ja peeglite kujutisi."
+2022-v2g-02,elektriahelad,juhtmete takistus,"Kasutage Ohmi seadust ja arvutage juhtme takistus ning vool, et leida eralduv võimsus."
+2022-v2g-03,dünaamika,hõõrdetegur,"Kasutage energia jäävuse seadust ja hõõrdejõu tasakaalu, et leida hõõrdetegur."
+2022-v2g-04,termodünaamika,soojusvahetus,"Kasutage soojusvahetuse võimsuse võrrandeid, et leida temperatuurierinevus."
+2022-v2g-05,taevamehaanika,geostatsionaarne orbiit,"Kasutage Kepleri seadusi ja tasakaalu jõudude analüüsi, et leida geostatsionaarse orbiidi raadius."
+2022-v2g-06,kinemaatika,põrge ja kõrgus,"Kasutage liikumise seadusi, et leida vajalikud ajad ja kiirus, arvestades kõrguste erinevusi."
+2022-v2g-07,dünaamika,impulsi jäävus,"Kasutage impulsi jäävuse seadust ja potentsiaalse energia muutust, et leida plaadi uue tasakaaluasendi kõrgus."
+2022-v2g-08,termodünaamika,rõhk ja temperatuur,"Kasutage ideaalgaasi seadust ja küllastunud veeauru rõhu graafikut, et leida rõhkude vahe."
+2022-v2g-09,elektrostaatika,plaatkondensaator,"Kasutage plaatkondensaatori mahtuvuse ja elektrivälja tugevuse seoseid, et leida laengu kadu."
+2022-v2g-10,kinemaatika,põrgete analüüs,"Kasutage graafiku andmeid, et arvutada iga põrke ajal kineetilise energia ja heli intensiivsuse suhe."
+2022-v3g-01,dünaamika,vastutuul ja jõud,Kasutage jõudiagrammi ja analüüsige takistusjõu ja üleslükkejõu mõju ketta lennule.
+2022-v3g-02,kinemaatika,liikumise aeg,"Kasutage liikumise aega ja kiirusformuleid, et võrrelda teekondi."
+2022-v3g-03,elektriahelad,takistus,"Jagage silinder kaheks poolsilindriks ja arvutage kummagi takistus, seejärel liitke need rööbiti."
+2022-v3g-04,geomeetriline optika,läätsed,"Kasutage läätsede fookuspunktide ja kauguse seoseid, et leida ekraani õige asukoht."
+2022-v3g-05,dünaamika,tõusunurk ja kiirus,"Kasutage jõudude tasakaalu ja energia säilitamise seadust, et leida tõusunurk ja maksimaalne kiirus."
+2022-v3g-06,dünaamika,adiabaatiline paisumine,Kasutage adiabaadiseadust $pV^\gamma=const$ ja temperatuuri avaldust $T_1=T_0(p_0/p_1)^{\frac{\gamma - 1}{\gamma}}$.
+2022-v3g-07,vedelike mehaanika,sadevee äravool,"Kasutage võrrandisüsteemi, et leida kraavi mahutavus ja äravoolu kiirus, et vältida uputust."
+2022-v3g-08,dünaamika,kaalu muutumine,"Kasutage massi ja impulsi muutumise seadusi, et analüüsida kaalu muutumist ajas."
+2022-v3g-09,termodünaamika,soojuskiirgus,Kasutada soojuskiirguse tasakaalu seadust ja Stefan-Boltzmanni seadust temperatuuri arvutamiseks.
+2022-v3g-10,elektrostaatika,indutseeritud laengud,Kasutage Coulomb'i seadust ja tasakaalu tingimusi indutseeritud laengute analüüsimiseks.
+2023-lahg-01,kinemaatika,vertikaalne kiirus,"Kasutage horisontaalse nihke ja kukkumise aega seoseid, et leida piiskade vertikaalne kiirus tuule suunaga."
+2023-lahg-02,geomeetriline optika,kumerpeegel,Kasutage peegeldumise seadust ja mõõtke kujutise ja eseme suuruste suhet.
+2023-lahg-03,staatika,elastsusjõud,"Kasutage jõudude tasakaalu ja elastsuse seadust, et leida läbivajumine."
+2023-lahg-04,elektriahelad,kondensaatorite laadimine,Kasutage energia ja laengu jäävuse seadusi kondensaatorite vahelise laadimise analüüsimiseks.
+2023-lahg-05,dünaamika,kiirus ja kiirendus,"Kasutage jõu ja massi seost, et leida kiirusest sõltuv kiirus ja kiirendus."
+2023-lahg-06,dünaamika,mootori efektiivsus,"Kasutage ideaalgaasi seadust ja mootori töötsüklit, et arvutada kütuse mass ja tippvõimsus."
+2023-lahg-07,termodünaamika,soojuspump,"Kasutage soojusmahtuvuse ja soojuskadude võimsuse seoseid, et leida ajavahemik kahe järjestikuse sisse lülitumise vahel."
+2023-lahg-08,geomeetriline optika,läätsed,"Kasutage Snelli seadust ja Pythagorase teoreemi, et leida kõverusraadius ja fookuskaugus."
+2023-lahg-09,dünaamika,kiirus ja kiirendus,"Kasutage jõumomentide tasakaalu ja Newtoni seadusi, et leida kiirus ja kiirendus ühendatud süsteemile."
+2023-lahg-10,dünaamika,magnetväljad,"Kasutage sümmeetri ja nurkade seoseid, et leida magnetväljade tugevuste suhe."
+2023-v2g-01,geomeetriline optika,läätsed,"Kasutage läätsede fookuskauguste suhet ja joonistage skeemid, et näidata valgusvihkude muutumist."
+2023-v2g-02,termodünaamika,otsene kalorimeetria,"Kasutage energia jäävuse seadust ja arvutage soojushulk, mis veele lisandub, et leida inimese kehast eralduva soojuse võimsus."
+2023-v2g-03,dünaamika,õhutakistus,"Kasutage energia ja töö seadusi, et leida kütusekulude suhe linnas ja maanteel."
+2023-v2g-04,dünaamika,drooni kiirus,"Kasutage jõu ja kiirenduse seoseid, et leida drooni horisontaalsuunaline kiirus antud ajahetkel."
+2023-v2g-05,dünaamika,vedrude jäikus,Kasutage Hooke'i seadust ja ringliikumise jõudude tasakaalu.
+2023-v2g-06,varia,klaasplaadi murdumine,Kasutage Snelli seadust ja geomeetrilisi suhteid kolmnurkades.
+2023-v2g-07,elektriahelad,pingemõõtmine,"Kasutage Ohmi seadust ja pinged takistuste vahel, et leida voltmeetri näit."
+2023-v2g-08,dünaamika,põrked ja energia,Kasutage energia säilitamise seadust ja analüüsige kera liikumist süvendi põhjas ja servas.
+2023-v2g-09,termodünaamika,küllastunud veeauru rõhk,"Kasutage ideaalse gaasi olekuvõrrandit ja suhtelise õhuniiskuse definitsiooni, et leida küllastunud veeauru rõhk ja selle muutus."
+2023-v2g-10,elektriahelad,pinged ja takistused,"Kasutage Kirchoffi seadusi, et leida pinge ja takistuse seosed, ning arvutage juhtme pikkus takistuse ja eritakistuse põhjal."
+2023-v3g-01,dünaamika,pidurdusjõud,Analüüsi jõudude tasakaalu ja inertsuse mõju reisijatele pidurdamise ajal.
+2023-v3g-02,elektrostaatika,elektrilöögi risk,"Kasutage Ohmi seadust ja analüüsige voolu ja takistusi, et leida lubatavad sisetakistuse väärtused."
+2023-v3g-03,geomeetriline optika,läätsed ja peeglid,"Kasutage kiirte joonistamist ja optiliste seaduste rakendamist, et leida kujutised."
+2023-v3g-04,staatika,laeva tõmbamine,"Kasutage jõudude tasakaalu ja pöörlemise tingimusi, et leida puksiirlaevade vajaliku tõmbejõu suurus."
+2023-v3g-05,vedelike mehaanika,sundventilatsioon,"Kasutage ideaalgaasi seadust ja küllastunud aururõhu graafikut, et leida õhuvahetuse kiirus."
+2023-v3g-06,vedelike mehaanika,pindpinevus,"Kasuta jõudude tasakaalu, et leida nurk, mille all nõel veepinnale toetub."
+2023-v3g-07,dünaamika,orbiidid ja kiirus,"Kasutage gravitatsioonijõu ja ringorbiidi kiirusvõrrandit, et leida kaugus planeedi keskpunktist."
+2023-v3g-08,kinemaatika,kuulitõuge,"Kasutage kuuli lennukauguse ja kõrguse seoseid, et leida optimaalne viskenurk ja algkiirus."
+2023-v3g-09,elektrostaatika,pinge ja elektriväli,"Kasutage Gaussi teoreemi ja kondensaatori mahtuvuse valemit, et leida elektriväli ja pinge."
+2023-v3g-10,varia,murdumine,"Kasutage murdumisseadust ja geomeetrilisi suhteid, et leida kaugus vaataja silmast pallini."
+2024-lahg-01,dünaamika,vabalangemine,"Kasutage Archimedese seadust ja tasakaalu jõudude analüüsi, et leida sügavus, kus üleslükkejõud on võrdsustunud raskusjõuga."
+2024-lahg-02,dünaamika,gravitatsioon,"Kasuta gravitatsioonijõu ja tsentripetaaljõu võrdlemist, et leida tihedus."
+2024-lahg-03,geomeetriline optika,numbriline apertuur,"Kasutage murdumisseadust ja täieliku sisepeegeldumise tingimust, et leida numbriline apertuur NA."
+2024-lahg-04,kinemaatika,rongide liikumine,"Kasutage kiirus-aja-suhteid ja pidurdusmaade arvutamist, et leida maksimaalne läbilaskmisvõime."
+2024-lahg-05,termodünaamika,soojusülekanne,"Kasutage ideaalgaasi seadust ja soojusülekande valemit, et leida vajaliku energia ja võimsuse väärtused."
+2024-lahg-06,geomeetriline optika,vari ja valgus,"Kasutage geomeetrilisi jooniseid ja puutujate omadusi, et leida valgusallika kaugus kera keskpunktist."
+2024-lahg-07,magnetism,magnetväli äikesetormis,Kasutage voolutugevuse ja kauguse seost magnetvälja tugevuse arvutamiseks ning rakendage trigonomeetrilisi funktsioone suuna muutuse leidmiseks.
+2024-lahg-08,staatika,kaldenurk ja hõõrdetegur,"Kasutame jõuülekande ja hõõrdeteguri tasakaalu analüüsi, et leida maksimaalne kaldenurk."
+2024-lahg-09,elektrostaatika,kondensaatorite analüüs,"Kasutage kondensaatorite mahtuvuse ja elektrivälja valemeid, et leida osakese kiirus ja nihe."
+2024-lahg-10,dünaamika,õhutakistus,"Kasutage siinusteoreemi ja koosinusteoreemi, et leida suhtelise kiirusjõu komponendid."
+2024-v2g-01,termodünaamika,energiatootmine,Kasutage energia tasakaalu ja paneelide tootmisvõimsuse arvutamist.
+2024-v2g-02,geomeetriline optika,hajumine,"Kasutage valgustihedust ja sarnaste kolmnurkade omadusi, et leida tajuri näitude suhe."
+2024-v2g-03,elektriahelad,takisti arvutamine,"Kasutage Ohmi seadust takisti väärtuse leidmiseks, arvestades LEDide pingelangusid ja voolutugevust."
+2024-v2g-04,termodünaamika,ruumpaisumine,"Kasutage tasakaalutingimusi ja ruumpaisumisteguri valemit, et leida kuulikese massi muutus temperatuuriga."
+2024-v2g-05,varia,ravimi kontsentratsioon,"Kasutage poolestusaega ja logaritmi, et arvutada aeg kahe tableti võtmise vahel."
+2024-v2g-06,dünaamika,mitteelastne põrge,Kasutage energia säilitamise seadust ja analüüsige kuuli liikumist enne ja pärast nööriga kokkupõrget.
+2024-v2g-07,vedelike mehaanika,veetase,"Kasutage tasakaalutingimusi ja rõhumisjõu valemit, et leida veetaseme muutus."
+2024-v2g-08,termodünaamika,ideaalgaasi seadus,"Kasutage ideaalgaasi seadust, et leida rõhkude vahe ja arvutada lükkejõud."
+2024-v2g-09,elektrostaatika,laengu tasakaal,Kasutage voolu tasakaalu võrrandit ja kuuli potentsiaali seost laenguga.
+2024-v2g-10,kinemaatika,põrked,"Kasutage energia ja liikumise seadusi, et leida kaugus a, mille korral liikumine on perioodiline."
+2024-v3g-01,dünaamika,kelgutamine,Kasutage jõudude tasakaalu ja ühtlase kiirendusega liikumise valemit.
+2024-v3g-02,dünaamika,energia jäävuse seadus,"Kasutage energia jäävuse seadust ja Hooke'i seadust, et leida vajaliku venituse kaugus."
+2024-v3g-03,elektriahelad,dioodide ühendamine,"Kasutage dioodide ja takistite jadamisi ühendamist, et saavutada soovitud voolutugevus ja pinge."
+2024-v3g-04,dünaamika,põrge ja energia,"Kasutage kineetilise energia ja Newtoni seadusi, et leida energia kadu ja mõjuv jõud."
+2024-v3g-05,geomeetriline optika,peegeldus,"Kasutage peegelduste omadusi ja geomeetrilisi jooniseid, et leida objekti kaugus peeglist."
+2024-v3g-06,termodünaamika,jahtumine,Kasutage soojusülekande seadust ja ruumala ning pindala suhteid koonusekujuliste termoste puhul.
+2024-v3g-07,staatika,tasakaaluasend,"Kasutage jõudude ja momentide tasakaalu seadusi, et leida silindri raadius."
+2024-v3g-08,geomeetriline optika,läätsed ja kolmnurgad,"Kasutage trigonometrilisi suhteid ja läätsede omadusi, et leida hüpotenuusi pikkus."
+2024-v3g-09,gaasid,niiske õhk,Kasutage ideaalse gaasi olekuvõrrandit ja moolide arvtiheduse seoseid.
+2024-v3g-10,elektrostaatika,kondensaator vedelikus,"Kasutage kondensaatori mahtuvuse valemit ja tasakaalu tingimust, et leida vedeliku tase kondensaatori sees."

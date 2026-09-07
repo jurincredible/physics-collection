@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import argparse, os, sys, textwrap, random
+import argparse, os, re, sys, textwrap, random
 from pathlib import Path
 import pandas as pd
 import yaml
@@ -77,7 +77,20 @@ def pick_by_filters(df, flt):
             t = token(flt["voor"])
             q = q[q["id"].astype(str).str.contains(f"-{t}-", case=False, na=False)]
     if "kategooria" in flt and flt["kategooria"]:
-        q = q[q["kategooria"].str.lower() == str(flt["kategooria"]).lower()]
+        kat = flt["kategooria"]
+        if isinstance(kat, (list, tuple, set)):
+            lubatud = {str(k).lower() for k in kat}
+            q = q[q["kategooria"].str.lower().isin(lubatud)]
+        else:
+            q = q[q["kategooria"].str.lower() == str(kat).lower()]
+    # tüüp: T = teooriaülesanne, E = eksperimendiülesanne.
+    # YAML-is võib kirjutada nii "tüüp" kui ASCII-ohutult "tyyp".
+    tyyp = flt.get("tüüp") or flt.get("tyyp")
+    if tyyp:
+        q = q[q["tüüp"].astype(str).str.upper() == str(tyyp).upper()]
+    # tase: G = gümnaasium, P = põhikool, K = ühine
+    if flt.get("tase"):
+        q = q[q["tase"].astype(str).str.upper() == str(flt["tase"]).upper()]
     if "aastad" in flt and isinstance(flt["aastad"], (list, tuple)) and len(flt["aastad"]) == 2:
         q = q[(q["aasta"] >= flt["aastad"][0]) & (q["aasta"] <= flt["aastad"][1])]
     if "raskus" in flt and isinstance(flt["raskus"], (list, tuple)) and len(flt["raskus"]) == 2:
@@ -88,6 +101,35 @@ def pick_by_filters(df, flt):
         q = q.head(int(flt["max"]))
     return q
 
+def lesson_date_str(cfg, cfg_path):
+    """Millise kuupäevaga failinimi tuleb.
+
+    Varem oli see alati date.today(), mistõttu 8. septembri tunnikomplekt
+    sai nimeks 20260907_füüsika.tex, kui ta 7. septembril valmis tehti.
+    Nüüd on järjekord selline:
+      1. lesson.yml võti `failinimi:` (kui tahad nime ise määrata)
+      2. kausta nimes olev kuupäev, nt lesson-papers/2026-09-08/
+      3. lesson.yml võti `date:`, kui see on kuupäev (08.09.2026 või 2026-09-08)
+      4. tänane kuupäev
+    """
+    if cfg.get("failinimi"):
+        return str(cfg["failinimi"])
+
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", cfg_path.parent.name)
+    if m:
+        return "".join(m.groups())
+
+    d = str(cfg.get("date", "")).strip()
+    for pat, order in ((r"^(\d{2})\.(\d{2})\.(\d{4})$", (2, 1, 0)),
+                       (r"^(\d{4})-(\d{2})-(\d{2})$", (0, 1, 2))):
+        m = re.match(pat, d)
+        if m:
+            g = m.groups()
+            return f"{g[order[0]]}{g[order[1]]}{g[order[2]]}"
+
+    return date.today().strftime("%Y%m%d")
+
+
 def make_problem_block(row, include_hints=False, include_solutions=False):
     pid    = s(row.get("id"))
     aasta  = s(row.get("aasta"))
@@ -97,9 +139,14 @@ def make_problem_block(row, include_hints=False, include_solutions=False):
     stmt   = cut_eng(s(row.get("statement_tex")))
     hint   = cut_eng(s(row.get("vihje_tex")))
     solu   = cut_eng(s(row.get("lahendus_tex")))
+    vahend = s(row.get("katsevahendid"))
 
     header = f"\\ProblemHeader{{{pid} — {pealk}}}{{{kateg}}}{{{raskus}}}\n"
     parts = [header, stmt, "\n"]
+
+    # Eksperimendiülesandel on katsevahendid andmebaasis eraldi väljas.
+    if vahend:
+        parts += ["\\Vahendid{", vahend, "}\n"]
 
     if include_hints and hint:
         parts += ["\\begin{Hint}\n", hint, "\n\\end{Hint}\n"]
@@ -151,8 +198,18 @@ def main():
     blocks = [make_problem_block(r, include_hints, include_solutions) for r in selected]
     problems_tex = "\n\\bigskip\n\\hrule\\bigskip\n".join(blocks)
 
-    # Load template and fill
+    # Load template and fill.
+    # Mall otsitakse kõigepealt tunni enda kaustast (nii saab üksik tund oma
+    # kujundust muuta), muidu võetakse ühine mall lesson-papers/ juurest.
+    # Varem oli igas tunnikaustas oma koopia, 20 tükki, ja nad olid juba
+    # lahku jooksnud: kahes vanemas puudus circuitikz.
     tpl_path = cfg_path.parent / "lesson_template.tex"
+    if not tpl_path.exists():
+        tpl_path = Path(__file__).resolve().parent / "lesson_template.tex"
+    if not tpl_path.exists():
+        print(f"Malli ei leitud: {tpl_path}", file=sys.stderr)
+        sys.exit(2)
+    print(f"Mall: {tpl_path}")
     tpl = tpl_path.read_text(encoding="utf-8")
     filled = (
         tpl.replace("__TITLE__", cfg.get("title", "Tunnikonspekt"))
@@ -161,8 +218,7 @@ def main():
            .replace("__PROBLEMS_BLOCK__", problems_tex)
     )
 
-    today_str = date.today().strftime("%Y%m%d")
-    base_name = f"{today_str}_füüsika"
+    base_name = f"{lesson_date_str(cfg, cfg_path)}_füüsika"
 
     out_tex = cfg_path.parent / f"{base_name}.tex"
     out_tex.write_text(filled, encoding="utf-8")
