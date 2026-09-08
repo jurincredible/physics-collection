@@ -91,14 +91,38 @@ tabelid, graafikud ja murrud. Seepärast on iga lahendus märgistatud:
 
 | `lahendusseis` | Mitu | Tähendus |
 |---|---|---|
-| `toores` | 151 | tekstikihist imporditud proosa; loetav, aga ülakirjad ja murrud on lihtsustatud |
-| `kasitsi` | 17 | originaalis on tabel, graafik või hindamisskeem; teksti EI ole imporditud, faili sees on viide kogumiku leheküljele |
-| `kasitsi_tehtud` | 1 | käsitsi ümber kirjutatud, vt `tools/kasitsi_lahendus/` |
+| `toores` | 124 | tekstikihist imporditud proosa; loetav, aga ülakirjad ja murrud on lihtsustatud |
+| `toores_ilma_skeemita` | 33 | proosa on imporditud, aga žürii hindamisskeem on lõigatud ära (ta on lahenduse lõpus ja tekstikihist loetamatu); faili sees on viide kogumiku leheküljele |
+| `kasitsi` | 9 | originaalis on tabel või graafik; teksti EI ole imporditud, faili sees on viide kogumiku leheküljele |
+| `kasitsi_tehtud` | 3 | käsitsi ümber kirjutatud, vt `tools/kasitsi_lahendus/` |
 | `puudub` | 12 | kogumik ise ütleb, et lahendus puudub |
 
 Miks nii: pool-loetav lahendus andmebaasis on hullem kui aus viide
-originaalile. Kui mõnda neist 17-st on tunniks vaja, kirjutatakse ta
-`tools/kasitsi_lahendus/<id>.tex` sisse ja import ei kaota seda enam ära.
+originaalile. Hindamisskeem on lahenduse lõpus, seega tema pärast ei visata
+kogu proosat ära, vaid ainult skeem jääb kogumikku. Kui mõnda neist üheksast
+on tunniks vaja, kirjutatakse ta `tools/kasitsi_lahendus/<id>.tex` sisse ja
+import ei kaota seda ära. Nimekiri tuleb käsuga
+`python build_database.py --report`.
+
+## Järgmised tööd
+
+1. **Üheksa lahendust käsitsi ümber kirjutada**, kui neid tunniks vaja
+   läheb. Nimekiri koos kogumiku leheküljenumbritega tuleb `--report`-iga.
+   Eeskujuks on `tools/kasitsi_lahendus/2017-v2g-ge1.tex` (Ü117
+   Pendlikonstant, koos mõõtmistabeli ja hindamisskeemiga).
+2. **33 hindamisskeemi**, kui punktijaotus tunnis kasulikuks osutub. Need on
+   lühikesed ja neid saab lisada sama mehhanismiga.
+3. **Katsevahendite koondnimekiri.** Vahendid on eraldi väljas, seega ühe
+   nädala või terve semestri vahendite loendi saab andmebaasist välja
+   lugeda. Skripti selleks veel ei ole.
+4. **Tärnide teine silm.** Tärnid on loetud leheküljepiltidelt ja
+   plokipiirid kontrollitud, aga üksiku ülesande tärniarv võib olla valesti
+   loetud. Kui midagi tundub kahtlane, vaata kogumiku lehekülge.
+5. **Kogumiku trükivead**, mis siiani leitud ja parandatud (parandus on
+   `tools/kasitsi_lahendus/` failis, originaal jääb puutumata): L20-s on
+   `alpha = pi/sqrt(g)`, õige on `2*pi/sqrt(g)`, ja kogumik ütleb samas
+   lauses ise `~ 2 s/m^0,5`. Kui leiad veel, tee samamoodi ja kirjuta
+   parandus faili päisesse kommentaarina.
 
 ## Eksperimendiülesannete import: mis on käsitsi
 

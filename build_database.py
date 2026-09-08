@@ -461,6 +461,14 @@ def main():
             print(f"  {n:4d}  {k or '(tühi)'}")
         print("\nVoorud:", dict(Counter(r["voor"] for r in read)))
         print("Tasemed:", dict(Counter(r["tase"] for r in read)))
+        # Need on need eksperimendiülesanded, mille lahendus tuleb käsitsi
+        # ümber kirjutada (originaalis on tabel, graafik või hindamisskeem).
+        vaja = [r for r in read if r["lahendusseis"] == "kasitsi"]
+        if vaja:
+            print(f"\nLahendus tuleb käsitsi ümber kirjutada ({len(vaja)} tk). "
+                  f"Kirjuta fail tools/kasitsi_lahendus/<id>.tex:")
+            for r in sorted(vaja, key=lambda x: x["id"]):
+                print(f"  {r['id']:16} {r['pealkiri']:28} {r['allikas']}")
 
     if probleemid:
         print(f"\n{len(probleemid)} PROBLEEMI:", file=sys.stderr)

@@ -39,7 +39,10 @@ from eksperimendi_tekst import convert, has_sqrt    # noqa: E402
 RIKUTUD_MARGID = {
     "tabel": re.compile(r"\bTabel\b"),
     "joonis": re.compile(r"\bJoonis\b"),
-    "hindamisskeem": re.compile(r"Hindamis"),
+    # "Hindamisskeem", "Hindamine", "Hindamiskriteeriumid" -- kõik tähendavad,
+    # et lahenduse lõpus on punktijaotus, mis tekstikihist loetavalt välja ei
+    # tule (nii jäi Ü20 esialgu märkamata, sest muster oli ainult "Hindamis").
+    "hindamisskeem": re.compile(r"Hindami"),
     "numbrijada": re.compile(r"(?:\d[\d,.]*\s+){6,}"),
     # Murd, mis läks katki. Kaks kindlat märki: "= =" tekib siis, kui
     # murrujoone kohal ja all olev tekst satub kõrvuti, ja "rho" tekib siis,
@@ -318,14 +321,29 @@ def main():
         punktid = (lah[0].group("punktid") or "") if lah else ""
         lahendus_puudub = any("Lahendus puudub" in v for _, v in sildid)
 
+        # Hindamisskeem on lahenduse LOPUS ja tema parast ei ole moistlik
+        # kogu proosat ara visata. Loikame teksti skeemi kohalt ja impordime
+        # proosa; skeemi kohta jaab viide kogumiku leheküljele.
+        skeem_ainus = rikutud == ["hindamisskeem"]
         if lahendus_puudub:
             seis, lah_tekst = "puudub", ""
-        elif rikutud:
+        elif rikutud and not skeem_ainus:
             seis, lah_tekst = "kasitsi", ""
             vajab_katt.append((nr, ",".join(rikutud)))
         else:
             seis = "toores"
-            lah_tekst = "\n\n".join(convert(x) for x in lah[1])
+            loigud_lah = lah[1]
+            if skeem_ainus:
+                skeemist = next((i for i, x in enumerate(loigud_lah)
+                                 if x.startswith("Hindami")), len(loigud_lah))
+                loigud_lah = loigud_lah[:skeemist]
+                seis = "toores_ilma_skeemita"
+            lah_tekst = "\n\n".join(convert(x, tundmatud) for x in loigud_lah)
+            if skeem_ainus:
+                lah_tekst += (
+                    "\n\n\\textit{Žürii hindamisskeem on kogumikus lk "
+                    f"{lah_lk.get(nr, '?')}" + "; siia ei ole seda ümber "
+                    "kirjutatud.}")
         if has_sqrt(toorik) or any(has_sqrt(x) for x in loigud):
             juurega.append(nr)
 

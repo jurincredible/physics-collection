@@ -110,15 +110,7 @@ guse moodustab N fooliumi paksust d. Keha uppumise piirjuhul kehtib võrrand
 
 heduse: 2(a + b)$\sigma$ pindtihedus = $\rho$f d = abN g + $\rho$vd.
 
-Hindamine:
-
-Toimiv lahendusidee (kui lahendusidee on vähemtäpne kui ta saaks olla siis anda osa punkte) --- 3 p.
-
-Matemaatiliselt kirjeldatud jõudude tasakaal (osalise kirjelduse puhul anda pindpinevusejõu eest 3 p, üleslükkejõu eest 1 p ja raskusjõu eest 1 p) --- 5 p.
-
-Fooliumi paksuse leidmine võimalikult täpselt (alla 100 kihi mõõtes kuni 1 p) --- 2 p.
-
-Tehtud mõõtmised jõudude tasakaalu jaoks --- 2 p. Saadud õiges suurusjärgus vastus --- 2 p.",,"vesi anumaga, foolium, joonlaud, käärid",14,toores,"Eksperimendi kogu Ü180, lahendus lk 142",physics-collection/problems-exp/2022-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 142; siia ei ole seda ümber kirjutatud.}",,"vesi anumaga, foolium, joonlaud, käärid",14,toores_ilma_skeemita,"Eksperimendi kogu Ü180, lahendus lk 142",physics-collection/problems-exp/2022-v2g-ge2.tex,problems-exp
 2022-v2g-pe1,2022,piirkonnavoor,P,E1,Joonlaua mass,1,staatika,E,,Erkki Tempel,Määrake joonlaua mass.,,"Mõõdame A4 paberi pikkuse ja laiuse ning teades paberi pindtihedust, saame leida
 
 A4 paberi massi mp $\approx$ 5 g
@@ -139,7 +131,7 @@ massi mj.
 
 mplp = mj lj $\Rightarrow$ mj = mplp lj
 
-Hindamine: Paberi massi leidmine --- 2 p. Joonlaua masskeskme leidmine --- 2 p. Joonlaua tasakaalupunkti leidmine koos paberiga --- 1 p. Tasakaalu seoste avaldamine --- 1 p. Joonlaua massi avaldamine --- 1 p. Jõuõlgade lp ja lj korrektne mõõtmine koos kordusmõõtmistega --- 2 p. Joonlaua massi arvutamine --- 1 p.",,"joonlaud, A4 paber (80 g/m$^2$)",10,toores,"Eksperimendi kogu Ü30, lahendus lk 46",physics-collection/problems-exp/2022-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 46; siia ei ole seda ümber kirjutatud.}",,"joonlaud, A4 paber (80 g/m$^2$)",10,toores_ilma_skeemita,"Eksperimendi kogu Ü30, lahendus lk 46",physics-collection/problems-exp/2022-v2g-pe1.tex,problems-exp
 2022-v2g-pe2,2022,piirkonnavoor,P,E2,Plastiliin,1,vedelike mehaanika,E,,Konstantin Dukats,Leidke plastiliini tihedus. Vee tihedus on $\rho$ = 1000 kg m$^{-3}$.,,"Määrata plastiliini ruumala sukeldumismeetodil. Valmistada plastiliinist laevuke ja mõõta selle poolt väljatõrjutud vedeliku ruumala (3 p). Tuletada ujumise tingimusest valem plastiliini tiheduse arvutamiseks:
 
 $\rho$p = mp = $\rho$v Vv (3 p) Vp Vp
@@ -170,10 +162,10 @@ $\rho$f = mf Vp = mf $\cdot$ hp $\rho$p mpVf mp hf
 Masside suhte leidmiseks kasutame kangimeetodid. Paberi saame voltida nii, et seda saab kangina kasutada ja saame leida paberite masside suhte mf /mp. Paberi paksuste suhte hp/hf leidmiseks voldime paberi mitu korda kokku (näiteks 16 kihti) ning vaatame, mitu kihti paberit on sama paks kui 16 kihti fooliumpaberit.",,"Anneke šokolaad 300g, käärid",12,toores,"Eksperimendi kogu Ü123, lahendus lk 97",physics-collection/problems-exp/2021-v3g-pe2.tex,problems-exp
 2021-v2g-ge1,2021,piirkonnavoor,G,E1,Paber,2,dünaamika,E,,Erkki Tempel,Leidke hõõrdetegur kahe paberilehe vahel. Laua liigutamine ei ole lubatud.,,"Hõõrdeteguri saame määrata kasutades kaldpinna meetodit. Voldime ühe/kaks paberit kokku, et tekitada paksem paber, mida saab kasutada kaldpinnana. Kaldpinna peale asetame kolmanda paberi (kokkuvoldutuna) ning leiame minimaalse nurga, mille korral paber hakkab kaldpinnal libisema. Hõõrdeteguri kahe paberilehe vahel saame leida seosest $\mu$ = tan $\alpha$.
 
-Hindamine Tugeva kaldpinna koostamine --- 3 p. Libiseva kehana kokkuvolditud paberi kasutamine --- 1 p. Seose $\mu$ = tan $\alpha$ kasutamine --- 2 p. Kaldpinna nurga/külgede mõõtmine (korduskatsed) --- 2 p. Korrektse tulemuse leidmine --- 2 p.",,"kolm A4 paberilehte, joonlaud",10,toores,"Eksperimendi kogu Ü74, lahendus lk 66",physics-collection/problems-exp/2021-v2g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 66; siia ei ole seda ümber kirjutatud.}",,"kolm A4 paberilehte, joonlaud",10,toores_ilma_skeemita,"Eksperimendi kogu Ü74, lahendus lk 66",physics-collection/problems-exp/2021-v2g-ge1.tex,problems-exp
 2021-v2g-ge2,2021,piirkonnavoor,G,E2,Spagetikõrs,4,dünaamika,E,,Jaan Kalda,"Spagetikõrrega lükates ei ole võimalik avaldada piiramatult suurt jõudu: isegi, kui kõrs oleks absoluutselt sirge ja lükata täpselt piki kõrt, siis teatud jõust alates muutub kõrs ebastabiilseks ja paindub. Eeldades, et maksimaalne avaldatav jõud sõltub fikseeritud kõrre jämeduse juures kõrre pikkusest L vastavalt valemile Fm = AL$\alpha$ (kus A ja $\alpha$ on konstandid), määrake eksperimentaalselt astmenäitaja $\alpha$ väärtus.",,"Valame piimapakki vett - alustame ühest kopsikutäiest ning lõpetame umbes ühe liitriga. Iga vee koguse juures üritame lükata piimapakki spagetikõrrega mööda lauapinda - leiame sellise maksimaalse sõrmega kinnihoidmiskoha kauguse kõrre otsast, mille puhul on veel võimalik lükata. Hoolitseme, et paki põhi ja laud oleksid kogu aeg kuivad, sest vesi võib muuta hõõrdetegurit. Kanname graafiku vertikaalteljele anumas oleva vee massi (ühikuteks kasutame kopsikutäit) logaritmi ja horisontaalteljele - kõrre pikkuse logaritmi. Sirge tõusunurga tangens annab astmenäitaja. Alternatiivina võib teha oletusi astmenäitaja väärtuse kohta ja katse-eksituse meetodil leida selline astmenäitaja, mille korral teljestikus m - L$\alpha$ moodustub andmepunktidest sirgjoon. Viimase meetodi eeliseks on see, et tühja anuma mass ei põhjusta kõrvalekaldeid sirgjoonelisest graafikust. Tulemuseks leiame $\alpha \approx -$2.
 
-Hindamine Idee kasutada osaliselt veega täidetud piimapaki ja laua vahelist hõõrdejõudu reguleeritava väärtusega jõu saamiseks (1 p). Idee lükata kõrrega leides kõrrest kinni hoidmiseks selline maksimaalne kaugus piimapakist, mille korral on veel võimalik pakki nihutada (2 p). Kogutud niimitu andmepunkti, kui antud mõõteanum võimaldab: liitrise piimapaki ja 150 mL mõõtenõu juures ühest kuni kuue kopsikutäieni, kokku kuus andmepunkti: 3 p. Kui on viis andmepunkti, kuid kirjutatud, et kuues kopsikutäis ei mahtunud enam ära, siis anda ka viie andmepunkti eest 3 p. Vastasel korral 5 andmepunkti eest 2,5 p. Osalised punktid: 4 andmepunkti: 2 p; 3 andmepunkti: 1 p; 2 andmepunkti: 0,5 p. Iga arvesse mineva andmepunkti jaoks peab olema näidatud vee kogus kopsikute arvuna ning spagetikõrre lükkava osa pikkus. Kui pikkusühikul pole näidatud ühikut, siis lahutatakse kogusummast 0,5 p. Valitud sobilik graafiline meetod: kas log-log teljestik või proovitud katse-eksituse meetodil m-L$\alpha$ teljestikku erinevate $\alpha$ väärtustega (3 p). Osalised punktid: kui astmenäitaja pole leitud graafiliselt vaid on arvutatud andmepunktipaaride põhjal, siis iga erineva andmepunktipaari põhjal arvutatud väärtus annab 0,5 p, kuni maksimaalselt 2 p (mis antakse siis, kui astmenäitaja on leitud nelja erineva andmepunkti paari jaoks). Mõõtmise täpsuse eest: kui leitud astmenäitaja on vahemikus -2,3 kuni -1,7, siis 2 p, kui tulemus on sellest vahemikust väljas, kuid jääb vahemikku -1,5 kuni -2,5, siis 1 p. Täiendavate andmepunktide leidmine sel teel, et lükatakse suurema veekoguse korral kahe või enama kõrrega korraga: 1 p.",,"joonlaud, liitrine anum veega, veeklaas vee valamiseks, mille seinale on tehtud märge umbes 150 mL veehulgale vastavale nivookõrgusele, tühi liitrine õhukesest kartongist piima või mahalapakk, mille ülemine tahk on ära lõigatud (massi vähendamiseks ja vee sissevalamise hõlbustamiseks), mõned peenikeste spagettide kõrred (Nr 5 või Nr 7), majapidamispaber kuivatamiseks",12,toores,"Eksperimendi kogu Ü157, lahendus lk 118",physics-collection/problems-exp/2021-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 118; siia ei ole seda ümber kirjutatud.}",,"joonlaud, liitrine anum veega, veeklaas vee valamiseks, mille seinale on tehtud märge umbes 150 mL veehulgale vastavale nivookõrgusele, tühi liitrine õhukesest kartongist piima või mahalapakk, mille ülemine tahk on ära lõigatud (massi vähendamiseks ja vee sissevalamise hõlbustamiseks), mõned peenikeste spagettide kõrred (Nr 5 või Nr 7), majapidamispaber kuivatamiseks",12,toores_ilma_skeemita,"Eksperimendi kogu Ü157, lahendus lk 118",physics-collection/problems-exp/2021-v2g-ge2.tex,problems-exp
 2021-v2g-pe1,2021,piirkonnavoor,P,E1,Tennisepall,1,vedelike mehaanika,E,,Oleg Košik,Leidke märja tennisepalli tihedus.,,"Tennisepalli massi saab määrata ujumise tingimusest
 
 mpallg = $\rho$vgVvedelikualune = $\rho$vgS$\Delta$$h_1$,
@@ -186,27 +178,7 @@ taandub mõõtmine veetaseme kahe muutuse mõõtmisele.
 
 Märkus. Tennisepalli läbimõõt on 6,70$\pm_0$,16 cm ning kuiva palli mass 6,70$\pm_0$,16 cm. Seetõttu kuiva palli tihedus jääb vahemikku 0,35 $-$ 0,39 g/cm$^3$, märja oma on suurusjärgus 0,45 $-$ 0,50 g/cm$^3$.
 
-Hindamine
-
-Kui on leitud valem veetaseme kahe muutuse jagatisena: Valemi tuletamine: 5 p. Mõõdetud $h_0$, $h_1$, $h_2$: 3 p. Arvutatud tihedus ja vastus realistlik: 2 p.
-
-Kui on eraldi leitud mass ujumismeetodil ja ruumala sukeldusmeetodil: Mõõdetud aluse ristlõike küljepikkus ja arvutatud pindala: 1 p. Tuletatud valem ruumala jaoks sukeldusmeetodil: 1 p. Tehtud veetaseme muudu mõõtmised: 1 p. Arvutatud ruumala: 1 p. Tuletatud valem massi jaoks ujumismeetodil: 2 p. Tehtud veetaseme muudu mõõtmised: 1 p. Arvutatud mass: 1 p. Arvutatud tihedus ja vastus realistlik: 2 p.
-
-Kui on eraldi leitud mass ujumismeetodil ja ruumala diameetri mõõtmisena (ebatäpne
-
-meetod, kokku 8 p):
-
-Ruumala valem V = 4 $\pi$$r_3$: 1 p. Hinnatud mõõtmise abil diameeter ja arvutatud ruumala: 1 p.
-
-Mõõdetud aluse ristlõike küljepikkus ja arvutatud pindala: 1 p.
-
-Tuletatud valem massi jaoks ujumismeetodil: 2 p.
-
-Tehtud veetaseme muudu mõõtmised: 1 p.
-
-Arvutatud mass: 1 p.
-
-Arvutatud tihedus: 1 p.",,"tennisepall, joonlaud, liitrine anum veega ja õhukesest kartongist piima- või mahlapakk, mille ülemine tahk on ära lõigatud. Vee tiheduseks võib võtta 1000 kg m$^{-3}$",10,toores,"Eksperimendi kogu Ü29, lahendus lk 45",physics-collection/problems-exp/2021-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 45; siia ei ole seda ümber kirjutatud.}",,"tennisepall, joonlaud, liitrine anum veega ja õhukesest kartongist piima- või mahlapakk, mille ülemine tahk on ära lõigatud. Vee tiheduseks võib võtta 1000 kg m$^{-3}$",10,toores_ilma_skeemita,"Eksperimendi kogu Ü29, lahendus lk 45",physics-collection/problems-exp/2021-v2g-pe1.tex,problems-exp
 2021-v2g-pe2,2021,piirkonnavoor,P,E2,Münt,2,staatika,E,,Kaur Aare Saar,Leidke 20-eurosendise mündi mass.,,"Mõõdame joonlauaga paberi mõõtmed a = 21,0 cm ja b = 29,7 cm (1 p, kui kumbki
 
 ei erine rohkem kui 2 mm tegelikust küljepikkusest).
@@ -340,7 +312,27 @@ $R_1$ = URP = 3,25 V = 510 $\Omega$ ISP 6,37 mA
 $R_2$ = URP = 3,25 V = 240 $\Omega$ IRP 13,5 mA
 
 $R_3$ = RSP = 300 $\Omega$",,"must kast, millest väljub kolm juhet, ühendusjuhtmed, multimeeter. Takistite väärtused on sellised, et võib eeldada, et multimeeter töötab ideaalse amper- ning voltmeetrina",12,toores,"Eksperimendi kogu Ü121, lahendus lk 96",physics-collection/problems-exp/2020-v3g-pe2.tex,problems-exp
-2020-v2g-ge1,2020,piirkonnavoor,G,E1,Masskese,4,staatika,E,,Erkki Tempel,Määrake plastiktopsi masskeskme kõrgus lauapinnast.,,"\textit{Lahendus on kogumikus lk 116. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"plastikust kohvitops, A4 paber, joonlaud",10,kasitsi,"Eksperimendi kogu Ü155, lahendus lk 116",physics-collection/problems-exp/2020-v2g-ge1.tex,problems-exp
+2020-v2g-ge1,2020,piirkonnavoor,G,E1,Masskese,4,staatika,E,,Erkki Tempel,Määrake plastiktopsi masskeskme kõrgus lauapinnast.,,"Kasutame paberilehte kaldpinnana ning leiame, millise nurga korral kukub tops ümber. Selleks, et tops ei hakkaks paberil libisema, tuleb paberi serv murda tagasi nii, et kohvitops jääb paberi serva taha pidama. Selleks, et paber ei painduks läbi, saab kasutada mitmekordset paberilehte. Kohvitops tuleb asetada paberilehele nii, et tassi sang asetseks külje peal, siis jääb masskese kaldpinna suhtes tassi keskele.
+
+M
+
+B \_ \_ AO
+
+C
+
+Kolmnurgast $\triangle$ABC saame avaldada
+
+AC tan $\alpha$ =
+
+BC Kolmnurgast $\triangle$AM O saame leida masskeskme M kõrguse kohvitopsi põhjast M O.
+
+tan $\alpha$ = AO $\Rightarrow$ MO = AO $\cdot$ BC
+
+MO AC
+
+Mõõdame pikkused AO, AC ja BC ning arvutame välja masskeskme kõrguse lauapinnast.
+
+\textit{Žürii hindamisskeem on kogumikus lk 116; siia ei ole seda ümber kirjutatud.}",,"plastikust kohvitops, A4 paber, joonlaud",10,toores_ilma_skeemita,"Eksperimendi kogu Ü155, lahendus lk 116",physics-collection/problems-exp/2020-v2g-ge1.tex,problems-exp
 2020-v2g-ge2,2020,piirkonnavoor,G,E2,Taskulambipirni töötemperatuur,3,elektriahelad,E,,Koit Timpmann,"Määrake töötava taskulambipirni hõõgniidi temperatuur. Volframi eritakistuse temperatuurikoefitsent $\alpha$ = 0,0044 1/K. Hõõgniidi soojuspaisumist ei ole vaja arvestada.
 \textit{Märkus:} Eeldage, et eritakistuse jaoks kehtib valem $\rho$ = $\rho_0$ (1 + $\alpha$t), kus t on temperatuur Celsiuse kraadides, $\rho_0$ on aine eritakistus temperatuuril 0 $^\circ$C ja $\alpha$ on eritakistuse temperatuuritegur.",,"Taskulambipirni hõõgniidi takistus sõltub temperatuurist. Teades toatemperatuuri, hõõgniidi takistust toatemperatuuril ja hõõgniidi aine eritakistuse temperatuurikoefitsienti on võimalik arvutada põleva taskulambipirni hõõgniidi temperatuur. (2 p) Tähistame: toatemperatuur - $t_1$, põleva lambi hõõgniidi temperatuur - $t_2$, hõõgniidi takistus toatemperatuuril $R_1$, põleva lambi hõõgniidi takistus $R_2$. Lambi hõõgniidi takistus toatemperatuuril on
 
@@ -509,7 +501,19 @@ siin asenduse m = 2F1/g, avaldame hõõrdeteguri:
 $\mu$ = $F_2$ 2F1
 
 Asendades mõõtmisel saadud tulemused võrrandisse, saame et $\mu \approx$ ...",,"klots, dünamomeeter, joonlaud",12,toores,"Eksperimendi kogu Ü71, lahendus lk 65",physics-collection/problems-exp/2019-v3g-pe2.tex,problems-exp
-2019-v2g-ge1,2019,piirkonnavoor,G,E1,Süstal,4,vedelike mehaanika,E,,Erkki Tempel,Määrake tundmatu roosa vedeliku tihedus.,,"\textit{Lahendus on kogumikus lk 112. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"20 ml süstal, tops veega ($\rho$v = 1000 kg/m$^3$), tundmatu roosa vedelik",12,kasitsi,"Eksperimendi kogu Ü152, lahendus lk 112",physics-collection/problems-exp/2019-v2g-ge1.tex,problems-exp
+2019-v2g-ge1,2019,piirkonnavoor,G,E1,Süstal,4,vedelike mehaanika,E,,Erkki Tempel,Määrake tundmatu roosa vedeliku tihedus.,,"Kasutame süstalt laua serval kangina. Täpsema lugemi võtmiseks tuleb süstla skaala asetada allapoole, siis saab laua servalt täpsemini lugemi võtta. Sätime tühja süstla korral süstla kolvi 5 ml peale ning leiame laua serval tühja süstla masskeskme. Edaspidistes arvutustes võime eeldada, et kogu sütla mass asub masskeskmes. Võtame süstlasse Vv = 5 ml vett ning leiame laua serval tasakaalupunkti. Ühel kangi poolel on Vv = 5 ml vett massiga mv = $\rho$Vv = 5 g ning teisel poolel süstla mass ms. Leiame vee keskpunkti kauguse lv toetuspunktist ning süstla masskeskme kauguse ls toetuspunktist. Kangi tasakaalust saame kirja panna seose, millest leiame süstla massi
+
+mvlv = msls $\Rightarrow$ ms = mv lv $\approx$ 10 g ls
+
+Nüüd võtame süstlasse Vp = 5 ml punast vedelikku ning leiame laua serval tasakaalupunkti. Teades süstla massi, saame leida punase vedeliku massi mp
+
+mplp = msls $\Rightarrow$ mp = msls $\approx$ 6,5 g lp
+
+Nüüd saame leida punase vedeliku tiheduse $\rho$p
+
+$\rho$p = mp $\approx$ 1,3 g/cm$^3$ Vp
+
+\textit{Žürii hindamisskeem on kogumikus lk 112; siia ei ole seda ümber kirjutatud.}",,"20 ml süstal, tops veega ($\rho$v = 1000 kg/m$^3$), tundmatu roosa vedelik",12,toores_ilma_skeemita,"Eksperimendi kogu Ü152, lahendus lk 112",physics-collection/problems-exp/2019-v2g-ge1.tex,problems-exp
 2019-v2g-ge2,2019,piirkonnavoor,G,E2,Vooluallikas,5,elektriahelad,E,,Eero Uustalu,"Määrake võimalikult täpselt mõlema patarei sisetakistus.
 \textit{Märkus:} Ampermeetril on olemas takistus RA! Vähekasutatud patarei elektromotoorjõu võib lugeda võrdseks patarei nimipingega. Kui ühendada patarei otse ampermeetriga, siis tekkiv vool (mis on tunduvalt suurem ampermeetri nimivoolust) võib viia ampermeetri läbipõlemiseni!",,"VARIANT 1 Patareid järjest. Koostame kolm skeemi ning mõõdame voolutugevused. Arvulised väärtused on igal patareide paaril omad, antud lahendusvariantides on kasutatud ühe konkreetse patareide paari reaalseid mõõtmistulemusi. Ühendame jadamisi kaks patareid, ampermeetri ja reostaadi. Reostaadi takistuse R seame selliselt, et ampermeetri näit I oleks lähedane maksimaalsele. Nimelt on analoogampermeetri näit on täpseim maksimumnäidu juures ja kolmest selles katsevariandis kasutatavast ühendusskeemist annab selline ühendus suurima ampermeetrit läbiva voolu. Voolu ei tohi mõõta korraga pikalt kuna see viib patarei laetuse astme muutumiseni.
 
@@ -642,8 +646,18 @@ sisetakistus on õiges vahemikus 0,07 $-$ 0,25 siis kumbki takistus lisaks a (0,
 sisetakistuse väärtus on antud vähemalt sajandiku oomi täpsusega, siis kumbki takistus lisaks a (0,25 p)
 
 kui on eeldatud, et patareid on täiesti ühesugused siis kogu ülesande eest MAKSIMAALSELT 8 p.",,"kaks sama tüüpi patareid, ampermeeter, reostaat kolme klemmiga, juhtmed (4tk)",12,toores,"Eksperimendi kogu Ü177, lahendus lk 136",physics-collection/problems-exp/2019-v2g-ge2.tex,problems-exp
-2019-v2g-pe1,2019,piirkonnavoor,P,E1,Münt,2,varia,E,,Erkki Tempel,Leidke võimalikult täpselt 2-sendise euromündi servas oleva vao laius.,,"\textit{Lahendus on kogumikus lk 64. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"üks 2-sendine euromünt, paber, mõõtejoonlaud",10,kasitsi,"Eksperimendi kogu Ü69, lahendus lk 64",physics-collection/problems-exp/2019-v2g-pe1.tex,problems-exp
-2019-v2g-pe2,2019,piirkonnavoor,P,E2,Süstal,3,vedelike mehaanika,E,,Erkki Tempel,Leidke tühja süstla mass.,,"\textit{Lahendus on kogumikus lk 93. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"20 ml süstal, tops veega, kuivatuspaber",12,kasitsi,"Eksperimendi kogu Ü118, lahendus lk 93",physics-collection/problems-exp/2019-v2g-pe2.tex,problems-exp
+2019-v2g-pe1,2019,piirkonnavoor,P,E1,Münt,2,varia,E,,Erkki Tempel,Leidke võimalikult täpselt 2-sendise euromündi servas oleva vao laius.,,"Mündi paksust ei ole võimalik joonlauaga täpselt mõõta. Kasutame mündi paksuse mõõtmiseks volditud paberilehtedest torni ning vaatame, mitme paberilehe paksune on münt. Kõige parem on voltida paberi pikemat külge, mida saab kergesti 16-ks voltida. Kasutades paberi kahte pikemat külge, saab kasutada kuni 32 lehe paksust paberitorni. Asetame mündi lauale ning paberitorni tema kõrvale. Leiame, kui paks peaks olema paberitorn, et ta oleks mündiga sama kõrge. Kasutades tavalist paljunduspaberit (80 g/cm$^2$), saame ühe mündi paksuseks hm = 16 paberit. Mündi servas oleva vao laiust on raske mõõta, parem on mõõta mündi servas oleva kõrgema osa laiust. Asetame mündi lauale ning paberitorni tema kõrvale ja leiame kõrgema osa paksuse. Kasutades tavalist paljunduspaberit (80 g/cm$^2$), saame ühe mündi paksuseks hk = 5 paberit. Mündi servas oleva vao paksus on seega hv = hm $-$ 2 $\cdot$ hk = 6 paberit Paberilehe paksuse saame kõige täpsemini mõõta, kui mõõdame 32 paberilehe paksuse torni pakuse, milleks saame h32 = 3,3 mm. Ühe paberi paksus on seega
+
+hp $\approx$ 0,1 mm Mündi servas oleva vao laius on seega hv = 0,6 mm.
+
+\textit{Žürii hindamisskeem on kogumikus lk 64; siia ei ole seda ümber kirjutatud.}",,"üks 2-sendine euromünt, paber, mõõtejoonlaud",10,toores_ilma_skeemita,"Eksperimendi kogu Ü69, lahendus lk 64",physics-collection/problems-exp/2019-v2g-pe1.tex,problems-exp
+2019-v2g-pe2,2019,piirkonnavoor,P,E2,Süstal,3,vedelike mehaanika,E,,Erkki Tempel,Leidke tühja süstla mass.,,"Kasutame süstalt laua serval kangina. Täpsema lugemi võtmiseks tuleb süstla skaala asetada allapoole, siis saab laua servalt täpsemini lugemi võtta. Sätime tühja süstla korral süstla kolvi 5 ml peale ning leiame laua serval tühja süstla masskeskme. Edaspidistes arvutustes võime eeldada, et kogu sütla mass asub masskeskmes. Võtame süstlasse Vv = 5 ml vett ning leiame laua serval tasakaalupunkti. Ühel kangi poolel on Vv = 5 ml vett massiga mv = $\rho$Vv = 5 g ning teisel poolel süstla mass ms. Leiame vee keskpunkti kauguse lv toetuspunktist ning süstla masskeskme kauguse ls toetuspunktist. Kangi tasakaalust saame kirja panna seose, millest
+
+leiame süstla massi
+
+mvlv = msls $\Rightarrow$ ms = mv lv =$\approx$ 10 g ls
+
+\textit{Žürii hindamisskeem on kogumikus lk 93; siia ei ole seda ümber kirjutatud.}",,"20 ml süstal, tops veega, kuivatuspaber",12,toores_ilma_skeemita,"Eksperimendi kogu Ü118, lahendus lk 93",physics-collection/problems-exp/2019-v2g-pe2.tex,problems-exp
 2018-v3g-ge1,2018,lõppvoor,G,E1,Klotsi mass,4,staatika,E,,Erkki Tempel,Leidke puidust klotsi mass mk.,,"Kinnitame kumminiidi mõlemasse otsa niidid. Ühe niidi otsa kinnitame klotsi külge Hoiame niidi otsast kinni ning venitame klotsiga kumminiidi välja. Laseme kumminiidi lahti ning mõõdame teepikkuse, mille klots läbib. Lisame klotsile 100 grammise raskuse ning venitame uuesti kumminiidi samaplaju välja, kui esimesel juhul ning laseme lahti ja möödame samuti klotsi poolt läbitud teepikkuse. Kumminiidi energia Ep kandub mõlemal juhul üle kotsile ning hõõrdejõud teeb klotsi pidurdamisel tööd A = Fhs = $\mu$mgs. Kuna hõõrdetegur $\mu$ on mõlemal katsel sama, saame avaldada masside suhte esimese ja teise katse jaoks järgmiselt
 
 $m_1$ = $s_2$ $\Rightarrow$ mklots = 100 g $\cdot$ $s_2$ m$^2$ $s_1$ $s_1$ $-$ $s_2$",,"kaks identset puidust klotsi, koormis massiga m = 100 g, millimeeterpaber, niit, lühike kummipael",10,toores,"Eksperimendi kogu Ü151, lahendus lk 112",physics-collection/problems-exp/2018-v3g-ge1.tex,problems-exp
@@ -681,7 +695,15 @@ $\rho$m = mm = $\rho$vVv . Vm Vm",,"mutter, plasttops veega (0,2 l, $\rho$v = 1,
 \textit{Märkus:} Eritakistuse sõltuvust temperatuurist kirjeldab seos $\rho$ = $\rho_0$(1 + $\alpha$t).",,"\textit{Lahendus on kogumikus lk 111. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"taskulambipirn alusel, lapik taskulambipatarei, 4 juhet, multimeeter (voolutugevuse mõõtmisel kasutage skaalat 0 A - 10 A)",12,kasitsi,"Eksperimendi kogu Ü150, lahendus lk 111",physics-collection/problems-exp/2018-v3g-pe2.tex,problems-exp
 2018-v2g-ge1,2018,piirkonnavoor,G,E1,Topsi mass,2,vedelike mehaanika,E,,EFO žürii,"Määrake joogitopsi mass.
 
-süstal, kuivatuspaber.",,"\textit{Lahendus on kogumikus lk 63. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"joogitops, tops veega ($\rho$v = 1000 kg/m$^3$), puidust joonlaud, 10 ml",10,kasitsi,"Eksperimendi kogu Ü68, lahendus lk 63",physics-collection/problems-exp/2018-v2g-ge1.tex,problems-exp
+süstal, kuivatuspaber.",,"Leiame joonlaua masskeskme laua serval. Asetame tühja topsi joonlaua otsa ning leiame joonlaua ja topsi tasakaalupunkti. Mõõdame topsi keskkoha kauguse toetuspunktist lt ning joonlaua masskeskme kauguse toetuspunktist lj. Nüüd lisame süstlaga topsi kindla koguse vett mv. Vee massi leiame vee tiheduse ja ruumala kaudu. Asetame veega topsi joonlaua otsa ning leiame joonlaua ja topsi tasakaalupunkti. Mõõdame veega topsi keskkoha kauguse toetuspunktist lt2 ning joonlaua masskeskme kauguse toetuspunktist lj2. Kasutades kangireeglit, saame kirjutada kummagi tasakaalu jaoks välja seose
+
+mtlt = mj lj $\Rightarrow$ mj = mtlt lj
+
+(mt + mv)lt2 = mj lj2 Asendades esimesest seosest mj teise seosesse, saame avaldada topsi massi mt
+
+(mt + mv)lt2 = mtlt $\cdot$ lj2 $\Rightarrow$ mt = mvlt2lj . lj ltlj2 $-$ lt2lj
+
+\textit{Žürii hindamisskeem on kogumikus lk 63; siia ei ole seda ümber kirjutatud.}",,"joogitops, tops veega ($\rho$v = 1000 kg/m$^3$), puidust joonlaud, 10 ml",10,toores_ilma_skeemita,"Eksperimendi kogu Ü68, lahendus lk 63",physics-collection/problems-exp/2018-v2g-ge1.tex,problems-exp
 2018-v2g-ge2,2018,piirkonnavoor,G,E2,Murdumisnäitaja,5,geomeetriline optika,E,,Eero Uustalu,"Määrake võimalikult täpselt vee murdumisnäitaja $n_{\text{vesi}}$.
 
 \begin{center}
@@ -691,7 +713,9 @@ süstal, kuivatuspaber.",,"\textit{Lahendus on kogumikus lk 63. Siia ei ole seda
 \textit{Vihje:} Murdumisseadus kahe keskkonna piirpinnal avaldub kujul
 $n_1\sin\alpha_1 = n_2\sin\alpha_2$.",,"\textit{Lahendus on kogumikus lk 133. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"keeduklaas veega, millimeeterpaber, paberteip, käärid",12,kasitsi,"Eksperimendi kogu Ü175, lahendus lk 133",physics-collection/problems-exp/2018-v2g-ge2.tex,problems-exp
 2018-v2g-pe1,2018,piirkonnavoor,P,E1,Paberi mass,2,varia,E,,EFO žürii,"Leidke paberilehe mass, kui on teada, et lühema külje pikkus a = 210 mm. Paberipaki peale on märgitud 80 g/m$^2$.
-\textit{Märkus:} Joonlaua kasutamine ei ole lubatud!",,"\textit{Lahendus on kogumikus lk 63. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,valge paberileht (2 lehte),10,kasitsi,"Eksperimendi kogu Ü67, lahendus lk 63",physics-collection/problems-exp/2018-v2g-pe1.tex,problems-exp
+\textit{Märkus:} Joonlaua kasutamine ei ole lubatud!",,"Kiri ''80 g/m$^2$'' tähendab, et paberi iga ruutmeetri mass on 80 g. Tähistame selle tähega r = 80 g/m$^2$. Kasutades ühikut, saab tuletada valemi r = m/S, kus m on paberilehe mass ja S on pindala. Paberilehe pindala S = lpikemllühem, kus lpikem ja llühem on paberilehe mõõtmed. Paberilehe mass m = rS. Pikema külje leidmiseks voldime ühe paberi külje vähemalt 4 korda kokku (paberi külg jaguneb 16 lõiguks) ning vaatame mitu sellist lõiku mahub kummagi külje sisse. Teades, mitu korda erinevad paberi külgede pikkused, saame leida pikema külje pikkuse.
+
+\textit{Žürii hindamisskeem on kogumikus lk 63; siia ei ole seda ümber kirjutatud.}",,valge paberileht (2 lehte),10,toores_ilma_skeemita,"Eksperimendi kogu Ü67, lahendus lk 63",physics-collection/problems-exp/2018-v2g-pe1.tex,problems-exp
 2017-v3g-ge1,2017,lõppvoor,G,E1,Ruumalad,4,vedelike mehaanika,E,,Erkki Tempel,"Määrake võimalikult täpselt erinevast materjalist kehade A ja B tiheduste suhe $\rho$A . $\rho$B
 
 Materjalide tihedus on suurem kui vee tihedus.
@@ -794,7 +818,41 @@ kus k on võrdetegur, mis sõltub spageti materjalist ja jämedusest. Leidke võ
 \begin{center}
 \includegraphics[width=0.55\linewidth]{2017-v2g-ge2-yl.png}
 \end{center}
-\textit{Vihje:} kui painutada spagetti kolme jõu abil nagu näidatud joonisel, siis parempoolne jõud F mõjutab paremat spagetipoolt punkti P suhtes jõumomendiga F h ning selle tasakaalustab vasaku spagetipoole poolt avaldatav jõumoment T = k/R, kus R on spageti kõverusraadius punktis P . Kõverusraadiuse leidmiseks punktis P eeldage lihtsustatult, et spagett on ringjoone kaar.",,"\textit{Lahendus on kogumikus lk 131. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"mõned spagetikõrred, kaks tikutoosi, kaks tuntud massiga joonlauda (m = . . . )",12,kasitsi,"Eksperimendi kogu Ü173, lahendus lk 131",physics-collection/problems-exp/2017-v2g-ge2.tex,problems-exp
+\textit{Vihje:} kui painutada spagetti kolme jõu abil nagu näidatud joonisel, siis parempoolne jõud F mõjutab paremat spagetipoolt punkti P suhtes jõumomendiga F h ning selle tasakaalustab vasaku spagetipoole poolt avaldatav jõumoment T = k/R, kus R on spageti kõverusraadius punktis P . Kõverusraadiuse leidmiseks punktis P eeldage lihtsustatult, et spagett on ringjoone kaar.",,"Asetame kaks tikutoosi üksteisest tosinkonna sentimeetri kaugusele ja paneme nende peale spagetikõrre lebama. Asetame joonlaua ühte otsa pidi spagetikõrre keskkohta; joonlaua teine ots toetagu vastu lauda nii, et joonlaud on peaaegu horisontaalselt (alternatiivselt võib teise otsa toetada teise spageti peale, siis lahendus tuleb sama). Spagetikõrre kõrvaltvaade on antud järgneval joonisel.
+
+Leiame sellise tikutooside vahemaa, et spagett puudutab lauda, kuid ei toetu sellele. Märkus: tikutooside vahemaa asemel võib muuta punkti, millega joonlaud toetub spagetile (kangiõlgade muutmise tõttu muutub rõhumisjõud vahemikus mg/2 kuni mg). Et joonlaud on tasakaalus ja horisontaalne, siis nii laud kui spagett toetavad joonlauda jõuga mg/2. Kuna joonlaud toetub spagetile kahte tippu pidi, avaldab sümmeetria tõttu kumbki tipp spagetile jõudu mg/4. Samuti avaldab sümmeetria ja jõudude tasakaalu tõttu kumbki tikutoos spagetile vertikaalset jõudu mg/4. Kuna spagett paindub vähe ja on peaaegu horisontaalne, siis eeldame, et tikutoosi nurgas mõjuv jõud on vertikaalne (kui jõud oleks tikutoosi nurgas spagetiga risti ja spagett oleks ringjoone kaare kujuga, annaks täpne arvutus paranduskordaja R/(R $-$ h), mis eeldusel h $\ll$ R läheneb ühele). Avaldame punktis P ühelt spagetipoolelt teisele avaldatava jõumomendi T (ignoreerides märki) momentide tasakaalu tingimusest. Arvestame, et ühele spagetipoolele mõjub joonlaua ühe tipu poolt avaldatav jõud mg/4 kaugusel a/2 ja tikutoosi nurga juures olev jõud mg/4 kaugusel L/2, mistõttu tuleb nende jõumomendiks:
+
+1 L$-$a mg $\cdot$ = T = k/R. 4 2 A Kui loeme spagetilõigu ringjooneks raadiusega R, siis
+
+selle raadiuse leiame geomeetriliselt paremal oleva joo-
+
+nise abil. Joonisel |AB| = |AC| = R ja Pythagorase
+
+teoreemi rakendades küljele |AC| saame (L/2)2 + (R $-$
+
+h)2 = $R_2$, millest C
+
+(2R $-$ h)h = $L_2$/4 $\Rightarrow$ $L_2$ h h R= + . 8h 2 B L/2
+
+Lubatud on kasutada ligikaudset avaldist R $\approx$ $L_2$ ehk lähendust L $\gg$ h; iga muu 8h vigadeta lahendus, mis viib lähenduse h $\ll$ R piires antud vastusega ekvivalentse
+
+avaldiseni (st saadud tulemuse ja siinse vastuse erinevus jääb suurusjärku h), tuleb
+
+lugeda õigeks. Lõplikuks avaldiseks saame
+
+k= mg(L $-$ a) ( $L_2$ ) h +. 8 8h 2
+
+Mõõdame üle kõik suurused, näiteks võib vastuseks tulla L = 25 cm, h = 12 mm, a = 40 mm ning olgu m = 25 g. Sellisel juhul saame vastuseks
+
+k $\approx$ 4,2 $\times$ 10$-$3 N m$^2$.
+
+Alternatiivne lähenemine: Sspagett fikseeritakse kahe tikutoosi vahele (või surutakse näpuga vastu tikutoosi nii, et spagett oleks tihedas kontaktis tikutoosi ülemise tahuga), vt joonis.
+
+Sellisel juhul on jõumomentide tasakaal tikutoosi nurga suhtes T = mgL ning R avaldises tuleb asendada L/2 $\rightarrow$ L. Siis saame:
+
+mgL ( $L_2$ ) h k= +. 2 2h 2
+
+\textit{Žürii hindamisskeem on kogumikus lk 131; siia ei ole seda ümber kirjutatud.}",,"mõned spagetikõrred, kaks tikutoosi, kaks tuntud massiga joonlauda (m = . . . )",12,toores_ilma_skeemita,"Eksperimendi kogu Ü173, lahendus lk 131",physics-collection/problems-exp/2017-v2g-ge2.tex,problems-exp
 2017-v2g-pe1,2017,piirkonnavoor,P,E1,Mündid,1,staatika,E,,EFO žürii,"Mündid laotakse silindriliselt üksteise otsa. Kuna mündi pinnal on muster, jäävad müntide vahele tühimikud. Mitu protsenti moodustavad tühimikud müntide silindri koguruumalast? Mündi materjali tihedus $\rho$ = 8,0 g/cm$^3$.",,"\textit{Lahendus on kogumikus lk 43. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"5-sendised euromündid (5 tükki), teadaoleva massiga joonlaud (mj = ...)",12,kasitsi,"Eksperimendi kogu Ü26, lahendus lk 43",physics-collection/problems-exp/2017-v2g-pe1.tex,problems-exp
 2017-v2g-pe2,2017,piirkonnavoor,P,E2,Kalorimeeter,3,termodünaamika,E,,EFO žürii,"Leidke kalorimeetri soojusmahtuvus Ckal.
 \textit{Vihje:} Kalorimeetri soojusmahtuvus on kalorimeetri topsi erisoojuse ja massi korrutis Ckal = ckalmkal. Vee erisoojus cv = 4200 J/(kg $\cdot ^\circ$C), jää sulamissoojus $\lambda$ = 330 kJ/kg, vee tihedus $\rho$ = 1,0 g/cm$^3$.",,"Täidame umbes pool kalorimeetrist toasooja veega (temperatuur $T_0$). Vee $\pi$ru(ud2m)2ahla. V saame mõõta kalorimeetri diameetri d ning vee kõrguse h kaudu. V =
@@ -821,9 +879,7 @@ Teades, et $Q_1$ + $Q_2$ = $Q_3$ + $Q_4$ ning arvutades välja $Q_1$, $Q_2$ ja Q
 
 Ckal = $Q_1$ + $Q_2$ $-$ $Q_3$ . ($T_0$ $-$ $T_1$)
 
-Hindamine: Kalorimeetris oleva vee ruumala/massi mõõtmine --- 2 p. Kalorimeetrisse lisatud lume massi mõõtmine sulanud vee järgi --- 2 p. Vee alg- ja lõpptemperatuuri mõõtmine --- 2 p. Soojushulkade $Q_1$, $Q_2$ ja $Q_3$ arvutamine --- 3 p. Kalorimeetri soojusmahtuvuse Ckal arvutamine --- 2 p. Kogu katse tegemine vähemalt kaks korda --- 1 p.
-
-Märkus: Kui katses kasutatakse lund, siis mõjutab tulemust ka see, et kasutatav lumi on märg, mistõttu lume sulamiseks vajaminevat soojushulka $Q_1$ ei saa täpselt leida (ei ole võimalik hinnata seda, kui palju lumi sisaldab vett). Marja lume mainimine/mitte mainimine punkte ei mõjuta.",,"kalorimeeter, termomeeter, joonlaud, vesi, lumi",12,toores,"Eksperimendi kogu Ü116, lahendus lk 91",physics-collection/problems-exp/2017-v2g-pe2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 91; siia ei ole seda ümber kirjutatud.}",,"kalorimeeter, termomeeter, joonlaud, vesi, lumi",12,toores_ilma_skeemita,"Eksperimendi kogu Ü116, lahendus lk 91",physics-collection/problems-exp/2017-v2g-pe2.tex,problems-exp
 2016-v3g-ge1,2016,lõppvoor,G,E1,Tiivik,3,elektriahelad,E,,Mihkel Kree,"Kujutage graafiliselt tiiviku pöörlemiseks vajaliku elektrivõimsuse P (vahemikus 0,1 W kuni 2 W) sõltuvus tiiviku pöörlemissagedusest f . Teades, et sõltuvus avaldub kujul P = kf n, määrake astendaja n väärtus.
 
 (tablool C.V.). Mootori käivitamiseks ei pruugi piisata pinge aeglasest suurendamisest, sel juhul ühendage voolujuhe hetkeks lahti ja siis kohe tagasi. Tahhomeetriga mõõtmisel hoidke all test-nuppu ning suunake laserkiir tiivikule, hoides tahhomeetrit sellest umbes 5 cm kaugusel. Tahhomeeter näitab lasertäpilt hajunud valguse heleduse võnkeperioode ühes minutis.
@@ -886,9 +942,7 @@ $\mu \approx$ 6$\pi$ ln[(M $-$ 1)M ].
 
 Libeda silindri ja niidi puhul võivad tulla näiteks järgmised tulemused: $m_1$ = 3, m$^2$ = 5, m$^3$ = 7 ja $m_4$ = 9. Kõige täpsema tulemuse annab n = 4, $\mu \approx$ ln(4,5)/(2$\pi$) $\approx$ 0,24. Kui viia katse läbi poolteise keeru juures, siis saame M = 11, mis annab $\mu \approx$ ln(110)/(6$\pi$) $\approx$ 0,25, mis on natuke täpsem tulemus (sest antud juhul M > $m_4$).
 
-Hindamine: Katse idee: 3 p. Mõõtmiste eest alljärgnevalt: leitud katseliselt ainult $m_1$: 2 p; leitud katseliselt m$^2$, kuid mitte mn, kus n > 2 ($m_1$ leidmine siinjuures punkte ei lisa, sest täpsust ei suurenda): 4 p; leitud katseliselt m$^3$, kuid mitte mn, kus n > 3: 5 p; leitud katseliselt $m_4$: 6 p (kui hõõrdetegur on nii suur, et n = 4 puhul ei jagu klambreid, siis tuleb anda n = 3 eest 5 p asemel 6 p); katse läbi viidud ka poolteise keeru juures: täiendavalt 1 p. Kui hõõrdetegur on nii suur, et klambreid ei jätku katse läbiviimiseks poolteise keeru juures, siis kantakse see punkt eelmistele mõõtmistele, st n = 1: 3 p; n = 2: 5 p; n = 3: 7 p. Kui katse on läbi viidud ainult poolteise keeru puhul, kuid ei ole mõõdetud poole keeru juures, siis antakse mõõtmiste eest kokku 6 p. Tulemuste täpsuse eest: Vastus arvutatud mõõtmistulemuste põhjal vigadeta ja tulemuse erinevus tegelikust väärtusest ei ole suurem kui 10\%: 2 p; on 15\% ja 10\% vahel: 1,5 p; on 20\% ja 15\% vahel: 1 p; on 30\% ja 20\% vahel: 0,5 p.
-
-Märkus: põhimõtteliselt on vale katset läbi viia nii, et riputada niidi otstesse võrdsed arvud klambreid, asetada see silindrile ning kallutada silindri telge leides nurga, mille juures niit hakkab libisema. Esiteks, sellisel juhul ei kehti seos $\mu$ = tan $\alpha$, teiseks, nurga mõõtmiseks pole katsevahendeid. Selline lahendus annab 0 p.",,"kirjaklambrid (15 tk), silinder, niit (niidi mass on tühine võrreldes kir- jaklambri massiga)",12,toores,"Eksperimendi kogu Ü147, lahendus lk 109",physics-collection/problems-exp/2016-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 109; siia ei ole seda ümber kirjutatud.}",,"kirjaklambrid (15 tk), silinder, niit (niidi mass on tühine võrreldes kir- jaklambri massiga)",12,toores_ilma_skeemita,"Eksperimendi kogu Ü147, lahendus lk 109",physics-collection/problems-exp/2016-v2g-ge2.tex,problems-exp
 2016-v2g-pe1,2016,piirkonnavoor,P,E1,Kumminiit,1,dünaamika,E,,Erkki Tempel,Milline sõltuvus valitseb kumminiidi algpikkuse $l_0$ ja kumminiidi pikenemise $\Delta$l vahel antud koormise korral? Esitage graafik millimeeterpaberil ja nimetage leitud sõltuvuse tüüp.,,"\textit{Lahendus on kogumikus lk 41. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"kumminiit, koormis, joonlaud, millimeeterpaber",10,kasitsi,"Eksperimendi kogu Ü23, lahendus lk 41",physics-collection/problems-exp/2016-v2g-pe1.tex,problems-exp
 2016-v2g-pe2,2016,piirkonnavoor,P,E2,Pangaröövel,1,varia,E,,Erkki Tempel,Pangaröövel varastas 10 kilogrammi 5-sendiseid euromünte. Leidke sellise rahakoguse väärtus eurodes.,,"Selleks, et leida 10 kg 5-sendiste müntide arv, peame leidma ühe mündi massi. Selleks kasutame kangimeetodit. Kuna joonlaud on kolmnurkne, peame kõigepealt leidma selle raskuskeskme. Selleks asetame joonlaua laua servale (joonlaua skaala on laua servaga risti) ning leiame koha, kus joonlaua laua peal olev osa ning üle laua olev osa on tasakaalus (1 p). Edaspidistes mõõtmistes peab joonlaua asend olema laual nii, et joonlaua raskuskeskme asukoht ühtiks laua servaga ning joonlaua skaala on laua servaga risti (2 p). Asetame ühe mündi (näiteks 20-sendise) joonlaua laua peal oleva osa peale ning teise (5-sendise) mündi joonlaua teise otsa peale. Nüüd hakkame liigutama 20sendist joonlaua keskpunkti poole ning leiame koha, kus joonlaud jääb tasakaalu (2 p). Vastavalt kangi reeglile on mündile mõjuvate raskusjõudude ja jõuõlgade korrutised võrdsed.
 
@@ -1008,9 +1062,7 @@ p = $l_2$ $-$ $l_1$ $l_2$ + $l_1$
 
 Tiku osade pikkused suhtuvad keskmise tiku korral $l_1$ = 8 tiku laiust ning $l_2$ = 12 tiku laiust. Tulemus sõltuvalt tikust on 15 \% $-$ 25 \%.
 
-Hindamine: Tikkudest kangkaalu ehitamise idee --- 2 p. Oletus, et tikuväävli masskeskme asukoht ühtib tiku puidust osa otspunktiga --- 1 p. Tasakaalupunkti otsitakse tiku terava serva peal (mitte tiku lapiku külje peal) --- 1 p. Mõõtmisteks vajaliku katseskeemi joonistamine paberile --- 1 p. Tiku osade pikkuste mõõtmine tiku laiuste abil --- 2 p. Matemaatilised teisendused --- 3 p. (kui õpilane avaldab kangi seadusest ainult m/M , siis saab teisenduste eest 1 p.) Kordusmõõtmised (vähemalt 3 korda) --- 1 p. Tulemus vahemikus 15 \% $-$ 25 \% --- 1 p.
-
-Märkus: Kui lahendaja kasutab mõõtejoonlauda, saab ülesande lahenduse eest maksimaalselt 9 punkti.",,Kaks tikku,12,toores,"Eksperimendi kogu Ü110, lahendus lk 85",physics-collection/problems-exp/2015-v2g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 85; siia ei ole seda ümber kirjutatud.}",,Kaks tikku,12,toores_ilma_skeemita,"Eksperimendi kogu Ü110, lahendus lk 85",physics-collection/problems-exp/2015-v2g-ge1.tex,problems-exp
 2015-v2g-ge2,2015,piirkonnavoor,G,E2,Läätse fookuskaugus,3,geomeetriline optika,E,,Erkki Tempel,Leidke nõgusläätse fookuskaugus 20 \% täpsusega.,,"Vaatame ruudulist paberit läbi läätse ning võrdleme ruutude suurusi, mida näeme otse paberit vaadates ning läbi läätse vaadates (vt. joonis).
 
 2 ruutu
@@ -1021,12 +1073,12 @@ F
 
 Kuna me peame leidma läätse fookuskauguse 20 \% täpsusega, siis võime teha lihtsustuse, et kaugelt vaadates on kujutis objekti asukohas. Kõige lihtsam on läätse fookuskaugust leida siis, kui nähtav kujutis on kaks korda väiksem kui ese. Sellisel juhul ühtib läätse fookuskaugus eseme kaugusega läätsest (vt joonis). Läätse fookuskaugus on sellise meetodiga mõõtes 16 cm $\pm$ 1 cm.
 
-Hindamine: Idee võrrelda eseme suurust kujutise suurusega --- 3 p. Lihtsustus, et kujutis on objekti asukohas --- 3 p. Fookuskauguse leidmine eseme ja kujutise suuruste suhte kaudu --- 4 p. Kordusmõõtmised (3 mõõtmist) --- 2 p.",,"Nõguslääts, mõõtejoonlaud, ruuduline paber",12,toores,"Eksperimendi kogu Ü111, lahendus lk 87",physics-collection/problems-exp/2015-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 87; siia ei ole seda ümber kirjutatud.}",,"Nõguslääts, mõõtejoonlaud, ruuduline paber",12,toores_ilma_skeemita,"Eksperimendi kogu Ü111, lahendus lk 87",physics-collection/problems-exp/2015-v2g-ge2.tex,problems-exp
 2015-v2g-pe1,2015,piirkonnavoor,P,E1,Keha ruumala,1,vedelike mehaanika,E,,Erkki Tempel,Määrake metallist keha ruumala.,,"Riputame keha dünamomeetri külge, saame teada kehale mõjuva raskusjõu $N_1$ = Fr, kus $N_1$ on dünamomeetri näit. Riputame keha dünamomeetri külge ning sukeldades vette, näitab dünamomeeter ($N_2$) keha raskusjou Fr ja üleslükkejõu Fü = $\rho$vgV vahet
 
 $N_2$ = Fr $-$ Fü = $N_1$ $- \rho$vgV $\Rightarrow$ V = $N_1$ $-$ $N_2$ . $\rho$v g
 
-Hindamine: Eksperimendi idee --- 3 p. Raskusjõu mõõtmine --- 1 p. Vette asetatud kehale mõjuva jõu mõõtmine --- 1 p. Seos $N_2$ = Fr $-$ Fü = $N_1$ $- \rho$vgV annab 1 p. Keha ruumala V avaldamine --- 2 p. Kordusmõõtmised (3 katset) --- 1 p. Vastus erineb õigest tulemusest kuni 5 cm$^3$ --- 1 p..",,"metallist keha, dünamomeeter, anum veega ($\rho$v = 1 g/cm$^3$)",10,toores,"Eksperimendi kogu Ü22, lahendus lk 41",physics-collection/problems-exp/2015-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 41; siia ei ole seda ümber kirjutatud.}",,"metallist keha, dünamomeeter, anum veega ($\rho$v = 1 g/cm$^3$)",10,toores_ilma_skeemita,"Eksperimendi kogu Ü22, lahendus lk 41",physics-collection/problems-exp/2015-v2g-pe1.tex,problems-exp
 2014-v3g-ge1,2014,lõppvoor,G,E1,Fresneli lääts,4,geomeetriline optika,E,,Eero Uustalu,"Määrake Fresneli läätse materjali absoluutne murdumisnäitaja nf .
 \begin{center}
 \includegraphics[width=0.22\linewidth]{2014-v3g-ge1-yl.png}
@@ -1201,23 +1253,7 @@ lust, kuid kui tõsta joonlauda spagetiga joonlaua keskpunkti lähedalt, siis on
 
 malik saada ka joonlaua täiskaal mg (või ka nt 2 mg, kui spageti toetuspunkt on joonlaua otsast veerandi joonlaua pikkuse kaugusel).
 
-Hindamine: Idee arvutada jõumoment kui spageti otsale rakendatud jõu ning selle jõu õla (murdumispunkti suhtes) korrutis (3 p). Idee määrata jõu õlg murudunud spagetiotsa abil (1 p) ning reaalse mõõtmise teostamine (1 p). Valemi M = mgl/2 (või vastavalt
-
-olukorrale õige avaldise, nt M = mgl või M = 2 mgl) rakendamine (2 p) ja õiges suurusjärgus vastuse saamine (1 p).
-
-Kordusmõõtmiste tegemine: iga lisamõõtmine kuni viienda mõõtmistulemseni: a
-
-0,5 punkti. Seega lisamõõtmiste eest täiendavalt 2 p.
-
-Vastus, mis ei erine õigest rohkem kui 50\%: 0,5 punkti ning kui see ei erine rohkem
-
-kui 30\%, siis kokku --- 1 p.
-
-Mainitakse, et spagetikõrre kõverus on nii väike, et spagetitüki pikkus on peaae-
-
-gu võrdne jõu õlaga või kui on mõõdetud spagetitüki pikkuse asemel selle kõõlu
-
-pikkus painutatud olekus --- 1 p.",,"Kümme spagetikõrt, teadaoleva massiga joonlaud",12,toores,"Eksperimendi kogu Ü144, lahendus lk 107",physics-collection/problems-exp/2014-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 107; siia ei ole seda ümber kirjutatud.}",,"Kümme spagetikõrt, teadaoleva massiga joonlaud",12,toores_ilma_skeemita,"Eksperimendi kogu Ü144, lahendus lk 107",physics-collection/problems-exp/2014-v2g-ge2.tex,problems-exp
 2014-v2g-pe1,2014,piirkonnavoor,P,E1,Tikutops,2,staatika,E,,Erkki Tempel,"Leidke maksimaalne rõhk, mida laua peal seisev tikke täis tikutops võib lauale avaldada. Tikutopsi katki rebida ei tohi.
 \textit{Märkus:} Maksimaalsete punktide saamiseks peab leitud rõhk olema suurem kui 200 Pa.",,"Tikutops avaldab maksimaalset rõhku lauale siis, kui topsi pindala, mis lauale toe-
 
@@ -1359,7 +1395,7 @@ tud topsi puhul tulid soojuskaod 33 W temperatuuril 80$^\circ$C ja 12 W temperat
 
 60$^\circ$C.
 
-Hindamine: Temperatuuri ajasõltuvuse mõõtmise meetodi kirjeldus (1 p). Topsis oleva vee segamine mõõtmise ajal (1 p). 10 või rohkem mõõtepunkti temperatuurivahemikus 58$^\circ$C kuni 82$^\circ$C (2 p). 8..9 mõõtepunkti (1,5 p), 6..7 mõõtepunkti (1 p), 4..5 mõõtepunkti (0,5 p). Topsi keskmise ristlõikepindala leidmine (2 p) (kui on kasutatud ainult põhja või ülemise otsa pindala, siis 1 p ). Vee ruumala arvutamine (1 p). Soojuskadude võimsuse valemi tuletamine (2 p). Soojuskadude võimsuse füüsikaliselt mõistliku graafiku joonistamine (s.h. ühikutega teljed, mõistlik ruumikasutus): graafikul 5 punkti (3 p), 4 punkti (2 p), 3 punkti (1 p).",,"kuum vesi otse veekeedukannust, plasttops, termomeeter, stopper, joonlaud",12,toores,"Eksperimendi kogu Ü61, lahendus lk 59",physics-collection/problems-exp/2013-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 59; siia ei ole seda ümber kirjutatud.}",,"kuum vesi otse veekeedukannust, plasttops, termomeeter, stopper, joonlaud",12,toores_ilma_skeemita,"Eksperimendi kogu Ü61, lahendus lk 59",physics-collection/problems-exp/2013-v2g-ge2.tex,problems-exp
 2013-v2g-pe2,2013,piirkonnavoor,P,E2,Mutter,1,vedelike mehaanika,E,,EFO žürii,Määrake mutri mass.,,"Mutter tuleb kleeplindiga kinnitada lauatennise palli külge (2 p). Asetades saadud keha vette, jääb see ujuma ning selle mass on võrdne väljatõrjutud vee massiga (1 p). Väljatõrjutud vee massi saame leida veetaseme tõusu järgi (1 p). Mõõdame anuma diameetri d (1 p) ning arvutame ristlõikepindala S = $\pi$$d_2$/4 ja mõõdame veetaseme tõusu $\Delta$h (1 p), kui keha vette asetati. Keha mass m = $\rho$V = $\rho$S$\Delta$h (2 p). Sobivaks vastuseks lugeda 32 $\pm$ 2 grammi (2 p) (1 p, kui vastus on vahemikus 32 $\pm$ 4 grammi). Mutri mass on samuti 32 grammi, kuna lauatennisepalli massi loeme mutri massiga võrreldes tühiseks. Kordusmõõtmised (2 p).",,"lauatennisepall, mutter, kleeplinditükk, silindriline anum, vesi, mõõtejoonlaud. Lauatennisepalli massi võib mutri massiga võrreldes tühiseks lugeda",12,toores,"Eksperimendi kogu Ü21, lahendus lk 41",physics-collection/problems-exp/2013-v2g-pe2.tex,problems-exp
 2012-v3g-ge1,2012,lõppvoor,G,E1,Stereopotentsiomeeter,5,elektriahelad,E,,EFO žürii,"Karbis on ühisel teljel kaks ühesugust potentsiomeetrit, mis on ühendatud nagu skeemil. Seadme nupu keeramisel nihkuvad potentsiomeetrite liugkontaktid samal määral ja joonisel samas suunas. Karbist on välja toodud skeemil näidatud juhtmeotsad. Leidke ühe potentsiomeetri äärmiste klemmide vaheline takistus, mis tal oleks lahtiühendatuna. Hinnake mõõtemääramatust.
 \begin{center}
@@ -1496,31 +1532,38 @@ joonlauaga seejuures toimuv veetaseme tõus $h_1$ (1 p). Seejärel tuleb valmist
 2012-v2g-pe2,2012,piirkonnavoor,P,E2,Pendel,1,dünaamika,E,,EFO žürii,"On teada, et niidist ja selle otsa kinnitatud väikesest kehast koosneva pendli
 võnkeperiood $T$ ja selle niidi pikkus $l$ on väikese amplituudiga võnkumiste
 korral seotud valemiga $T = \alpha\sqrt{l}$. Määrata võrdetegur $\alpha$
-võimalikult täpselt.",,"Katse läbiviimiseks tuleb niidijupp siduda mutri külge ja niidi teine ots fikseerida
+võimalikult täpselt.",,"% Käsitsi ümber kirjutatud kogumiku lahendusest L20 (lk 40).
+%
+% KAKS PARANDUST ORIGINAALI SUHTES:
+% 1. Kogumikus on kirjas ""alpha = pi/sqrt(g)"", mis annaks 1,00 s/m^0,5.
+%    Õige on 2*pi/sqrt(g) = 2,007 s/m^0,5 ja kogumik ise ütleb samas lauses
+%    ""~ 2 s/m^0,5"", seega tegu on trükiveaga. Parandatud.
+% 2. Hindamisskeemis on ""alpha = T iga katseseeria jaoks""; ruutjuur kadus
+%    PDF-i tekstikihist. Õige on alpha = T/sqrt(l).
+Katse läbiviimiseks tuleb niidijupp siduda mutri külge ja niidi teine ots
+fikseerida kinnitusklambri vahele. Seejärel tuleb mõõta niidi pikkus (mutri
+massikeskmest kinnituskohani) ja mõõta võnkeperiood. Võnkeperioodi täpseks
+määramiseks tuleb stopperiga mõõta aeg, mis kulub mitme võnke tegemiseks
+($> 5$), ja jagada see võngete arvuga.
 
-kinnitusklambri vahele.
+Konstandi $\alpha$ võimalikult täpseks hindamiseks tuleb katseid korrata.
+Niidi pikkust võib, kuid ei pea varieerima. Vastus tuleb matemaatilise
+pendli teooriast:
+\[
+T = 2\pi\sqrt{\frac{l}{g}} = \alpha\sqrt{l}
+\quad\Rightarrow\quad
+\alpha = \frac{2\pi}{\sqrt{g}} \approx \SI{2,0}{s/m^{0,5}}
+\]
+Korrektselt läbi viidud katse tulemus ei erine sellest rohkem kui
+\SI{10}{\percent}.
 
-Seejärel tuleb mõõta niidi pikkus (mutri massikeskmest kinnituskohani) ja mõõta
-
-võnkeperiood. Võnkeperioodi täpseks määramiseks tuleb stopperiga mõõta aeg,
-
-mis kulub mitme võnke tegemiseks (> 5), ja jagada see võngete arvuga.
-
-Konstandi $\alpha$ võimalikult täpseks hindamiseks tuleb katseid korrata. (Niidi pikkust
-
-võib, kuid ei pea varieerima.) teooriast $\alpha$ = $\pi$/g $\approx$ 2 s/$m_0$,5, korrektselt läbi Vastus tuleb matemaatilise pendli
-
-viidud katse tulemus ei erine sellest rohkem kui 10\%.
-
-Hindamine: Katse idee (2 p). Võnkeperioodi mõõtmisel n võnkeks (> 5) kulunud aja lugemine ja sellest võnkeperioodi arvutamine (1 p). Kui on mõõdetud ainult üheks võnkeks kulunud aeg, siis seda punkti ei saa. Korduskatsed (3x1 p) (iga korduskatse annab ühe punkti, maksimaalselt 3 ).
-
-Arvutus $\alpha$ = T iga katseseeria jaoks (3x0,5 p), mitme mõõtmise korral $\alpha$ keskmis-
-
-l
-
-tamine (0,5 p).
-
-Realistlik vastus ($\pm$10\%) (2 p).",,"mutter, jupp niiti, mõõtejoonlaud, stopper, statiiv koos kinnitusklambriga",10,toores,"Eksperimendi kogu Ü20, lahendus lk 40",physics-collection/problems-exp/2012-v2g-pe2.tex,problems-exp
+\textbf{Hindamine} (kokku 10 p): katse idee \pp{2}; võnkeperioodi mõõtmisel
+$n$ võnkeks ($> 5$) kulunud aja lugemine ja sellest võnkeperioodi
+arvutamine \pp{1} (kui on mõõdetud ainult üheks võnkeks kulunud aeg, siis
+seda punkti ei saa); korduskatsed \pp{$3\times 1$} (iga korduskatse annab ühe
+punkti, maksimaalselt 3); arvutus $\alpha = T/\sqrt{l}$ iga katseseeria
+jaoks \pp{$3\times 0{,}5$}, mitme mõõtmise korral $\alpha$ keskmistamine
+\pp{0,5}; realistlik vastus ($\pm\SI{10}{\percent}$) \pp{2}.",,"mutter, jupp niiti, mõõtejoonlaud, stopper, statiiv koos kinnitusklambriga",10,kasitsi_tehtud,"Eksperimendi kogu Ü20, lahendus lk 40",physics-collection/problems-exp/2012-v2g-pe2.tex,problems-exp
 2011-v3g-ge1,2011,lõppvoor,G,E1,Süstal,3,vedelike mehaanika,E,,EFO žürii,Määrake süstla nõela siseläbimõõt.,,"Tõmbame süstla vett täis, suuname selle üles ja tühjendame surudes ühtlaselt, nii
 
 et veejuga kerkib kogu aeg enam-vähem samale kõrgusele. Mõõdame joonlaua abil
@@ -1582,11 +1625,11 @@ Sm = f . l/4 f $-$
 
 Väärtuste l = 30 cm ja f = 18 cm jaoks on graafik toodud juuresoleval joonisel.
 
-Hindamine: Idee katse teostamiseks --- 3 p. 4-5 erineval kaugusel mõõtmist --- 2 p. Mõõtmiste põhjal suurenduste arvutamine --- 2 p. Tulemuste arvväärtused on mõistlikud ($\pm$30\%) --- 1 p. Korrektne graafik --- 2 p.",,"luup, mõõtejoonlaud, millimeetripaber",10,toores,"Eksperimendi kogu Ü140, lahendus lk 105",physics-collection/problems-exp/2011-v2g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 105; siia ei ole seda ümber kirjutatud.}",,"luup, mõõtejoonlaud, millimeetripaber",10,toores_ilma_skeemita,"Eksperimendi kogu Ü140, lahendus lk 105",physics-collection/problems-exp/2011-v2g-ge1.tex,problems-exp
 2011-v2g-ge2,2011,piirkonnavoor,G,E2,Niit,3,dünaamika,E,,EFO žürii,"Leida niidi katkemispinge (st minimaalne jõud, mille rakendamisel niidi otstele niit katkeb).",,"Lahendusidee on kasutada kangimeetodit niidi katkemispinge määramiseks: asetame joonlaua ühele otsale klotsi ja teise otsa külge seome niidi; kinnitamiseks kasutatav aas niidi küljes peab olema piisavalt suur, et niit ei katkeks mitte aasa kohalt vaid sõlme kohalt või (eelistatult) allpool sõlme. Kangkaalu toetuspunktina kasutame laua serva. Muutes üle lauaserva ulatuva joonlauaosa pikkust leiame maksimaalse pikkuse $l_1$, mille puhul niit katkeb, kui allapoole sikutades üritame klotsi kergitada. Selle meetodi eest 2 punkti. Kui kaugus lauaservast klotsi keskpunktini on $l_2$ ning kaugus joonlaua keskpunktini $L_1$, klotsi mass M ja joonlaua mass m, siis jõumomentide tasakaalutingimusest saame avaldada niidi katkemispinge T = (M $l_2$ + mL1)g/$l_1$ (selle valemi eest 1,5 punkti; kui puudub joonlaua massi arvestav liige, siis 1 punkt). $l_1$, $l_2$ ja $L_1$ mõõtmise eest 3 $\times$ 0,5 punkti (kui on mõõdetud teisi pikkusi, mille põhjal saab mainitud kolm pikkust arvutada, siis antakse loomulikult ikkagi 1,5 punkti). Klotsi massi leidmiseks kasutame analoogset kangkaalu meetodit: tasakaalustame joonlaua otsa paigutatud klotsi joonlaua massi abil (selle idee eest 2 punkti). Kui joonlaua keskpunkt asub lauaservast kaugusel $L_2$ ja klotsi keskpunkt kaugusel $l_3$, siis M = mL$^2$/$l_3$ (valemi eest 1 punkt, arvutuste eest 1 punkt). $L_2$ ja $l_3$ mõõtmiste eest 2 $\times$ 0,5 punkti. Korduvmõõtmiste sooritamise eest 1 punkt. Mõistlikus suurusjärgus vastuse eest 1 punkt; kui vastus erineb õigest väärtusest enam kui 1,5 korda või lõppvastusest on ühikud puudu (kuid lahenduse põhjal on arusaadav, mis ühikud peaksid olema, siis 0,5 punkti); kui vastus erineb õigest väärtusest enam kui 2 korda (või ühikud puuduvad ning lahenduse/arvutuste põhjal pole võimalik aru saada, mis ühikud peaksid olema), siis 0 punkti.",,"niit, tundmatu massiga koormis, etteantud massiga joonlaud",12,toores,"Eksperimendi kogu Ü101, lahendus lk 78",physics-collection/problems-exp/2011-v2g-ge2.tex,problems-exp
 2011-v2g-pe1,2011,piirkonnavoor,P,E1,Eurosent,1,varia,E,,EFO žürii,Leidke eurosendise mündi ümbermõõt võimalikult suure täpsusega.,,"Asetame sendi ja joonlaua tasasele pinnale joonisel kujutatud viisil. Sendi pöörame asendisse, kus selle mõni servalähedane märge asub kohakuti ühe joonlaua kriipsuga, mille registreerime alguspunktina. Surume sendi kergelt joonlaudade vahele ja liigutame ühte joonlauda noolega näidatud suunas. Selle tulemusel hakkab sent pöörlema. Libisemise vältimiseks tuleks joonlaudu hoida võimalikult paralleelsena. Peame silmas märget eurosendil ja jätkame liikumist, kuni sent on teinud joonlaua pikkuse piires maksimaalse arvu täispöördeid. Paneme kirja märke lõppkoordinaadi ja pöörete arvu. Koordinaatide vahe jagatud pöörete arvuga annabki eurosendi ümbermõõdu. Kordame katset vähemalt kolm korda ja lõpptulemuseks võtame katsete keskmise. Eurosendi ümbermõõt on 51,1 mm.
 
-Hindamine: Idee --- 5 p. Joonlaua kogu ulatuse kasutamine --- 2 p. Kordusmõõtmised --- 2 p. Õige vastus vahemikus 51,1 $\pm$ 0,5 mm --- 1 p. Joonlauaga mündi läbimõõdu otsesel mõõtmisel saadud tulemus teenib maksimaalselt 4 punkti.",,"eurosendine münt, 2 joonlauda",10,toores,"Eksperimendi kogu Ü19, lahendus lk 40",physics-collection/problems-exp/2011-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 40; siia ei ole seda ümber kirjutatud.}",,"eurosendine münt, 2 joonlauda",10,toores_ilma_skeemita,"Eksperimendi kogu Ü19, lahendus lk 40",physics-collection/problems-exp/2011-v2g-pe1.tex,problems-exp
 2010-v3g-ge1,2010,lõppvoor,G,E1,Traat,3,elektriahelad,E,,EFO žürii,"Määrake takistustraadi eritakistus. Hinnake mõõtemääramatust.
 \textit{Märkus:} Patereid mitte lühistada, traati mitte lõigata! Pirn kannatab patarei pinget.",,"Ühe lambi ühendame järjestikku tuntud takistiga ning teise lambi --- takistustraadiga. Takististustraadi puhul ühendame statsionaarselt vaid ühe kontakti traadi otspunktis; teise kontakti ühendame käsitsi, hoides juhet käega vastu takistustraati mingis punktis, mille asukohta saab piki traati libistades muuta. Mõlemad ahelad ühendame patarei klemmidele. Saavutame olukorra, kus mõlemad lambid põlevad ühe heledusega ning mõõdame selles asendis kontaktide vahele jääva takistustraadi osa pikkuse L. Sellises asendis on vastava takistustraadi osa takistus võrdne teise takisti takistusega, st R = $\rho$4L/$\pi$$d_2$, millest $\rho$ = $\pi$Rd2/4L. Arvuliseks vastuseks saame $\rho$ = 1,35 $\cdot$ 10$-$6 $\Omega \cdot$ m. Suhtelise mõõtevea leiame seosest $\Delta\rho$ = 2$\Delta$d/d + $\Delta$L/L, kus nihiku viga $\Delta$d $\approx$ 0,05 mm ning pikkuse L vea leiame mitme mõõtmistulemuse (silmaga heleduse hindamisest johtuva) hajuvuse põhjal, $\Delta$L $\approx$ 3 cm.",,"puitlatile kinnitatud takistustraat, kaks ühesugust lampi, tuntud takistusega (R = 12,1 $\Omega$) takisti, patarei, mõõdulint, nihik",12,toores,"Eksperimendi kogu Ü100, lahendus lk 78",physics-collection/problems-exp/2010-v3g-ge1.tex,problems-exp
 2010-v3g-ge2,2010,lõppvoor,G,E2,Ventilaator,4,dünaamika,E,,EFO žürii,"Leidke hinnang ventilaatorist väljuva õhujoa kiiruse jaoks. Õhu tihedus $\rho$ = 1,29 kg/m$^3$, raskuskiirendus g = 9,8 m/s$^2$.",,"Riputame lauakese niidi abil ühest otsast kinnitades statiivi külge ning suuname
@@ -1724,7 +1767,7 @@ Märkus: Konkreetne katse on konkreetse kummi ja selle kummi kindla lõigu puhul
 Märkus 2: Mutri materjali tegelik tihedus on 2,7 g/cm$^3$, kuid kuna kasutatav mudel ei võta arvesse kõiki faktoreid, on vastus nihkes.",,"kumminiit, tundmatust materjalist mutter, statiiv, joonlaud, tops veega",10,toores,"Eksperimendi kogu Ü99, lahendus lk 77",physics-collection/problems-exp/2009-v2g-ge1.tex,problems-exp
 2009-v2g-ge2,2009,piirkonnavoor,G,E2,Galvanomeeter,4,elektriahelad,E,,EFO žürii,"Leida mitmele amprile vastab voltmeetri skaala maksimaalne väärtus, kui voltmeetrit kasutatakse ampermeetrina. Mõõtevea hindamist ei nõuta.",,"1) Mõõta vooluallika pinge. 2) Ühendada voltmeeter jadamisi takistiga. 3) Arvutada pingelang tuntud takistil mis on vooluallika pinge miinus voltmeetri näit jadaühenduses takistiga. 4) Ohmi seadusest leida voolutugevus tuntud takistil. 5) Teisendada voltmeetri näit ampritesse.
 
-Hindamine: Iga lahenduse alapunkti korrektse sooritamise eest --- 2 p.",,"Voltmeeter, takisti takistusega R = 7,5 k$\Omega$, värske tsink-süsinik patarei (sisetakistus alla 30 $\Omega$), ühendusjuhtmed",10,toores,"Eksperimendi kogu Ü136, lahendus lk 104",physics-collection/problems-exp/2009-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 104; siia ei ole seda ümber kirjutatud.}",,"Voltmeeter, takisti takistusega R = 7,5 k$\Omega$, värske tsink-süsinik patarei (sisetakistus alla 30 $\Omega$), ühendusjuhtmed",10,toores_ilma_skeemita,"Eksperimendi kogu Ü136, lahendus lk 104",physics-collection/problems-exp/2009-v2g-ge2.tex,problems-exp
 2009-v2g-pe1,2009,piirkonnavoor,P,E1,Haavlid,1,vedelike mehaanika,E,,EFO žürii,Millise suhtelise osa haavlitega (sh tühikud) täidetud ruumalast moodustavad tühikud haavlite vahel?,,"Kallame mensuuri vett ja fikseerime skaalal vedeliku mahu näidu $V_0$. Lisame seejärel haavleid, niiet veetase mensuuris jääks skaala ulatusse ja ülespoole haavlite taset (kerge loksutamisega sätime viimase horisontaalseks). Fikseerime koguruumala $V_1$, mis jääb allapoole veetaset ja haavlite + veega täidetud osa ruumala $V_2$. Veehulga jäävusest enne ja pärast haavlite lisamist
 
 $V_0$ = $V_2$ $\cdot$ S + ($V_1$ $-$ $V_2$),
@@ -1737,7 +1780,7 @@ Erijuhul kui haavlite tase ühtib veetasemega ($V_1$ = $V_2$), siis S = $V_0$/$V
 
 Märkus: Sama läbimõõduga kerakeste juhusliku pakkimise korral on näidatud, et S = 0,38. Tihedaima (regulaarse) pakendi korral S = 0,26.
 
-Hindamine: Kirjeldatud õige mõõtmisprotseduur ja arvutuseeskiri --- 4 p. Teostatud mõõtmised ja esitatud tulemused --- 2 p. Arvutatud S väärtus --- 2 p. Tühikutega täidetud osa ruumala vahemikus 0,25 $\leq$ S $\leq$ 0,50 --- 2 p.",,"mõõtemensuur, anum veega, haavlid",10,toores,"Eksperimendi kogu Ü17, lahendus lk 39",physics-collection/problems-exp/2009-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 39; siia ei ole seda ümber kirjutatud.}",,"mõõtemensuur, anum veega, haavlid",10,toores_ilma_skeemita,"Eksperimendi kogu Ü17, lahendus lk 39",physics-collection/problems-exp/2009-v2g-pe1.tex,problems-exp
 2008-v3g-ge1,2008,lõppvoor,G,E1,Ampermeeter,4,elektriahelad,E,,EFO žürii,"Voltmeetrit tahetakse kasutada milliampermeetrina. Joonistage selleks sobiv skeem ning määrake, mitmele milliamprile vastab sel juhul voltmeetri näidu üks volt. Hinnake mõõteviga.",,"Voltmeetri milliampermeetrina kasutamiseks tuleb ta lEütliIta=daUp(arR1al+lee1rl)s.eKltutiakmisetiiega R. Mõõdame voltmeetri sisetakistuse r (vt allpool).
 
 tehtud ampermeetri klemmidele tuleb vool I ning voltmeetri lugem on U siis keh-
@@ -1826,12 +1869,12 @@ Mõõtmised võiks teha nii surudes gaas kokku kui ka hõrendades gaasi ja tulem
 
 Märkus: küsimus, kas vaadeldav protsess süstlas oleva gaasiga on adiabaatiline või isotermiline ei ole triviaalne; vale eelduse kasutamine tekitab 1,4-kordse vea. Õhu difusioonikonstandi abil võib hinnata soojusjuhtivuse tõttu toimuva temperatuuri ühtlustumise karakteerset aega, see tuleb suurusjärgus 1 s. Niisiis tuleks hoolt kanda, et kolvi liigutamine ei toimu väga kiiresti. Antud aspekti analüüsimata jätmise eest punkte alandada pole vaja.
 
-Hindamine: Katse püstituse kirjeldamine --- 2 p. Hõõrdejõu avaldise tuletamine --- 4 p. Mõõtmiste teostamine ja jõu väärtuse arvutamine --- 2 p. Katse korraldamine kahel erineval viisil (gaasi surudes ja hõrendades) ning keskmise võtmine --- 2 p. Tulemus on tõepärane --- 1 p. Mõõtmisi on korratud mitu korda --- 1 p. Mõõtevea hindamine --- 2 p.",,"süstal mahuga 10 ml, joonlaud, baromeeter",14,toores,"Eksperimendi kogu Ü134, lahendus lk 102",physics-collection/problems-exp/2008-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 102; siia ei ole seda ümber kirjutatud.}",,"süstal mahuga 10 ml, joonlaud, baromeeter",14,toores_ilma_skeemita,"Eksperimendi kogu Ü134, lahendus lk 102",physics-collection/problems-exp/2008-v2g-ge2.tex,problems-exp
 2008-v2g-pe1,2008,piirkonnavoor,P,E1,Mutter,1,vedelike mehaanika,E,,EFO žürii,Mutter ja polt on valmistatud samast ainest. Kumma mass on suurem ja mitu korda?,,"Laseme mutri anumasse, mõõdame veetaseme tõusu. Sama teeme poldiga. Mõõdame pudeli diameetri. Arvutame veetaseme kõrguste muutuste suhte, mis võrdub masside suhtega. m = $\rho$V ja V = Sp$\Delta$h, seega:
 
 mp = Vp = $\Delta$hp . mm Vm $\Delta$hm
 
-Hindamine: Teoreetiline mudel (5 p). Mõõtmiste teostamine ja suhte arvutamine (3 p); tulemus on tõepärane (1 p). Mõõtmisi on korratud mitu korda (1 p).",,"mutter, polt, mõõtejoonlaud, niit, anum veega",10,toores,"Eksperimendi kogu Ü16, lahendus lk 39",physics-collection/problems-exp/2008-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 39; siia ei ole seda ümber kirjutatud.}",,"mutter, polt, mõõtejoonlaud, niit, anum veega",10,toores_ilma_skeemita,"Eksperimendi kogu Ü16, lahendus lk 39",physics-collection/problems-exp/2008-v2g-pe1.tex,problems-exp
 2008-v2g-pe2,2008,piirkonnavoor,P,E2,Polt,2,staatika,E,,EFO žürii,Määrata tundmatu keha mass.,,"Kumminiidi pikenemine on võrdeline sellele rakendatud jõuga (2 p). Lõikame kum-
 
 mirõnga lahti ja seome otstesse kirjaklambrid. Kinnitame kirjaklambri statiivi-
@@ -1862,15 +1905,7 @@ mkg = $\rho$vV g $\Rightarrow$ mk = $\rho$vV = $\pi\rho$vd2$\Delta$h .
 
 Siin mk on katseklaasi mass ja $\rho$v --- vee tihedus.
 
-Hindamine: Idee --- 2 p, katseklaasi diameetri mõõtmine --- 1 p, ühekordne katse läbiviimine ja nivoode vahe mõõtmine --- 1 p, arvutused --- 2 p, korduvad katsed (vähemalt 3 korda) --- 1 p, piisavalt täpne lõppvastus --- 1 p.
-
-Võimalik vale lahenduskäik: Paneme anumasse vett ja mõõdame veenivoo $h_0$ selles. Asetame katseklaasi anumasse ilma katseklaasi vett lisamata. Mõõdame anuma diameetri $d_0$ ja uue veenivoo anumas $h_1$. Siis oletades, et katseklaasi raskusjõu ja üleslükkejõu tasakaalu tõttu võrdub katseklaasi mass väljatõrjutud vee massiga, saame
-
-mk = $\rho$vV = $\pi\rho$vd20 ($h_1$ $-$ $h_0$) .
-
-Tegelikkuses, kui katses katseklaasi vett mitte panna, kukub ta pikali. Lisaks raskusjõule ja üleslükkejõule mõjub talle siis ka hõõrdejõud anuma seina poolt. Sel juhul aga massi määramiseks arvutusi teha pole enam võimalik, mistõttu sellist lahendust ei saa lugeda õigeks.
-
-Hindamine: (kokku 4 p) Idee --- 1 p, katse teostamine ja mõõtmised --- 1 p, arvutused --- 1 p, korduvad katsed (vähemalt 3 korda) --- 1 p.",,"suur laia kaelaga purk, kitsas katseklaas, joonlaud, vesi",8,toores,"Eksperimendi kogu Ü49, lahendus lk 55",physics-collection/problems-exp/2007-v2g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 55; siia ei ole seda ümber kirjutatud.}",,"suur laia kaelaga purk, kitsas katseklaas, joonlaud, vesi",8,toores_ilma_skeemita,"Eksperimendi kogu Ü49, lahendus lk 55",physics-collection/problems-exp/2007-v2g-ge1.tex,problems-exp
 2007-v2g-ge2,2007,piirkonnavoor,G,E2,Kolmnurk,3,staatika,E,,EFO žürii,"Leida kolmnurga massikeskme koordinaadid, kui kolmnurga pikem kaatet on xtelg, lühem kaatet on y-telg ja nullpunktiks on joonlaua täisnurk.",,"1) Asetame kolmnurga laua servale, nii et skaalaga kaatet ristuks laua servaga. Nüüd liigutame kolmnurka üle laua serva, kuni kolmnurk kukub üle laua ääre. Siin tuleb leida viimane punkt, kus joonlaud veel ei kuku alla. Nüüd teame massikeskme x-koordinaati (eeldasime, et gradueeritud on pikem kaatet; kui skaala on lühemal kaatetil, siis saime teada massikeskme y-koordinaadi). (2 p)
 
 A B
@@ -1890,9 +1925,7 @@ mj = mmdm. dk
 
 Täpsema tulemuse saamiseks tuleb teha mitu katset asetades mündi erinevatele kaugustele masskeskme asukohast ühele ja teisele poole masskeset.
 
-Hindamine: Idee --- (3 p). Joonlaua masskeskme asukoha määramine --- (1 p). Mündi läbimõõdu mõõtmine --- (1 p). Õlgade määramine mõõtmisel müdiga --- (1 p). Kangi seose
-
-teadmine ja kasutamine --- (1 p). Korduvmõõtmised erinevate jõuõlgadega --- (1 p). Korduvmõõtmised juhul kui münt on ühel või teisel pool masskeset --- (1 p). Tulemus (kui erinevus kaalumisel saadud tulemusest ei ületa 5\%) --- (1 p).",,"30 cm pikkune mõõtejoonlaud, 1-kroonine münt (m = 5,0 g)",10,toores,"Eksperimendi kogu Ü15, lahendus lk 38",physics-collection/problems-exp/2007-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 38; siia ei ole seda ümber kirjutatud.}",,"30 cm pikkune mõõtejoonlaud, 1-kroonine münt (m = 5,0 g)",10,toores_ilma_skeemita,"Eksperimendi kogu Ü15, lahendus lk 38",physics-collection/problems-exp/2007-v2g-pe1.tex,problems-exp
 2006-v3g-ge1,2006,lõppvoor,G,E1,Klaasplaat,3,geomeetriline optika,E,,EFO žürii,Määrata klaasi murdumisnäitaja.,,\textit{Kogumikus lahendus puudub.},,"klaasplaat, mõõtejoonlaud, paberileht ja pliiats",10,puudub,"Eksperimendi kogu Ü95, lahendus lk 74",physics-collection/problems-exp/2006-v3g-ge1.tex,problems-exp
 2006-v3g-ge2,2006,lõppvoor,G,E2,Lamp,3,varia,E,,EFO žürii,Hinnata valgusallika vilkumise sagedus.,,"Liiguta tuld kiiresti käes edasi tagasi. Püsivalt põleva tule asemel näete punkte. Katsu lugeda punktide hulk ja jätkata võngutamist samas rütmis ning mõõta siis ära võnke periood. Lambi vilkumise sagedus = võngutamise sagedus $\times$ punktide hulk.
 
@@ -2050,7 +2083,22 @@ T niit statiivi jalg",,"5 juppi niiti, joonlaud, koormis massiga 100 g, statiiv 
 mg = $\rho$vgVv, mg = $\rho$gV,
 
 kus indeksiga v on tähistatud olukord, mil keha ujub vees, indeksita aga keha ujumine tundmatus vedelikus. m elimineerimisel saame $\rho$vVv = $\rho$V , millest $\rho$ = $\rho$vVv/V . Üleslükkejõu puhul arvestatakse keha veealuse osa ruumala, mis võrdub keha poolt väljatõrjutud vedeliku ruumalaga. Viimase saab arvutada vedeliku nivoo stabiilselt vedelikus. Mõõdame markerit kasutades veenivoo muutuse topsi vette asetamisel. Mõõdame anuma sisemise läbimõõdu. Kordame sama tundmatu vedeliku korral. Arvutame ruumalad. Arvutame tundmatu vedeliku tiheduse.",,"anum veega, anum tundmatu vedelikuga, joogitops, joonlaud, marker",12,toores,"Eksperimendi kogu Ü47, lahendus lk 54",physics-collection/problems-exp/2004-v3g-pe2.tex,problems-exp
-2004-v2g-ge2,2004,piirkonnavoor,G,E2,Vedrust pendel,1,dünaamika,E,,EFO žürii,Valmistage vedru otsa riputatud koormisest üles-alla liikuv pendel ja esitage graafiliselt pendli võnkeperioodi sõltuvus koormise massist.,,"\textit{Lahendus on kogumikus lk 37. Siia ei ole seda veel ümber kirjutatud, sest originaalis on tabel või joonis, mis PDF-i tekstikihist loetavalt välja ei tule.}",,"spiraalvedru, statiiv muhvi ja klambriga, 100-grammiste koormiste komplekt, stoppkell, millimeetripaber",10,kasitsi,"Eksperimendi kogu Ü11, lahendus lk 37",physics-collection/problems-exp/2004-v2g-ge2.tex,problems-exp
+2004-v2g-ge2,2004,piirkonnavoor,G,E2,Vedrust pendel,1,dünaamika,E,,EFO žürii,Valmistage vedru otsa riputatud koormisest üles-alla liikuv pendel ja esitage graafiliselt pendli võnkeperioodi sõltuvus koormise massist.,,"% Käsitsi ümber kirjutatud kogumiku lahendusest L11 (lk 37). Automaatne
+% import märkis selle käsitsi tehtavaks hindamisskeemi tõttu; tekst ise on
+% lühike proosa. Originaalis on teljestik kirjutatud kujul ""mT"", mis on
+% m--T teljestik (mass horisontaalteljel, periood vertikaalteljel).
+Statiivile kinnitatud vedrule kinnitatakse koormis ja leitakse stoppkella
+abil $n$ võnkeks kulunud aeg $t$, millest saadakse võnkeperiood
+$T = t/n$. Katset korratakse koormise erinevate massidega. Pendli
+võnkeperioodi sõltuvus koormise massist esitatakse katseandmete põhjal
+tabelina ning graafiliselt millimeetripaberil, teljestikus $m$--$T$.
+
+\textbf{Hindamisskeem} (kokku 10 p): katse kirjeldus ja koormiste valik
+\pp{1}; võnkeperioodi määramine seosest $T = t/n$ \pp{2};
+kordusmõõtmiste kasutamine \pp{2}; tabeli vormistamine ja andmete kandmine
+tabelisse \pp{1}; kordusmõõtmistest aritmeetilise keskmise arvutamine
+\pp{1}; graafiku telgede õige määramine \pp{1}; graafiku mõõtkava \pp{1};
+graafiku joonistamine \pp{1}.",,"spiraalvedru, statiiv muhvi ja klambriga, 100-grammiste koormiste komplekt, stoppkell, millimeetripaber",10,kasitsi_tehtud,"Eksperimendi kogu Ü11, lahendus lk 37",physics-collection/problems-exp/2004-v2g-ge2.tex,problems-exp
 2004-v2g-pge1,2004,piirkonnavoor,P/G,E1,Reostaadi traat,2,elektriahelad,E,,EFO žürii,"Määrata: a) reostaadile keritud traadi mass, b) reostaadi traadi eritakistus. Traadi tihedus on 8500 kg/m$^3$.",,"Traadi tihedus: $\rho$ = m/V , kus traadi mass m = $\rho$V (1 p). Traadi ruumala V = Sl (1 p). Traadi ristlõike pindala S = ($\pi$$d_2$)/4 (1 p). Mõõtmiste kirjeldus, kus on kirjeldatud ka kolmnurga kasutamist(1 p). Traadi pikkuse määramine (ühe keeru pikkus korda keerdude arv, kus keeru pikkus c = $\pi$d)(1 p). Keeru läbimõõdu mõõtmine: kui on arvestatud ainult keraamilise silindri või traadi kihi läbimõõtu (1 p), kui on arvestatud traadikeeru välis- ja siseläbimõõtu ning on leitud keeru läbimõõdu aritmeetiline keskmine (1 p). Traadi läbimõõdu määramine:
 
 traadi läbimõõt = mähise pikkus ((1 p)). keerdude arv
@@ -2072,7 +2120,7 @@ NB! Joonisel on objektid ebaproportsionaalselt lähedal.",,"raamat, mille kaaned
 c) See on tõeline kujutis (1 p). d) Tõeline kujutis on ümberpööratud (1 p). e) Läätse eesmiselt, kumeralt pinnalt pinnalt peegeldumisel tekkiva kujutise konstrueerimine (2 p). f) See on näiv kujutis (1 p). g) Näiv kujutis on päripidine (1 p). h) Mõlemad kujutised on vähendatud, kuid tõeline kujutis on väiksem (1 p), sest esimeselt pinnalt toimub ainult peegeldumine, tagumiselt aga lisaks veel murdumine läätses: see lühendab fookuskaugust (ilma murdumiseta oleksid need mõlemal juhul võrdsed) ja seepärast on kujutis väiksem. i) Meile lähemal asub tõeline kujutis (1 p). j) Kauguse kindlakstegemiseks võib näiteks silma lähendada läätsele. Kui kaugus kujutisest saab väga väikeseks, muutub kujutis ebateravaks (1 p) Kaugusi saab kindlaks teha ka parallaksi meetodil, liigutades pead ja leides juurdeviidud eseme (pliiatsi) sellise asendi, kus see ese kujutise suhtes ei liigu.",,"koondav lääts, laelamp",12,toores,"Eksperimendi kogu Ü90, lahendus lk 72",physics-collection/problems-exp/2003-v2g-ge2.tex,problems-exp
 2003-v2g-pe1,2003,piirkonnavoor,P,E1,Ühekroonine,1,vedelike mehaanika,E,,EFO žürii,Leida ühekroonise metallraha mass.,,"Võtame topsikusse veidike vett ja asetame sinna põhja 10-sendised nii, et topsik ujub stabiilselt püstises asendis. Märgime viltpliiatsiga topsi seinale ujumissügavuse. Lisame topsi ühekroonise ja märgime uue ujumissügavuse. Mõõdame kõrguste vahe h ja topsi välisdiameetri d. Mündi mass m = $\pi \cdot$ h $\cdot$ $d_2$ $\cdot \varrho$/4, kus $\varrho$ on vee tihedus.
 
-Hindamine: Idee (3 p), tehniline teostus ja mõõtmine (3 p), mündi massi arvutamise valem (3 p), arvuline tulemus m = 5 $\pm$ 1,5 g (1 p).",,"väike silindriline plastmasstopsik, anum veega, kaks 10-sendist ja üks 1-kroonine, joonlaud, permanentne viltpliiats",10,toores,"Eksperimendi kogu Ü10, lahendus lk 37",physics-collection/problems-exp/2003-v2g-pe1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 37; siia ei ole seda ümber kirjutatud.}",,"väike silindriline plastmasstopsik, anum veega, kaks 10-sendist ja üks 1-kroonine, joonlaud, permanentne viltpliiats",10,toores_ilma_skeemita,"Eksperimendi kogu Ü10, lahendus lk 37",physics-collection/problems-exp/2003-v2g-pe1.tex,problems-exp
 2002-v3g-ge1,2002,lõppvoor,G,E1,Läätse optiline tugevus,4,geomeetriline optika,E,,EFO žürii,Hinnata läätse optilist tugevust. Põhjenduseks esitada ka joonis ning katse kirjeldus.,,"Tõmbame pliiatsiga paberile lõigu pikkusega l, näiteks l = 20 cm. Viime silma paberist kaugusele L, näiteks L = 30 cm. Viime läätse paberist sellise kaugusele a, et joonistatud lõik paistab läbi läätse täies pikkuses ulatudes servast servani. Teeme paberile sobivas mõõtkavas täpse joonise. Juuresoleval pildil OA = l/2, P B = d/2 (d on läätse diameeter), OC = L ja OP = a. Konstrueerime punkti F fokaaltasandil nii, nagu näidatud joonisel. Mõõdame fookuskauguse f , optiline tugevus D = 1/f .
 
 A
@@ -2141,7 +2189,7 @@ p. 6. Arvutada süsteemi optiline tugevus D --- 1 p. 7. Leida seos süsteemi opt
 2002-v2g-pe1,2002,piirkonnavoor,P,E1,Keha tihedus,1,vedelike mehaanika,E,,EFO žürii,Määrata keha aine tihedus.,,"Lahenduse idee --- 2 p. Teab valemeid F = mg, Fu = $\rho$gV, $\rho$ = m/V --- 1 p iga valemi eest. Määrab kehale mõjuva raskusjõu --- 1 p. Määrab kehale mõjuva üleslükkejõu vees ja arvutab keha ruumala --- 3 p. Arvutab keha tiheduse --- 1 p.",,"klaasnõu veega, keha, dünamomeeter. Vee tihedus on 1000 kg/m$^3$",10,toores,"Eksperimendi kogu Ü8, lahendus lk 37",physics-collection/problems-exp/2002-v2g-pe1.tex,problems-exp
 2002-v2g-pe2,2002,piirkonnavoor,P,E2,Kumminiit,1,dünaamika,E,,EFO žürii,Määrata kui suur töö tehakse kumminiidi venitamisel jõuga 1 N.,,"Kinnitada kumminiit statiivi klambri külge. Mõõta kumminiidi esialgne pikkus. Asetada kumminiidi otsa koormis ja mõõta kumminiidi pikkus. Arvutada kumminiidi pikenemine ehk koormise langemise kõrgus. Katset korrata mitu korda ja arvutada keskmine pikenemine. Arvutada töö, mille tegi raskusjõud koormise liikumisel allapoole. Teisendada ühikud. Vastavalt energia jäävuse seadusele on raskusjõu töö võrdne kumminiidi venitamisel tehtava tööga.
 
-Hindamine: Katse kirjeldus --- 3 p. Kumminiidi esialgse pikkuse mõõtmine --- 1 p. Koormatud kumminiidi pikkuse mõõtmine --- 1 p. Kumminiidi pikenemise määramine --- 1 p. Kordusmõõtmised --- 1 p. Aritmeetilise keskmise arvutamine --- 1 p. Töö arvutamine --- 1 p. Ühikute teisendamine --- 1 p. Energia jäävuse seaduse rakendamine --- 1 p. Tõepärane tulemus --- 1 p.",,"kumminiit, koormis massiga 100 g, joonlaud, statiiv",12,toores,"Eksperimendi kogu Ü9, lahendus lk 37",physics-collection/problems-exp/2002-v2g-pe2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 37; siia ei ole seda ümber kirjutatud.}",,"kumminiit, koormis massiga 100 g, joonlaud, statiiv",12,toores_ilma_skeemita,"Eksperimendi kogu Ü9, lahendus lk 37",physics-collection/problems-exp/2002-v2g-pe2.tex,problems-exp
 2001-v3g-ge1,2001,lõppvoor,G,E1,Taskulambipirni takistus 2,3,elektriahelad,E,,EFO žürii,Määrake taskulambipirni takistus toatemperatuuril (testri oommeetrina kasutamise eest punkte ei anta).,,"Vihje: Et taskulambipatarei pinget ei saa muuta, siis kasutage reguleeritava pinge saamiseks reostaati potentsiomeetrilises lülituses.
 
 Lahendus: Hõõglambi takistus sõltub hõõgniidi temperatuurist. Temperatuuri tõustes takistus suureneb. Hõõgniidi temperatuur sõltub voolutugevusest. Mida suurem on voolutugevus, seda suurem on temperatuur. Lambi hõõgniit on toatemperatuuril siis, kui voolutugevus lambis on 0 ehk pinge lambi hõõgniidi otstel võrdub nulliga. Mõõdame voolutugevuse lambis pinge erinevate väärtuste korral ja arvutame igal pinge väärtusele vastava takistuse väärtuse. Erilist tähelepanu tuleb pöörata mõõtmistele pinge väikestel väärtustel. Joonistame graafiku, mille ühel teljel on pinge, teisel --- takistuse väärtus. Pikendades graafiku väärtuseni U = 0, saame hõõgniidi takistuse toatemperatuuril. Pinge muutmiseks kasutame reostaati pingejagajana. Vooluringi skeem on toodud järgmisel joonisel:
@@ -2163,21 +2211,19 @@ Töö käik: 1. Valada anumasse mõõtesilindriga vett ja arvutada vee mass mv. 
 
 Lahendus: Tuleb vaadata läbi vedelike mingit eset või kujundit paberil. Teatud kauguse korral saame suurendatud kujutise. Mida suurem on kujutis, seda suurem on murdumisnäitaja, sest murdva pinna kumerus on mõlemal juhul ühesugune. Suuremale murdumisnäitajale vastab suurem murdumisnurk, sellele aga suurem kujutis. Parim seletus on joonise abil, kus on näha kujutise tekkimine läätses kahel juhul. Suuremale murdumisnäitajale vastab aga väiksem fookuskaugus.
 
-Hindamine: Idee --- 50\%, põhjendamine joonisega --- 50\%, ilma jooniseta --- 30\%.",,"korgiga suletud katseklaas, milles on värvitu ja kollane vedelik",10,toores,"Eksperimendi kogu Ü86, lahendus lk 70",physics-collection/problems-exp/2001-v2g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 70; siia ei ole seda ümber kirjutatud.}",,"korgiga suletud katseklaas, milles on värvitu ja kollane vedelik",10,toores_ilma_skeemita,"Eksperimendi kogu Ü86, lahendus lk 70",physics-collection/problems-exp/2001-v2g-ge2.tex,problems-exp
 2000-v3g-ge1,2000,lõppvoor,G,E1,Nurga joonistamine,3,geomeetriline optika,E,,EFO žürii,Joonistage valgele paberile nurk 36$^\circ$.,,"Kui kaks tasapeeglit on teineteise suhtes mingi nurga all peegelpinnad vastakuti ja
 
 peeglite vahele paigutada ese, tekib peeglites esemest mitu kujutist. Kujutiste arv
 
 sõltub peeglitevahelisest nurgast. Teatud nurkade puhul kattuvad kaks kujutist ja sel juhul saab kujutiste arvu N peeglites arvutada seosest N = 360$^\circ$/$\alpha -$ 1, kus $\alpha$ on peeglite vaheline nurk kraadides. Näiteks, kui peeglid on 90$^\circ$ nurga all, tekib kolm kujutist, 45$^\circ$ nurga puhul seitse kujutist jne.
 
-Hindamine: Idee --- 4 p, kujutiste arv 90$^\circ$ nurga korral --- 2 p, kujutiste arv näiteks 45$^\circ$ nurga korral --- 2 p, algoritmi väljatöötamine --- 2 p, täpse nurga joonestamine
-
---- 2 p.",,"valge paber, pliiats, kaks tasapeeglit",12,toores,"Eksperimendi kogu Ü85, lahendus lk 70",physics-collection/problems-exp/2000-v3g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 70; siia ei ole seda ümber kirjutatud.}",,"valge paber, pliiats, kaks tasapeeglit",12,toores_ilma_skeemita,"Eksperimendi kogu Ü85, lahendus lk 70",physics-collection/problems-exp/2000-v3g-ge1.tex,problems-exp
 2000-v3g-ge2,2000,lõppvoor,G,E2,Elektriskeem karbis,5,elektriahelad,E,,EFO žürii,Kinnises karbis on neljast detailist koosnev elektriskeem. Joonistage see skeem ja leidke detailide takistused.,,"Kinnises kastis on järgmine skeem (vt. joon.). Numbrid klemmide juures vastavad karbil olevatele numbritele. Arvulisi väärtusi: $R_1$ = (100 $\pm$ 10) $\Omega$ ja $R_2$ = (50 $\pm$ 5) $\Omega$. Dioodide takistused on vahemikus 1000 $\Omega$ kuni 2000 $\Omega$.
 
 Mõõtmine: Kõigepealt kontrollitakse multimeetriga vooluallikate olemasolu. Et antud juhul need puuduvad, siis mõõdetakse takistust iga klemmi vahel, vahetades multimeetri polaarsust. Andmete põhjal koostatakse võrrandisüsteem, mille lahendamise tulemusel saadakse elementide takistused.
 
-Hindamine: Takistuse mõõtmine iga võimaliku klemmipaari vahel mõlema polaarsuse jaoks (4 p). Võrrandite koostamine ja lahendamine (8 p). Õige elektriskeem (3 p).",,"nelja väljundklemmiga kinnine karp, oommeeter (multimeeter). Takistuse mõõtmisel on soovitav kasutada oommeetri mõõtepiirkonda ``2000 $\Omega$''",15,toores,"Eksperimendi kogu Ü161, lahendus lk 121",physics-collection/problems-exp/2000-v3g-ge2.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 121; siia ei ole seda ümber kirjutatud.}",,"nelja väljundklemmiga kinnine karp, oommeeter (multimeeter). Takistuse mõõtmisel on soovitav kasutada oommeetri mõõtepiirkonda ``2000 $\Omega$''",15,toores_ilma_skeemita,"Eksperimendi kogu Ü161, lahendus lk 121",physics-collection/problems-exp/2000-v3g-ge2.tex,problems-exp
 2000-v3g-pe1,2000,lõppvoor,P,E1,Pliiats vees,3,geomeetriline optika,E,,EFO žürii,"Asetage pliiats tühja klaasnõusse ja vaadake seda küljelt. Valage nõu poolenisti vett täis. Mida märkate? Kas nähtused olenevad pliiatsi asendist? Kui olenevad, siis kuidas? Põhjendage vastuseid.",,"Vee lisamisel esineb pliiatsi ``murdumine'' --- (1 p) Selle põhjendus --- (1 p) Nähtus oleneb pliiatsi asendist --- (1 p) Suurim on siis, kui pliiats on klaasi keskkohast kaugeimas asukohas --- (1 p)
 
 Põhjendus: jutt --- (1 p), joonis --- (1 p) Nähtus puudub kui pliiats asub vertikaalselt (1 p) klaasi keskel (1 p) Põhjendus: jutt --- (1 p), joonis --- (1 p)",,"Klaasnõu, anum veega, pliiats",10,toores,"Eksperimendi kogu Ü82, lahendus lk 68",physics-collection/problems-exp/2000-v3g-pe1.tex,problems-exp
@@ -2203,9 +2249,7 @@ Kui ühendame ampermeetri ja voltmeetri jadamisi, siis mõõdab ampermeeter volt
 Traattakistite takistuse mõõtmine oomeetriga --- 1 p. Võimalike vooluringide planeerimine (kokku on neid 4 tk.) --- 2 p. Vooluringide koostamine: kaks ühe takistiga ja kaks kahe jadamisi ühendatud takistiga --- 2 p. Voolutugevuse mõõtmine --- 1 p. Graafiku telgede määramine --- 1 p. Punktide kandmine graafikule --- 1 p. Punkte ühendava joone joonistamine --- 1 p. Kolme-oomilise juhi takistus --- 1 p.",,"lapik taskulambipatarei, kaks juhet, tester, millimeetripaber, kolm traattakistit, mille takistused on ligikaudu 1 $\Omega$, 1 $\Omega$ ja 4 $\Omega$",13,toores,"Eksperimendi kogu Ü41, lahendus lk 52",physics-collection/problems-exp/1999-v3g-pe2.tex,problems-exp
 1999-v2g-ge1,1999,piirkonnavoor,G,E1,Hõõrdetegurid,2,dünaamika,E,,EFO žürii,Hinnake kui palju erinevad hõõrdetegurid libisemisel ja veeremisel.,,"Katse: Raamatukaanest teha kaldpind ja lasta sealt alla veereda ja libiseda katsekeha. Kaane serva kõrgust mõõdetakse selles asendis, kus keha hakkas liikuma. Mõõtes kaane pikkuse raamatu seljani, saab arvutada kaldenurga.
 
-Hindamine: Meetodi väljamõtlemine (kaldpinna tegemine, pliiatsi veeremise ja libisemise saavutamine) --- 3 p. Arvutusvalemi tuletamine (joonis, õiged jõud, jõudude tasakaal, tegurite suhte avaldis) --- 4 p. Korduvate mõõtmiste tegemine ja keskmise leidmine --- 2 p. Nurkade leidmine --- 1 p. Suhte leidmine --- 1 p. Vea hinnang: nö. ``silma järgi'' --- 1 p; mingi arvutuse abil --- 2 p.
-
-Märkusi: Silindriliseks kehaks sobib pliiats, kudumisvarras, ilma peata nael vms.",,"suurem kõvakaaneline raamat, silindriline keha, joonlaud",11,toores,"Eksperimendi kogu Ü39, lahendus lk 51",physics-collection/problems-exp/1999-v2g-ge1.tex,problems-exp
+\textit{Žürii hindamisskeem on kogumikus lk 51; siia ei ole seda ümber kirjutatud.}",,"suurem kõvakaaneline raamat, silindriline keha, joonlaud",11,toores_ilma_skeemita,"Eksperimendi kogu Ü39, lahendus lk 51",physics-collection/problems-exp/1999-v2g-ge1.tex,problems-exp
 1999-v2g-ge2,1999,piirkonnavoor,G,E2,Vedeliku tihedus,2,vedelike mehaanika,E,,EFO žürii,Määrake vedeliku tihedus.,,"Teooria: Vedelikku asetatud kehale mõjub üleslükkejõud F = $\rho$vgV (1 p). Keha ujub vedeliku pinnal siis, kui kehale mõjuv üleslükkejõud on arvuliselt võrdne kehale mõjuva raskusjõuga mg = $\rho$vgV (1 p), kus ruumalana on arvestatud keha vedelikus oleva osa ruumala (1 p). Ujumise tingimusest saab arvutada vedeliku tiheduse $\rho$v = mg/gV (1 p). Tähistades tühja topsiku massi $m_1$, saab tühja topsiku ujumise tingimuse kirjutada üles seosega m1g = $\rho$vgV1, kus $V_1$ on topsiku vedelikku sukeldatud osa ruumala (1 p). Kui topsikusse on asetatud tuntud massiga m$^2$ keha, vajub topsik sügavamale vedelikku ja kehtib seos ($m_1$ + m$^2$)g = $\rho$vgV2, kus $V_2$ on topsiku vedelikus oleva osa ruumala (1 p). Lahutades teisest seosest esimese ning teisendades valemit, saame vedeliku tiheduse arvutada seosest $\rho$v = m$^2$/($V_2$ $-$ $V_1$) (1 p). Koormisega ja koormiseta topsiku poolt väljatõrjutud vedeliku ruumala muudu arvutame seosest $\Delta$V = $\pi$$d_2$($l_2$ $-$ $l_1$)/4, kus kus d tähistab anuma diameetrit ning $l_1$ ja $l_2$ tähistavad vedeliku nivoosid (1 p). Kui mingi mõõdetava suuruse x suhteline mõõtmisviga on Ex = $\Delta$x/x, siis tema ruudu viga Ex2 = 2$\Delta$x/x (1 p) (korrutise suhteline viga on tegurite suhteliste vigade summa).
 
 Mõõtmised: Asetame topsiku vedelikku ja mõõdame vedeliku nivoo. Asetame koormise topsikusse ja mõõdame uuesti vedeliku nivoo. Mõõdame anuma läbimõõdu (2 p).
